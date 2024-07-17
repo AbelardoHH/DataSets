@@ -1,0 +1,101 @@
+Animal_ID,Especie,Temperatura,Frecuencia_Cardiaca,Frecuencia_Respiratoria,Hidratación,Hemograma_Completo,Análisis_Urina,Bioquímica_Sanguínea,Observaciones_Físicas,Síntomas,Comportamiento,Historial_Médico,Alimentación,Condiciones_vida,Clasificación_Enfermedad
+1,Gato,39.5°C,122 bpm,30 rpm,Deshidratado,Leucocitos altos,Sangre en orina,Enzimas hepáticas altas,Sin anomalías,Estornudos,Apático,Actualizado,Comida casera,Exterior,Policitemia
+2,Perro,38.4°C,123 bpm,31 rpm,Normal,Normal,Proteína alta,Enzimas hepáticas altas,Rascarse excesivo,Letargia,Agresivo,Sin vacunas,Comida casera,Rural,Diabetes Mellitus
+3,Perro,39.2°C,141 bpm,34 rpm,Normal,Hemoglobina alta,Sangre en orina,Normal,Sin anomalías,Ninguno,Agresivo,Actualizado,Comida seca,Interior total,Policitemia
+4,Gato,37.2°C,155 bpm,23 rpm,Normal,Hemoglobina alta,Proteína alta,Creatinina alta,Pérdida de pelo,Vómitos,Normal,Actualizado,Comida casera,Interior,Anemia
+5,Perro,37.4°C,160 bpm,35 rpm,Normal,Hemoglobina baja,Normal,Creatinina alta,Pérdida de pelo,Letargia,Agresivo,Actualizado,Comida casera,Rural,Policitemia
+6,Gato,38.4°C,99 bpm,26 rpm,Deshidratado,Leucocitos altos,Normal,Normal,Vómitos y diarrea,Letargia,Apático,Actualizado,Comida casera,Interior total,Alergias
+7,Gato,37.4°C,94 bpm,23 rpm,Deshidratado,Hemoglobina alta,Sangre en orina,Glucosa alta,Vómitos y diarrea,Vómitos,Agresivo,Actualizado,Comida seca,Rural,Policitemia
+8,Gato,38.2°C,149 bpm,25 rpm,Normal,Normal,Normal,Creatinina alta,Rascarse excesivo,Ninguno,Normal,Sin vacunas,Comida casera,Exterior total,Leucopenia
+9,Perro,38.6°C,152 bpm,29 rpm,Normal,Normal,Sangre en orina,Creatinina alta,Pérdida de pelo,Letargia,Apático,Sin vacunas,Comida casera,Interior,Policitemia
+10,Gato,39.4°C,157 bpm,25 rpm,Normal,Leucocitos bajos,Normal,Normal,Sin anomalías,Letargia,Normal,Sin vacunas,Comida casera,Interior total,Insuficiencia Renal
+11,Perro,37.6°C,160 bpm,32 rpm,Normal,Leucocitos bajos,Proteína alta,Creatinina alta,Vómitos y diarrea,Estornudos,Apático,Sin vacunas,Comida casera,Exterior,Gastroenteritis
+12,Perro,38.1°C,101 bpm,30 rpm,Deshidratado,Hemoglobina baja,Proteína alta,Creatinina alta,Secreción nasal,Letargia,Apático,Sin vacunas,Comida casera,Interior,Infección Respiratoria
+13,Gato,38.2°C,120 bpm,23 rpm,Normal,Leucocitos altos,Sangre en orina,Creatinina alta,Pérdida de pelo,Vómitos,Normal,Actualizado,Comida seca,Rural,Policitemia
+14,Gato,38.8°C,159 bpm,23 rpm,Normal,Hemoglobina baja,Sangre en orina,Creatinina alta,Ictericia,Estornudos,Normal,Sin vacunas,Comida seca,Rural,Leucopenia
+15,Perro,37.3°C,149 bpm,33 rpm,Normal,Hemoglobina alta,Sangre en orina,Normal,Ictericia,Letargia,Apático,Actualizado,Comida casera,Interior,Leucopenia
+16,Gato,39.6°C,151 bpm,31 rpm,Deshidratado,Normal,Sangre en orina,Glucosa alta,Pérdida de pelo,Vómitos,Agresivo,Actualizado,Comida seca,Interior,Hepatitis
+17,Gato,37.4°C,99 bpm,29 rpm,Normal,Leucocitos altos,Proteína alta,Glucosa alta,Ictericia,Vómitos,Normal,Sin vacunas,Comida casera,Rural,Alergias
+18,Gato,40.0°C,152 bpm,27 rpm,Normal,Hemoglobina baja,Normal,Normal,Pérdida de pelo,Ninguno,Normal,Actualizado,Comida casera,Exterior total,Gastroenteritis
+19,Perro,38.7°C,149 bpm,27 rpm,Deshidratado,Hemoglobina baja,Proteína alta,Normal,Secreción nasal,Ninguno,Agresivo,Sin vacunas,Comida seca,Exterior,Anemia
+20,Perro,39.0°C,131 bpm,35 rpm,Deshidratado,Leucocitos bajos,Sangre en orina,Enzimas hepáticas altas,Pérdida de pelo,Estornudos,Agresivo,Actualizado,Comida casera,Exterior,Policitemia
+21,Gato,39.4°C,125 bpm,34 rpm,Deshidratado,Normal,Sangre en orina,Enzimas hepáticas altas,Secreción nasal,Letargia,Apático,Actualizado,Comida casera,Exterior,Insuficiencia Renal
+22,Gato,37.7°C,90 bpm,34 rpm,Deshidratado,Leucocitos bajos,Normal,Normal,Vómitos y diarrea,Vómitos,Agresivo,Actualizado,Comida seca,Urbanizado,Policitemia
+23,Perro,37.8°C,106 bpm,25 rpm,Deshidratado,Hemoglobina alta,Proteína alta,Creatinina alta,Ictericia,Estornudos,Normal,Sin vacunas,Comida seca,Exterior,Anemia
+24,Gato,39.9°C,116 bpm,20 rpm,Deshidratado,Normal,Normal,Creatinina alta,Pérdida de pelo,Letargia,Apático,Sin vacunas,Comida casera,Exterior total,Hepatitis
+25,Perro,37.1°C,114 bpm,23 rpm,Deshidratado,Leucocitos altos,Normal,Normal,Ictericia,Letargia,Agresivo,Sin vacunas,Comida casera,Interior,Diabetes Mellitus
+26,Perro,39.8°C,120 bpm,28 rpm,Normal,Leucocitos altos,Proteína alta,Normal,Ictericia,Letargia,Normal,Sin vacunas,Comida seca,Interior total,Gastroenteritis
+27,Gato,38.6°C,95 bpm,31 rpm,Normal,Hemoglobina alta,Proteína alta,Creatinina alta,Vómitos y diarrea,Ninguno,Normal,Actualizado,Comida casera,Interior total,Gastroenteritis
+28,Perro,39.6°C,145 bpm,22 rpm,Deshidratado,Leucocitos bajos,Normal,Glucosa alta,Sin anomalías,Ninguno,Agresivo,Sin vacunas,Comida casera,Interior,Anemia
+29,Gato,39.9°C,122 bpm,24 rpm,Deshidratado,Hemoglobina baja,Normal,Enzimas hepáticas altas,Pérdida de pelo,Estornudos,Agresivo,Actualizado,Comida seca,Urbanizado,Hepatitis
+30,Perro,39.3°C,120 bpm,23 rpm,Deshidratado,Leucocitos altos,Normal,Enzimas hepáticas altas,Sin anomalías,Vómitos,Apático,Actualizado,Comida casera,Exterior total,Insuficiencia Renal
+31,Perro,38.6°C,106 bpm,32 rpm,Normal,Hemoglobina baja,Normal,Glucosa alta,Vómitos y diarrea,Estornudos,Apático,Sin vacunas,Comida casera,Exterior total,Alergias
+32,Perro,37.5°C,103 bpm,27 rpm,Normal,Leucocitos bajos,Proteína alta,Creatinina alta,Pérdida de pelo,Vómitos,Apático,Sin vacunas,Comida casera,Exterior,Alergias
+33,Perro,37.7°C,147 bpm,20 rpm,Deshidratado,Normal,Proteína alta,Creatinina alta,Ictericia,Ninguno,Normal,Sin vacunas,Comida casera,Rural,Gastroenteritis
+34,Gato,38.7°C,132 bpm,23 rpm,Normal,Hemoglobina alta,Proteína alta,Enzimas hepáticas altas,Secreción nasal,Vómitos,Agresivo,Sin vacunas,Comida casera,Rural,Alergias
+35,Perro,40.0°C,154 bpm,34 rpm,Deshidratado,Leucocitos bajos,Normal,Normal,Secreción nasal,Estornudos,Normal,Sin vacunas,Comida seca,Interior total,Infección Respiratoria
+36,Perro,39.8°C,97 bpm,24 rpm,Normal,Hemoglobina baja,Sangre en orina,Enzimas hepáticas altas,Rascarse excesivo,Ninguno,Agresivo,Actualizado,Comida seca,Interior,Alergias
+37,Gato,39.8°C,94 bpm,28 rpm,Deshidratado,Leucocitos bajos,Proteína alta,Enzimas hepáticas altas,Ictericia,Estornudos,Normal,Actualizado,Comida seca,Interior total,Alergias
+38,Gato,37.3°C,95 bpm,22 rpm,Normal,Hemoglobina baja,Normal,Glucosa alta,Vómitos y diarrea,Ninguno,Apático,Sin vacunas,Comida seca,Rural,Hepatitis
+39,Gato,38.0°C,151 bpm,27 rpm,Deshidratado,Hemoglobina baja,Sangre en orina,Glucosa alta,Rascarse excesivo,Vómitos,Normal,Sin vacunas,Comida casera,Exterior,Infección Respiratoria
+40,Gato,39.9°C,158 bpm,29 rpm,Normal,Leucocitos bajos,Sangre en orina,Glucosa alta,Secreción nasal,Ninguno,Normal,Sin vacunas,Comida casera,Interior,Hepatitis
+41,Perro,39.7°C,99 bpm,35 rpm,Deshidratado,Leucocitos bajos,Sangre en orina,Normal,Rascarse excesivo,Estornudos,Apático,Sin vacunas,Comida seca,Rural,Diabetes Mellitus
+42,Perro,39.5°C,112 bpm,33 rpm,Deshidratado,Normal,Sangre en orina,Enzimas hepáticas altas,Ictericia,Vómitos,Apático,Sin vacunas,Comida seca,Urbanizado,Diabetes Mellitus
+43,Perro,38.7°C,97 bpm,24 rpm,Normal,Leucocitos bajos,Sangre en orina,Glucosa alta,Ictericia,Estornudos,Apático,Actualizado,Comida casera,Interior total,Alergias
+44,Gato,38.9°C,128 bpm,26 rpm,Deshidratado,Hemoglobina alta,Normal,Normal,Sin anomalías,Letargia,Normal,Actualizado,Comida casera,Interior,Leucopenia
+45,Perro,39.6°C,138 bpm,28 rpm,Deshidratado,Hemoglobina baja,Normal,Enzimas hepáticas altas,Sin anomalías,Estornudos,Normal,Actualizado,Comida seca,Interior total,Infección Respiratoria
+46,Perro,37.1°C,159 bpm,28 rpm,Normal,Normal,Normal,Glucosa alta,Vómitos y diarrea,Ninguno,Agresivo,Actualizado,Comida seca,Exterior,Diabetes Mellitus
+47,Gato,38.9°C,93 bpm,20 rpm,Normal,Leucocitos altos,Sangre en orina,Glucosa alta,Pérdida de pelo,Letargia,Agresivo,Sin vacunas,Comida seca,Interior,Infección Respiratoria
+48,Perro,37.9°C,151 bpm,25 rpm,Deshidratado,Hemoglobina baja,Proteína alta,Creatinina alta,Secreción nasal,Estornudos,Normal,Sin vacunas,Comida casera,Exterior,Anemia
+49,Gato,39.3°C,109 bpm,32 rpm,Deshidratado,Leucocitos altos,Normal,Glucosa alta,Sin anomalías,Ninguno,Apático,Sin vacunas,Comida seca,Interior total,Alergias
+50,Gato,39.6°C,147 bpm,29 rpm,Normal,Normal,Normal,Normal,Pérdida de pelo,Letargia,Normal,Actualizado,Comida seca,Exterior,Hepatitis
+51,Perro,39.7°C,134 bpm,31 rpm,Deshidratado,Normal,Proteína alta,Normal,Vómitos y diarrea,Vómitos,Agresivo,Sin vacunas,Comida seca,Urbanizado,Gastroenteritis
+52,Gato,38.2°C,134 bpm,25 rpm,Deshidratado,Hemoglobina baja,Sangre en orina,Glucosa alta,Pérdida de pelo,Estornudos,Apático,Sin vacunas,Comida casera,Interior total,Infección Respiratoria
+53,Gato,37.6°C,101 bpm,30 rpm,Normal,Normal,Proteína alta,Enzimas hepáticas altas,Sin anomalías,Estornudos,Agresivo,Actualizado,Comida casera,Interior total,Policitemia
+54,Perro,38.7°C,124 bpm,20 rpm,Normal,Leucocitos altos,Normal,Enzimas hepáticas altas,Pérdida de pelo,Estornudos,Normal,Sin vacunas,Comida seca,Interior,Infección Respiratoria
+55,Gato,39.1°C,144 bpm,26 rpm,Deshidratado,Hemoglobina alta,Proteína alta,Creatinina alta,Pérdida de pelo,Estornudos,Apático,Sin vacunas,Comida seca,Interior,Insuficiencia Renal
+56,Gato,37.7°C,114 bpm,23 rpm,Normal,Hemoglobina baja,Sangre en orina,Creatinina alta,Pérdida de pelo,Ninguno,Normal,Sin vacunas,Comida seca,Exterior total,Alergias
+57,Gato,37.8°C,147 bpm,21 rpm,Normal,Hemoglobina alta,Normal,Normal,Vómitos y diarrea,Vómitos,Normal,Sin vacunas,Comida casera,Rural,Insuficiencia Renal
+58,Gato,37.7°C,108 bpm,23 rpm,Normal,Hemoglobina baja,Normal,Glucosa alta,Sin anomalías,Letargia,Agresivo,Actualizado,Comida casera,Rural,Diabetes Mellitus
+59,Perro,39.8°C,135 bpm,25 rpm,Normal,Normal,Sangre en orina,Enzimas hepáticas altas,Ictericia,Estornudos,Normal,Actualizado,Comida casera,Exterior total,Leucopenia
+60,Perro,39.9°C,107 bpm,20 rpm,Deshidratado,Hemoglobina baja,Normal,Creatinina alta,Sin anomalías,Estornudos,Apático,Actualizado,Comida seca,Exterior,Leucopenia
+61,Gato,39.3°C,143 bpm,25 rpm,Normal,Leucocitos altos,Proteína alta,Enzimas hepáticas altas,Rascarse excesivo,Ninguno,Normal,Sin vacunas,Comida seca,Interior,Policitemia
+62,Gato,37.8°C,129 bpm,28 rpm,Deshidratado,Normal,Sangre en orina,Normal,Sin anomalías,Letargia,Normal,Sin vacunas,Comida casera,Interior total,Policitemia
+63,Gato,39.1°C,131 bpm,23 rpm,Deshidratado,Leucocitos bajos,Sangre en orina,Glucosa alta,Ictericia,Letargia,Apático,Sin vacunas,Comida seca,Urbanizado,Hepatitis
+64,Gato,39.7°C,135 bpm,34 rpm,Deshidratado,Normal,Proteína alta,Normal,Secreción nasal,Ninguno,Normal,Actualizado,Comida casera,Exterior total,Leucopenia
+65,Gato,39.5°C,102 bpm,21 rpm,Deshidratado,Leucocitos bajos,Sangre en orina,Glucosa alta,Pérdida de pelo,Vómitos,Agresivo,Sin vacunas,Comida seca,Interior total,Insuficiencia Renal
+66,Gato,38.3°C,106 bpm,20 rpm,Deshidratado,Leucocitos bajos,Proteína alta,Glucosa alta,Ictericia,Ninguno,Normal,Sin vacunas,Comida seca,Exterior total,Hepatitis
+67,Gato,37.3°C,152 bpm,25 rpm,Normal,Leucocitos bajos,Sangre en orina,Glucosa alta,Pérdida de pelo,Letargia,Agresivo,Sin vacunas,Comida seca,Exterior total,Policitemia
+68,Perro,39.5°C,100 bpm,22 rpm,Deshidratado,Hemoglobina alta,Normal,Enzimas hepáticas altas,Vómitos y diarrea,Estornudos,Agresivo,Sin vacunas,Comida seca,Interior,Policitemia
+69,Gato,39.4°C,105 bpm,30 rpm,Normal,Leucocitos altos,Normal,Glucosa alta,Secreción nasal,Ninguno,Agresivo,Sin vacunas,Comida seca,Exterior total,Alergias
+70,Gato,38.4°C,156 bpm,31 rpm,Deshidratado,Leucocitos bajos,Sangre en orina,Enzimas hepáticas altas,Rascarse excesivo,Vómitos,Agresivo,Actualizado,Comida casera,Interior,Hepatitis
+71,Perro,37.4°C,101 bpm,32 rpm,Deshidratado,Hemoglobina alta,Normal,Creatinina alta,Rascarse excesivo,Letargia,Normal,Sin vacunas,Comida casera,Interior total,Insuficiencia Renal
+72,Perro,39.6°C,106 bpm,23 rpm,Normal,Hemoglobina baja,Sangre en orina,Normal,Pérdida de pelo,Estornudos,Apático,Actualizado,Comida seca,Interior,Alergias
+73,Perro,39.4°C,90 bpm,33 rpm,Normal,Leucocitos bajos,Sangre en orina,Glucosa alta,Pérdida de pelo,Letargia,Agresivo,Actualizado,Comida casera,Interior,Insuficiencia Renal
+74,Perro,38.5°C,110 bpm,27 rpm,Deshidratado,Leucocitos altos,Normal,Glucosa alta,Pérdida de pelo,Estornudos,Normal,Sin vacunas,Comida casera,Exterior total,Alergias
+75,Perro,37.5°C,115 bpm,33 rpm,Normal,Normal,Proteína alta,Normal,Secreción nasal,Ninguno,Apático,Actualizado,Comida seca,Urbanizado,Insuficiencia Renal
+76,Gato,37.7°C,144 bpm,27 rpm,Deshidratado,Leucocitos bajos,Proteína alta,Creatinina alta,Secreción nasal,Vómitos,Normal,Sin vacunas,Comida casera,Interior,Gastroenteritis
+77,Perro,38.2°C,95 bpm,24 rpm,Deshidratado,Hemoglobina alta,Sangre en orina,Normal,Sin anomalías,Estornudos,Apático,Sin vacunas,Comida casera,Urbanizado,Alergias
+78,Perro,39.1°C,118 bpm,22 rpm,Normal,Leucocitos bajos,Proteína alta,Enzimas hepáticas altas,Pérdida de pelo,Vómitos,Agresivo,Sin vacunas,Comida seca,Exterior total,Hepatitis
+79,Perro,39.3°C,98 bpm,28 rpm,Normal,Leucocitos altos,Proteína alta,Enzimas hepáticas altas,Pérdida de pelo,Ninguno,Apático,Actualizado,Comida casera,Exterior total,Diabetes Mellitus
+80,Gato,38.6°C,137 bpm,20 rpm,Normal,Hemoglobina baja,Proteína alta,Creatinina alta,Rascarse excesivo,Ninguno,Agresivo,Actualizado,Comida seca,Exterior total,Insuficiencia Renal
+81,Perro,38.5°C,107 bpm,26 rpm,Deshidratado,Hemoglobina alta,Proteína alta,Enzimas hepáticas altas,Secreción nasal,Estornudos,Apático,Sin vacunas,Comida seca,Interior,Alergias
+82,Perro,37.8°C,108 bpm,28 rpm,Deshidratado,Hemoglobina baja,Sangre en orina,Enzimas hepáticas altas,Pérdida de pelo,Vómitos,Apático,Sin vacunas,Comida casera,Rural,Policitemia
+83,Gato,40.0°C,160 bpm,34 rpm,Normal,Normal,Sangre en orina,Normal,Vómitos y diarrea,Estornudos,Normal,Actualizado,Comida seca,Rural,Alergias
+84,Perro,37.4°C,134 bpm,24 rpm,Normal,Leucocitos altos,Proteína alta,Glucosa alta,Pérdida de pelo,Ninguno,Apático,Sin vacunas,Comida seca,Rural,Gastroenteritis
+85,Gato,37.5°C,142 bpm,23 rpm,Deshidratado,Leucocitos bajos,Proteína alta,Normal,Ictericia,Letargia,Agresivo,Sin vacunas,Comida seca,Exterior,Infección Respiratoria
+86,Perro,37.3°C,122 bpm,20 rpm,Deshidratado,Normal,Sangre en orina,Enzimas hepáticas altas,Vómitos y diarrea,Letargia,Apático,Actualizado,Comida casera,Interior total,Anemia
+87,Gato,37.8°C,111 bpm,34 rpm,Normal,Leucocitos bajos,Proteína alta,Enzimas hepáticas altas,Sin anomalías,Estornudos,Agresivo,Sin vacunas,Comida seca,Urbanizado,Diabetes Mellitus
+88,Gato,37.5°C,114 bpm,20 rpm,Deshidratado,Leucocitos bajos,Normal,Normal,Pérdida de pelo,Letargia,Normal,Sin vacunas,Comida seca,Exterior total,Diabetes Mellitus
+89,Perro,37.7°C,153 bpm,31 rpm,Deshidratado,Leucocitos altos,Normal,Creatinina alta,Secreción nasal,Letargia,Apático,Actualizado,Comida seca,Interior total,Insuficiencia Renal
+90,Gato,38.9°C,129 bpm,25 rpm,Normal,Leucocitos altos,Normal,Normal,Sin anomalías,Vómitos,Agresivo,Actualizado,Comida seca,Interior,Insuficiencia Renal
+91,Perro,39.2°C,143 bpm,31 rpm,Deshidratado,Leucocitos bajos,Proteína alta,Glucosa alta,Pérdida de pelo,Ninguno,Apático,Sin vacunas,Comida casera,Interior total,Leucopenia
+92,Perro,39.2°C,102 bpm,22 rpm,Normal,Hemoglobina alta,Proteína alta,Enzimas hepáticas altas,Ictericia,Ninguno,Normal,Sin vacunas,Comida seca,Interior total,Anemia
+93,Gato,38.3°C,127 bpm,25 rpm,Deshidratado,Hemoglobina alta,Sangre en orina,Normal,Sin anomalías,Ninguno,Agresivo,Actualizado,Comida casera,Exterior,Alergias
+94,Gato,37.4°C,102 bpm,35 rpm,Deshidratado,Leucocitos bajos,Normal,Normal,Sin anomalías,Vómitos,Agresivo,Actualizado,Comida seca,Interior,Alergias
+95,Gato,39.8°C,119 bpm,32 rpm,Normal,Normal,Sangre en orina,Creatinina alta,Secreción nasal,Letargia,Agresivo,Actualizado,Comida casera,Interior,Diabetes Mellitus
+96,Gato,38.9°C,116 bpm,26 rpm,Deshidratado,Leucocitos bajos,Normal,Normal,Sin anomalías,Estornudos,Apático,Actualizado,Comida seca,Exterior total,Gastroenteritis
+97,Perro,37.9°C,143 bpm,29 rpm,Deshidratado,Hemoglobina alta,Normal,Normal,Sin anomalías,Letargia,Normal,Actualizado,Comida seca,Exterior total,Anemia
+98,Gato,37.8°C,144 bpm,20 rpm,Deshidratado,Leucocitos bajos,Proteína alta,Enzimas hepáticas altas,Ictericia,Letargia,Apático,Actualizado,Comida casera,Exterior total,Leucopenia
+99,Perro,39.4°C,153 bpm,23 rpm,Deshidratado,Leucocitos bajos,Normal,Enzimas hepáticas altas,Pérdida de pelo,Letargia,Agresivo,Sin vacunas,Comida casera,Exterior total,Gastroenteritis
+100,Gato,37.8°C,92 bpm,26 rpm,Deshidratado,Leucocitos altos,Sangre en orina,Creatinina alta,Pérdida de pelo,Estornudos,Normal,Sin vacunas,Comida seca,Interior total,Diabetes Mellitus
