@@ -1,0 +1,2001 @@
+Cliente_ID,Fecha_Visita,Tipo_Servicio,Tiempo_Espera,Duración_Atención,Costo_Servicio,Personal_Atención,Calidad_Atención,Instalaciones,Comunicación,Facilidad_Pago,Experiencia_Cliente,Recomendaciones,Satisfaccion_cliente
+1,01/01/2024,Cirugías,15,30,9843,MVZ. Eddie Hernández Vidal,5,1,4,4,Regular,Sí,Muy Satisfecho
+2,02/01/2024,Urgencias,54,5,8210,MVZ. Eddie Hernández Vidal,4,3,3,1,Regular,No,Satisfecho
+3,03/01/2024,Vacunación,32,112,9425,MVZ. Eddie Hernández Vidal,5,3,4,3,Mala,Sí,Muy Satisfecho
+4,04/01/2024,Vacunación,44,167,7037,MVZ. Eddie Hernández Vidal,4,3,5,2,Mala,No,Muy Satisfecho
+5,05/01/2024,Hospitalización,16,130,5750,MVZ. Eddie Hernández Vidal,3,5,5,2,Pesima,No,Muy Satisfecho
+6,06/01/2024,Vacunación,50,117,5114,MVZ. Eddie Hernández Vidal,5,4,5,1,Regular,Sí,Muy Satisfecho
+7,07/01/2024,Cirugías,51,48,7727,MVZ. Eddie Hernández Vidal,1,4,1,1,Mala,No,Algo satisfecho
+8,08/01/2024,Servicio a domicilio,44,170,2826,MVZ. Eddie Hernández Vidal,3,2,1,5,Regular,Sí,Satisfecho
+9,09/01/2024,Desparacitación,50,112,7509,MVZ. Eddie Hernández Vidal,4,1,3,1,Regular,Sí,Algo satisfecho
+10,10/01/2024,Hospitalización,49,47,8826,MVZ. Eddie Hernández Vidal,1,5,3,3,Pesima,Sí,Satisfecho
+11,11/01/2024,Ultrasonido,11,98,5857,MVZ. Eddie Hernández Vidal,5,5,4,1,Regular,No,Muy Satisfecho
+12,12/01/2024,Estética,15,6,4005,MVZ. Eddie Hernández Vidal,2,2,2,4,Regular,No,Satisfecho
+13,13/01/2024,Estética,25,28,7166,MVZ. Eddie Hernández Vidal,4,1,3,3,Regular,No,Satisfecho
+14,14/01/2024,Consulta general,21,93,4867,MVZ. Eddie Hernández Vidal,5,3,1,4,Regular,Sí,Satisfecho
+15,15/01/2024,Ultrasonido,22,94,6135,MVZ. Eddie Hernández Vidal,5,2,1,3,Pesima,No,Satisfecho
+16,16/01/2024,Hospitalización,17,74,1057,MVZ. Eddie Hernández Vidal,4,3,2,1,Regular,Sí,Satisfecho
+17,17/01/2024,Hospitalización,28,155,7791,MVZ. Eddie Hernández Vidal,4,3,2,5,Pesima,No,Muy Satisfecho
+18,18/01/2024,Estética,58,85,6623,MVZ. Eddie Hernández Vidal,4,3,2,3,Buena,No,Satisfecho
+19,19/01/2024,Consulta general,27,100,1309,MVZ. Eddie Hernández Vidal,5,3,1,1,Buena,Sí,Satisfecho
+20,20/01/2024,Cirugías,44,102,2933,MVZ. Eddie Hernández Vidal,3,4,4,2,Pesima,Sí,Satisfecho
+21,21/01/2024,Estética,8,36,5324,MVZ. Eddie Hernández Vidal,2,2,1,2,Regular,No,Algo satisfecho
+22,22/01/2024,Desparacitación,27,57,5999,MVZ. Eddie Hernández Vidal,5,5,4,2,Pesima,No,Muy Satisfecho
+23,23/01/2024,Vacunación,28,69,7816,MVZ. Eddie Hernández Vidal,4,1,3,3,Buena,No,Satisfecho
+24,24/01/2024,Urgencias,39,13,9521,MVZ. Eddie Hernández Vidal,3,4,1,1,Mala,No,Algo satisfecho
+25,25/01/2024,Vacunación,43,29,4460,MVZ. Eddie Hernández Vidal,2,2,2,5,Regular,Sí,Satisfecho
+26,26/01/2024,Cirugías,39,75,419,MVZ. Eddie Hernández Vidal,3,3,4,2,Pesima,No,Satisfecho
+27,27/01/2024,Urgencias,35,80,6218,MVZ. Eddie Hernández Vidal,4,4,2,2,Buena,Sí,Satisfecho
+28,28/01/2024,Servicio a domicilio,30,67,5965,MVZ. Eddie Hernández Vidal,2,1,2,1,Mala,Sí,Algo satisfecho
+29,29/01/2024,Vacunación,52,106,8376,MVZ. Eddie Hernández Vidal,3,3,1,5,Buena,No,Satisfecho
+30,30/01/2024,Estética,41,76,8735,MVZ. Eddie Hernández Vidal,3,2,5,5,Buena,No,Muy Satisfecho
+31,31/01/2024,Consulta general,54,30,3211,MVZ. Eddie Hernández Vidal,3,4,2,3,Buena,No,Satisfecho
+32,01/02/2024,Vacunación,9,47,6710,MVZ. Eddie Hernández Vidal,2,3,5,3,Mala,Sí,Satisfecho
+33,02/02/2024,Vacunación,54,138,7483,MVZ. Eddie Hernández Vidal,4,4,1,1,Regular,Sí,Satisfecho
+34,03/02/2024,Vacunación,52,170,6552,MVZ. Eddie Hernández Vidal,2,3,4,3,Buena,Sí,Satisfecho
+35,04/02/2024,Hospitalización,43,137,660,MVZ. Eddie Hernández Vidal,3,3,5,2,Mala,Sí,Satisfecho
+36,05/02/2024,Urgencias,17,47,9602,MVZ. Eddie Hernández Vidal,3,3,4,5,Regular,No,Muy Satisfecho
+37,06/02/2024,Consulta general,50,17,1127,MVZ. Eddie Hernández Vidal,4,4,5,5,Regular,No,Extremadamente satisfecho
+38,07/02/2024,Urgencias,16,21,2158,MVZ. Eddie Hernández Vidal,1,5,2,1,Regular,Sí,Algo satisfecho
+39,08/02/2024,Desparacitación,0,74,6532,MVZ. Eddie Hernández Vidal,4,1,5,1,Pesima,Sí,Satisfecho
+40,09/02/2024,Hospitalización,26,18,9465,MVZ. Eddie Hernández Vidal,2,4,1,3,Pesima,No,Satisfecho
+41,10/02/2024,Vacunación,7,16,4109,MVZ. Eddie Hernández Vidal,3,2,2,1,Mala,Sí,Algo satisfecho
+42,11/02/2024,Servicio a domicilio,54,111,7378,MVZ. Eddie Hernández Vidal,5,1,2,1,Buena,No,Algo satisfecho
+43,12/02/2024,Hospitalización,18,44,9669,MVZ. Eddie Hernández Vidal,3,1,3,2,Pesima,No,Algo satisfecho
+44,13/02/2024,Servicio a domicilio,58,5,4421,MVZ. Eddie Hernández Vidal,1,3,1,3,Buena,Sí,Algo satisfecho
+45,14/02/2024,Urgencias,11,157,3376,MVZ. Eddie Hernández Vidal,1,2,3,4,Mala,Sí,Satisfecho
+46,15/02/2024,Urgencias,57,117,8856,MVZ. Eddie Hernández Vidal,4,4,4,2,Pesima,Sí,Muy Satisfecho
+47,16/02/2024,Desparacitación,58,160,2638,MVZ. Eddie Hernández Vidal,5,3,4,4,Pesima,Sí,Muy Satisfecho
+48,17/02/2024,Cirugías,12,124,5911,MVZ. Eddie Hernández Vidal,2,2,2,3,Buena,No,Algo satisfecho
+49,18/02/2024,Cirugías,13,163,2496,MVZ. Eddie Hernández Vidal,4,2,1,3,Mala,No,Satisfecho
+50,19/02/2024,Ultrasonido,8,157,7029,MVZ. Eddie Hernández Vidal,3,1,5,5,Buena,No,Muy Satisfecho
+51,20/02/2024,Estética,40,131,9202,MVZ. Eddie Hernández Vidal,5,2,1,5,Pesima,Sí,Satisfecho
+52,21/02/2024,Desparacitación,18,99,113,MVZ. Eddie Hernández Vidal,3,5,1,1,Buena,Sí,Satisfecho
+53,22/02/2024,Consulta general,17,126,3962,MVZ. Eddie Hernández Vidal,5,2,5,4,Mala,No,Muy Satisfecho
+54,23/02/2024,Desparacitación,42,115,3416,MVZ. Eddie Hernández Vidal,5,5,1,1,Pesima,No,Satisfecho
+55,24/02/2024,Estética,44,165,7201,MVZ. Eddie Hernández Vidal,5,3,4,3,Pesima,Sí,Muy Satisfecho
+56,25/02/2024,Consulta general,34,66,7612,MVZ. Eddie Hernández Vidal,2,4,1,3,Pesima,No,Satisfecho
+57,26/02/2024,Consulta general,11,91,6658,MVZ. Eddie Hernández Vidal,5,4,4,1,Pesima,Sí,Muy Satisfecho
+58,27/02/2024,Hospitalización,23,52,9198,MVZ. Eddie Hernández Vidal,4,5,4,4,Regular,Sí,Muy Satisfecho
+59,28/02/2024,Vacunación,6,141,4839,MVZ. Eddie Hernández Vidal,1,1,5,3,Regular,No,Satisfecho
+60,29/02/2024,Ultrasonido,14,8,9301,MVZ. Eddie Hernández Vidal,5,4,2,5,Regular,No,Muy Satisfecho
+61,01/03/2024,Hospitalización,46,105,7300,MVZ. Eddie Hernández Vidal,2,2,4,5,Buena,No,Satisfecho
+62,02/03/2024,Servicio a domicilio,54,65,7819,MVZ. Eddie Hernández Vidal,3,4,3,5,Mala,Sí,Muy Satisfecho
+63,03/03/2024,Urgencias,50,64,9700,MVZ. Eddie Hernández Vidal,5,3,5,2,Pesima,Sí,Muy Satisfecho
+64,04/03/2024,Vacunación,43,93,5970,MVZ. Eddie Hernández Vidal,1,2,2,5,Mala,No,Satisfecho
+65,05/03/2024,Cirugías,1,93,9852,MVZ. Eddie Hernández Vidal,2,3,4,1,Regular,Sí,Satisfecho
+66,06/03/2024,Desparacitación,14,104,8632,MVZ. Eddie Hernández Vidal,2,4,3,3,Mala,Sí,Satisfecho
+67,07/03/2024,Desparacitación,37,70,830,MVZ. Eddie Hernández Vidal,3,1,5,3,Regular,No,Satisfecho
+68,08/03/2024,Ultrasonido,6,89,9662,MVZ. Eddie Hernández Vidal,5,2,1,1,Regular,Sí,Algo satisfecho
+69,09/03/2024,Desparacitación,57,12,5645,MVZ. Eddie Hernández Vidal,4,3,4,2,Pesima,No,Satisfecho
+70,10/03/2024,Desparacitación,47,91,4419,MVZ. Eddie Hernández Vidal,5,5,1,3,Regular,No,Muy Satisfecho
+71,11/03/2024,Vacunación,44,49,1388,MVZ. Eddie Hernández Vidal,2,3,5,3,Pesima,No,Satisfecho
+72,12/03/2024,Desparacitación,9,37,4629,MVZ. Eddie Hernández Vidal,5,5,4,3,Regular,Sí,Muy Satisfecho
+73,13/03/2024,Desparacitación,3,38,7653,MVZ. Eddie Hernández Vidal,4,5,5,3,Buena,No,Muy Satisfecho
+74,14/03/2024,Estética,9,82,1332,MVZ. Eddie Hernández Vidal,4,1,2,2,Pesima,Sí,Algo satisfecho
+75,15/03/2024,Desparacitación,59,134,5304,MVZ. Eddie Hernández Vidal,2,5,1,1,Mala,Sí,Algo satisfecho
+76,16/03/2024,Vacunación,52,8,5868,MVZ. Eddie Hernández Vidal,1,2,1,2,Pesima,No,Algo satisfecho
+77,17/03/2024,Hospitalización,59,172,2440,MVZ. Eddie Hernández Vidal,2,4,3,1,Pesima,No,Satisfecho
+78,18/03/2024,Cirugías,34,67,1823,MVZ. Eddie Hernández Vidal,4,3,5,1,Mala,No,Satisfecho
+79,19/03/2024,Cirugías,30,105,8527,MVZ. Eddie Hernández Vidal,4,2,5,2,Buena,No,Satisfecho
+80,20/03/2024,Urgencias,1,32,4304,MVZ. Eddie Hernández Vidal,5,5,2,1,Regular,Sí,Satisfecho
+81,21/03/2024,Consulta general,38,103,9587,MVZ. Eddie Hernández Vidal,3,2,3,4,Regular,Sí,Satisfecho
+82,22/03/2024,Cirugías,14,114,3837,MVZ. Eddie Hernández Vidal,4,2,5,1,Regular,Sí,Satisfecho
+83,23/03/2024,Vacunación,16,180,5986,MVZ. Eddie Hernández Vidal,1,1,5,1,Buena,Sí,Algo satisfecho
+84,24/03/2024,Urgencias,30,158,2966,MVZ. Eddie Hernández Vidal,2,5,4,3,Regular,No,Muy Satisfecho
+85,25/03/2024,Cirugías,50,85,402,MVZ. Eddie Hernández Vidal,4,2,4,3,Mala,No,Satisfecho
+86,26/03/2024,Urgencias,13,119,8422,MVZ. Eddie Hernández Vidal,5,3,5,4,Buena,Sí,Muy Satisfecho
+87,27/03/2024,Consulta general,22,158,3333,MVZ. Eddie Hernández Vidal,5,1,3,2,Regular,No,Satisfecho
+88,28/03/2024,Servicio a domicilio,46,20,4672,MVZ. Eddie Hernández Vidal,3,2,1,2,Buena,Sí,Algo satisfecho
+89,29/03/2024,Desparacitación,35,85,4798,MVZ. Eddie Hernández Vidal,2,3,1,4,Pesima,No,Satisfecho
+90,30/03/2024,Servicio a domicilio,23,105,7949,MVZ. Eddie Hernández Vidal,4,3,4,1,Buena,Sí,Satisfecho
+91,31/03/2024,Urgencias,37,12,1534,MVZ. Eddie Hernández Vidal,3,5,3,1,Pesima,Sí,Satisfecho
+92,01/04/2024,Vacunación,29,156,3628,MVZ. Eddie Hernández Vidal,1,2,4,4,Buena,Sí,Satisfecho
+93,02/04/2024,Servicio a domicilio,45,45,511,MVZ. Eddie Hernández Vidal,4,5,5,1,Pesima,No,Muy Satisfecho
+94,03/04/2024,Urgencias,42,43,7418,MVZ. Eddie Hernández Vidal,3,3,4,1,Pesima,No,Satisfecho
+95,04/04/2024,Hospitalización,26,114,3388,MVZ. Eddie Hernández Vidal,1,2,1,5,Pesima,Sí,Algo satisfecho
+96,05/04/2024,Cirugías,18,42,8656,MVZ. Eddie Hernández Vidal,5,5,3,1,Regular,No,Muy Satisfecho
+97,06/04/2024,Urgencias,22,118,6072,MVZ. Eddie Hernández Vidal,2,5,1,2,Mala,Sí,Satisfecho
+98,07/04/2024,Servicio a domicilio,6,106,7513,MVZ. Eddie Hernández Vidal,2,4,4,4,Regular,No,Muy Satisfecho
+99,08/04/2024,Hospitalización,10,91,9968,MVZ. Eddie Hernández Vidal,1,1,3,3,Mala,No,Algo satisfecho
+100,09/04/2024,Servicio a domicilio,43,54,7515,MVZ. Eddie Hernández Vidal,4,3,4,5,Buena,Sí,Muy Satisfecho
+101,10/04/2024,Servicio a domicilio,1,35,6990,MVZ. Eddie Hernández Vidal,2,3,2,5,Pesima,Sí,Satisfecho
+102,11/04/2024,Vacunación,9,76,4416,MVZ. Eddie Hernández Vidal,2,5,5,4,Buena,Sí,Muy Satisfecho
+103,12/04/2024,Vacunación,26,170,8229,MVZ. Eddie Hernández Vidal,1,3,5,2,Pesima,Sí,Satisfecho
+104,13/04/2024,Servicio a domicilio,48,164,8361,MVZ. Eddie Hernández Vidal,1,3,5,4,Regular,Sí,Satisfecho
+105,14/04/2024,Vacunación,15,180,1296,MVZ. Eddie Hernández Vidal,5,2,3,2,Mala,No,Satisfecho
+106,15/04/2024,Desparacitación,17,58,1749,MVZ. Eddie Hernández Vidal,1,4,4,2,Buena,Sí,Satisfecho
+107,16/04/2024,Consulta general,19,108,1884,MVZ. Eddie Hernández Vidal,1,2,3,1,Regular,No,Algo satisfecho
+108,17/04/2024,Servicio a domicilio,19,141,8784,MVZ. Eddie Hernández Vidal,3,2,1,3,Pesima,Sí,Algo satisfecho
+109,18/04/2024,Consulta general,1,23,6366,MVZ. Eddie Hernández Vidal,4,3,2,2,Pesima,No,Satisfecho
+110,19/04/2024,Desparacitación,27,30,3540,MVZ. Eddie Hernández Vidal,3,3,1,1,Pesima,No,Algo satisfecho
+111,20/04/2024,Ultrasonido,51,172,5598,MVZ. Eddie Hernández Vidal,1,3,2,5,Mala,Sí,Satisfecho
+112,21/04/2024,Estética,36,7,514,MVZ. Eddie Hernández Vidal,5,2,5,4,Buena,Sí,Muy Satisfecho
+113,22/04/2024,Servicio a domicilio,35,109,8580,MVZ. Eddie Hernández Vidal,4,2,2,3,Regular,Sí,Satisfecho
+114,23/04/2024,Vacunación,9,108,1465,MVZ. Eddie Hernández Vidal,3,4,5,2,Buena,Sí,Muy Satisfecho
+115,24/04/2024,Urgencias,41,102,4057,MVZ. Eddie Hernández Vidal,3,5,1,3,Buena,No,Satisfecho
+116,25/04/2024,Urgencias,13,8,8120,MVZ. Eddie Hernández Vidal,4,2,2,1,Buena,Sí,Algo satisfecho
+117,26/04/2024,Ultrasonido,53,31,5557,MVZ. Eddie Hernández Vidal,1,3,1,5,Mala,Sí,Satisfecho
+118,27/04/2024,Urgencias,6,116,3317,MVZ. Eddie Hernández Vidal,4,2,1,5,Buena,Sí,Satisfecho
+119,28/04/2024,Ultrasonido,24,118,7599,MVZ. Eddie Hernández Vidal,3,1,2,4,Buena,No,Satisfecho
+120,29/04/2024,Vacunación,10,120,4598,MVZ. Eddie Hernández Vidal,2,2,3,3,Mala,Sí,Satisfecho
+121,30/04/2024,Vacunación,57,70,6109,MVZ. Eddie Hernández Vidal,4,2,2,5,Pesima,Sí,Satisfecho
+122,01/05/2024,Estética,43,111,5022,MVZ. Eddie Hernández Vidal,5,1,5,2,Regular,Sí,Satisfecho
+123,02/05/2024,Estética,37,87,7622,MVZ. Eddie Hernández Vidal,3,4,4,4,Pesima,No,Muy Satisfecho
+124,03/05/2024,Estética,5,76,8663,MVZ. Eddie Hernández Vidal,3,2,4,3,Regular,No,Satisfecho
+125,04/05/2024,Servicio a domicilio,40,176,9261,MVZ. Eddie Hernández Vidal,2,1,3,1,Pesima,No,Algo satisfecho
+126,05/05/2024,Vacunación,52,74,4131,MVZ. Eddie Hernández Vidal,2,1,3,3,Regular,Sí,Algo satisfecho
+127,06/05/2024,Servicio a domicilio,15,63,5197,MVZ. Eddie Hernández Vidal,2,1,1,5,Regular,No,Algo satisfecho
+128,07/05/2024,Urgencias,14,173,5783,MVZ. Eddie Hernández Vidal,2,4,3,1,Buena,Sí,Satisfecho
+129,08/05/2024,Estética,21,106,5896,MVZ. Eddie Hernández Vidal,1,1,2,1,Mala,No,Insatisfecho
+130,09/05/2024,Estética,0,152,788,MVZ. Eddie Hernández Vidal,4,5,5,4,Regular,No,Extremadamente satisfecho
+131,10/05/2024,Vacunación,35,39,8517,MVZ. Eddie Hernández Vidal,5,3,5,3,Mala,No,Muy Satisfecho
+132,11/05/2024,Estética,33,93,4591,MVZ. Eddie Hernández Vidal,5,5,5,5,Mala,No,Extremadamente satisfecho
+133,12/05/2024,Servicio a domicilio,14,99,9810,MVZ. Eddie Hernández Vidal,3,2,4,2,Buena,No,Satisfecho
+134,13/05/2024,Estética,6,133,4613,MVZ. Eddie Hernández Vidal,1,4,1,2,Pesima,No,Algo satisfecho
+135,14/05/2024,Desparacitación,24,114,8258,MVZ. Eddie Hernández Vidal,3,4,1,3,Pesima,Sí,Satisfecho
+136,15/05/2024,Vacunación,54,52,9682,MVZ. Eddie Hernández Vidal,5,4,1,4,Buena,No,Muy Satisfecho
+137,16/05/2024,Urgencias,3,125,2819,MVZ. Eddie Hernández Vidal,4,2,1,2,Mala,No,Algo satisfecho
+138,17/05/2024,Desparacitación,4,9,5435,MVZ. Eddie Hernández Vidal,1,1,4,5,Pesima,Sí,Satisfecho
+139,18/05/2024,Vacunación,37,69,4003,MVZ. Eddie Hernández Vidal,1,2,4,4,Pesima,Sí,Satisfecho
+140,19/05/2024,Ultrasonido,40,169,3705,MVZ. Eddie Hernández Vidal,5,1,4,4,Buena,No,Muy Satisfecho
+141,20/05/2024,Estética,31,65,766,MVZ. Eddie Hernández Vidal,3,1,3,5,Pesima,No,Satisfecho
+142,21/05/2024,Urgencias,27,73,7496,MVZ. Eddie Hernández Vidal,4,5,1,4,Buena,Sí,Muy Satisfecho
+143,22/05/2024,Estética,50,10,2642,MVZ. Eddie Hernández Vidal,1,1,3,3,Mala,No,Algo satisfecho
+144,23/05/2024,Cirugías,41,27,6253,MVZ. Eddie Hernández Vidal,3,2,3,2,Pesima,No,Satisfecho
+145,24/05/2024,Urgencias,3,88,935,MVZ. Eddie Hernández Vidal,1,1,5,2,Regular,Sí,Algo satisfecho
+146,25/05/2024,Ultrasonido,34,81,7525,MVZ. Eddie Hernández Vidal,3,2,1,4,Pesima,No,Satisfecho
+147,26/05/2024,Cirugías,41,66,7814,MVZ. Eddie Hernández Vidal,2,4,2,4,Buena,Sí,Satisfecho
+148,27/05/2024,Vacunación,13,172,1093,MVZ. Eddie Hernández Vidal,3,5,3,5,Regular,Sí,Muy Satisfecho
+149,28/05/2024,Consulta general,49,37,7187,MVZ. Eddie Hernández Vidal,5,1,1,4,Buena,Sí,Satisfecho
+150,29/05/2024,Estética,17,35,2158,MVZ. Eddie Hernández Vidal,4,4,1,3,Buena,Sí,Satisfecho
+151,30/05/2024,Urgencias,42,89,1373,MVZ. Eddie Hernández Vidal,1,4,1,4,Regular,No,Satisfecho
+152,31/05/2024,Desparacitación,40,153,3818,MVZ. Eddie Hernández Vidal,3,2,3,1,Regular,Sí,Algo satisfecho
+153,01/06/2024,Ultrasonido,45,74,617,MVZ. Eddie Hernández Vidal,5,4,3,1,Regular,No,Satisfecho
+154,02/06/2024,Cirugías,10,93,2446,MVZ. Eddie Hernández Vidal,4,4,1,4,Regular,Sí,Satisfecho
+155,03/06/2024,Hospitalización,38,154,8490,MVZ. Eddie Hernández Vidal,3,1,4,5,Pesima,Sí,Satisfecho
+156,04/06/2024,Estética,42,75,7373,MVZ. Eddie Hernández Vidal,3,3,5,1,Regular,No,Satisfecho
+157,05/06/2024,Estética,3,18,1802,MVZ. Eddie Hernández Vidal,1,1,3,3,Pesima,No,Algo satisfecho
+158,06/06/2024,Servicio a domicilio,27,84,2665,MVZ. Eddie Hernández Vidal,2,3,3,2,Buena,Sí,Satisfecho
+159,07/06/2024,Estética,60,116,5536,MVZ. Eddie Hernández Vidal,1,4,4,4,Pesima,Sí,Satisfecho
+160,08/06/2024,Ultrasonido,15,48,2818,MVZ. Eddie Hernández Vidal,2,3,1,1,Regular,Sí,Algo satisfecho
+161,09/06/2024,Ultrasonido,50,72,4767,MVZ. Eddie Hernández Vidal,4,4,4,2,Mala,No,Muy Satisfecho
+162,10/06/2024,Consulta general,34,14,8300,MVZ. Eddie Hernández Vidal,1,1,4,3,Pesima,No,Algo satisfecho
+163,11/06/2024,Ultrasonido,36,59,5411,MVZ. Eddie Hernández Vidal,5,2,1,5,Pesima,Sí,Satisfecho
+164,12/06/2024,Estética,42,93,7477,MVZ. Eddie Hernández Vidal,5,3,3,2,Buena,No,Satisfecho
+165,13/06/2024,Estética,39,127,8667,MVZ. Eddie Hernández Vidal,5,5,3,4,Buena,No,Muy Satisfecho
+166,14/06/2024,Vacunación,50,60,1722,MVZ. Eddie Hernández Vidal,5,2,1,2,Pesima,Sí,Satisfecho
+167,15/06/2024,Servicio a domicilio,44,54,2648,MVZ. Eddie Hernández Vidal,2,3,5,4,Regular,No,Muy Satisfecho
+168,16/06/2024,Vacunación,20,25,4034,MVZ. Eddie Hernández Vidal,3,4,2,5,Mala,No,Muy Satisfecho
+169,17/06/2024,Ultrasonido,52,170,4202,MVZ. Eddie Hernández Vidal,4,4,4,1,Mala,No,Satisfecho
+170,18/06/2024,Vacunación,25,66,7290,MVZ. Eddie Hernández Vidal,5,4,1,5,Regular,Sí,Muy Satisfecho
+171,19/06/2024,Ultrasonido,11,45,2158,MVZ. Eddie Hernández Vidal,4,4,2,4,Regular,Sí,Muy Satisfecho
+172,20/06/2024,Cirugías,44,131,4864,MVZ. Eddie Hernández Vidal,1,4,5,2,Regular,No,Satisfecho
+173,21/06/2024,Hospitalización,17,72,9812,MVZ. Eddie Hernández Vidal,2,1,4,3,Mala,No,Satisfecho
+174,22/06/2024,Urgencias,5,42,5303,MVZ. Eddie Hernández Vidal,2,3,1,1,Pesima,Sí,Algo satisfecho
+175,23/06/2024,Estética,19,136,6615,MVZ. Eddie Hernández Vidal,2,2,1,1,Pesima,No,Algo satisfecho
+176,24/06/2024,Desparacitación,7,171,4375,MVZ. Eddie Hernández Vidal,3,3,4,2,Regular,No,Satisfecho
+177,25/06/2024,Ultrasonido,4,38,6487,MVZ. Eddie Hernández Vidal,3,3,4,3,Buena,Sí,Satisfecho
+178,26/06/2024,Cirugías,31,94,3778,MVZ. Eddie Hernández Vidal,2,1,3,1,Mala,No,Algo satisfecho
+179,27/06/2024,Estética,29,174,4322,MVZ. Eddie Hernández Vidal,3,1,4,3,Regular,Sí,Satisfecho
+180,28/06/2024,Servicio a domicilio,42,27,9599,MVZ. Eddie Hernández Vidal,4,4,5,2,Mala,No,Muy Satisfecho
+181,29/06/2024,Vacunación,50,71,8339,MVZ. Eddie Hernández Vidal,4,4,3,4,Regular,Sí,Muy Satisfecho
+182,30/06/2024,Hospitalización,27,62,1054,MVZ. Eddie Hernández Vidal,4,3,3,4,Mala,Sí,Muy Satisfecho
+183,01/07/2024,Cirugías,32,160,5058,MVZ. Eddie Hernández Vidal,4,1,3,5,Mala,Sí,Satisfecho
+184,02/07/2024,Vacunación,43,63,1260,MVZ. Eddie Hernández Vidal,1,2,5,4,Buena,Sí,Satisfecho
+185,03/07/2024,Desparacitación,41,125,1777,MVZ. Eddie Hernández Vidal,1,3,4,1,Mala,Sí,Algo satisfecho
+186,04/07/2024,Cirugías,18,161,5514,MVZ. Eddie Hernández Vidal,2,1,1,2,Mala,Sí,Algo satisfecho
+187,05/07/2024,Vacunación,29,52,8970,MVZ. Eddie Hernández Vidal,5,3,1,1,Mala,Sí,Satisfecho
+188,06/07/2024,Vacunación,13,38,910,MVZ. Eddie Hernández Vidal,3,1,3,5,Buena,Sí,Satisfecho
+189,07/07/2024,Hospitalización,50,158,5002,MVZ. Eddie Hernández Vidal,3,3,1,4,Mala,Sí,Satisfecho
+190,08/07/2024,Hospitalización,44,123,8729,MVZ. Eddie Hernández Vidal,2,2,3,2,Pesima,Sí,Algo satisfecho
+191,09/07/2024,Vacunación,9,12,1490,MVZ. Eddie Hernández Vidal,3,1,4,2,Mala,Sí,Satisfecho
+192,10/07/2024,Servicio a domicilio,54,34,1750,MVZ. Eddie Hernández Vidal,4,5,4,3,Regular,No,Muy Satisfecho
+193,11/07/2024,Vacunación,8,172,1541,MVZ. Eddie Hernández Vidal,3,4,4,3,Mala,Sí,Muy Satisfecho
+194,12/07/2024,Hospitalización,25,174,8380,MVZ. Eddie Hernández Vidal,2,1,3,2,Mala,No,Algo satisfecho
+195,13/07/2024,Hospitalización,33,25,3897,MVZ. Eddie Hernández Vidal,3,3,5,4,Pesima,No,Muy Satisfecho
+196,14/07/2024,Cirugías,17,38,6497,MVZ. Eddie Hernández Vidal,2,4,4,5,Regular,No,Muy Satisfecho
+197,15/07/2024,Consulta general,49,118,5874,MVZ. Eddie Hernández Vidal,3,3,5,5,Mala,Sí,Muy Satisfecho
+198,16/07/2024,Servicio a domicilio,47,125,9677,MVZ. Eddie Hernández Vidal,4,1,5,1,Pesima,No,Satisfecho
+199,17/07/2024,Servicio a domicilio,16,15,2229,MVZ. Eddie Hernández Vidal,5,3,1,1,Pesima,Sí,Satisfecho
+200,18/07/2024,Estética,49,81,1059,MVZ. Eddie Hernández Vidal,1,1,4,3,Mala,No,Algo satisfecho
+201,19/07/2024,Consulta general,7,52,5616,MVZ. Eddie Hernández Vidal,1,1,4,1,Pesima,No,Algo satisfecho
+202,20/07/2024,Cirugías,30,135,650,MVZ. Eddie Hernández Vidal,4,4,5,2,Mala,Sí,Muy Satisfecho
+203,21/07/2024,Estética,16,58,6721,MVZ. Eddie Hernández Vidal,3,1,2,2,Regular,Sí,Algo satisfecho
+204,22/07/2024,Desparacitación,22,74,8119,MVZ. Eddie Hernández Vidal,2,2,2,1,Mala,No,Algo satisfecho
+205,23/07/2024,Urgencias,59,152,5763,MVZ. Eddie Hernández Vidal,3,5,3,2,Pesima,Sí,Satisfecho
+206,24/07/2024,Servicio a domicilio,37,133,5197,MVZ. Eddie Hernández Vidal,4,2,2,5,Pesima,Sí,Satisfecho
+207,25/07/2024,Cirugías,9,150,5064,MVZ. Eddie Hernández Vidal,2,1,3,4,Regular,Sí,Satisfecho
+208,26/07/2024,Cirugías,46,115,1967,MVZ. Eddie Hernández Vidal,5,5,5,2,Pesima,Sí,Muy Satisfecho
+209,27/07/2024,Urgencias,12,63,6251,MVZ. Eddie Hernández Vidal,2,3,4,5,Buena,Sí,Muy Satisfecho
+210,28/07/2024,Estética,24,169,1193,MVZ. Eddie Hernández Vidal,1,3,3,5,Buena,Sí,Satisfecho
+211,29/07/2024,Consulta general,53,145,433,MVZ. Eddie Hernández Vidal,3,2,3,2,Buena,No,Satisfecho
+212,30/07/2024,Consulta general,22,177,3654,MVZ. Eddie Hernández Vidal,5,4,1,5,Pesima,No,Muy Satisfecho
+213,31/07/2024,Urgencias,56,84,530,MVZ. Eddie Hernández Vidal,5,5,4,4,Mala,Sí,Extremadamente satisfecho
+214,01/08/2024,Vacunación,14,170,5252,MVZ. Eddie Hernández Vidal,2,5,4,1,Pesima,Sí,Satisfecho
+215,02/08/2024,Estética,45,123,9856,MVZ. Eddie Hernández Vidal,1,4,3,3,Mala,Sí,Satisfecho
+216,03/08/2024,Estética,33,157,8304,MVZ. Eddie Hernández Vidal,1,3,3,5,Pesima,No,Satisfecho
+217,04/08/2024,Desparacitación,4,178,5313,MVZ. Eddie Hernández Vidal,1,1,4,3,Buena,No,Algo satisfecho
+218,05/08/2024,Desparacitación,5,89,7342,MVZ. Eddie Hernández Vidal,5,3,2,1,Mala,Sí,Satisfecho
+219,06/08/2024,Urgencias,12,127,7246,MVZ. Eddie Hernández Vidal,2,1,1,4,Buena,Sí,Algo satisfecho
+220,07/08/2024,Vacunación,41,140,7085,MVZ. Eddie Hernández Vidal,5,3,2,3,Pesima,Sí,Satisfecho
+221,08/08/2024,Hospitalización,12,115,2453,MVZ. Eddie Hernández Vidal,1,5,5,2,Regular,No,Satisfecho
+222,09/08/2024,Vacunación,0,28,9823,MVZ. Eddie Hernández Vidal,1,5,3,5,Buena,No,Muy Satisfecho
+223,10/08/2024,Servicio a domicilio,5,25,5239,MVZ. Eddie Hernández Vidal,2,1,3,5,Pesima,Sí,Satisfecho
+224,11/08/2024,Consulta general,22,74,3386,MVZ. Eddie Hernández Vidal,1,3,4,5,Pesima,No,Satisfecho
+225,12/08/2024,Consulta general,41,12,5152,MVZ. Eddie Hernández Vidal,5,1,5,1,Mala,Sí,Satisfecho
+226,13/08/2024,Servicio a domicilio,33,41,1622,MVZ. Eddie Hernández Vidal,2,1,2,4,Buena,No,Algo satisfecho
+227,14/08/2024,Consulta general,49,116,4382,MVZ. Eddie Hernández Vidal,5,3,5,2,Pesima,Sí,Muy Satisfecho
+228,15/08/2024,Desparacitación,51,142,3424,MVZ. Eddie Hernández Vidal,4,1,2,1,Regular,Sí,Algo satisfecho
+229,16/08/2024,Servicio a domicilio,1,30,5876,MVZ. Eddie Hernández Vidal,4,1,4,2,Buena,Sí,Satisfecho
+230,17/08/2024,Cirugías,10,38,2934,MVZ. Eddie Hernández Vidal,5,3,2,1,Regular,Sí,Satisfecho
+231,18/08/2024,Cirugías,6,69,178,MVZ. Eddie Hernández Vidal,3,2,5,4,Pesima,No,Muy Satisfecho
+232,19/08/2024,Cirugías,58,166,874,MVZ. Eddie Hernández Vidal,1,2,4,2,Pesima,Sí,Algo satisfecho
+233,20/08/2024,Servicio a domicilio,16,88,7123,MVZ. Eddie Hernández Vidal,4,4,2,1,Mala,No,Satisfecho
+234,21/08/2024,Cirugías,7,7,2343,MVZ. Eddie Hernández Vidal,5,2,2,5,Mala,No,Muy Satisfecho
+235,22/08/2024,Hospitalización,27,21,3242,MVZ. Eddie Hernández Vidal,2,3,1,5,Buena,Sí,Satisfecho
+236,23/08/2024,Hospitalización,38,131,8154,MVZ. Eddie Hernández Vidal,5,1,2,2,Regular,No,Satisfecho
+237,24/08/2024,Ultrasonido,43,92,3905,MVZ. Eddie Hernández Vidal,4,3,1,3,Mala,No,Satisfecho
+238,25/08/2024,Consulta general,20,66,3351,MVZ. Eddie Hernández Vidal,1,5,5,3,Mala,No,Muy Satisfecho
+239,26/08/2024,Ultrasonido,41,63,5055,MVZ. Eddie Hernández Vidal,5,3,2,4,Pesima,Sí,Muy Satisfecho
+240,27/08/2024,Hospitalización,18,119,1662,MVZ. Eddie Hernández Vidal,4,2,1,5,Pesima,Sí,Satisfecho
+241,28/08/2024,Servicio a domicilio,51,30,8013,MVZ. Eddie Hernández Vidal,5,4,4,2,Buena,Sí,Muy Satisfecho
+242,29/08/2024,Vacunación,42,127,8095,MVZ. Eddie Hernández Vidal,5,1,3,5,Mala,No,Muy Satisfecho
+243,30/08/2024,Consulta general,6,175,9217,MVZ. Eddie Hernández Vidal,4,1,5,5,Pesima,Sí,Muy Satisfecho
+244,31/08/2024,Cirugías,38,150,7956,MVZ. Eddie Hernández Vidal,3,2,4,3,Regular,No,Satisfecho
+245,01/09/2024,Servicio a domicilio,34,45,3489,MVZ. Eddie Hernández Vidal,2,4,4,2,Mala,No,Satisfecho
+246,02/09/2024,Urgencias,49,65,3872,MVZ. Eddie Hernández Vidal,2,5,5,3,Buena,No,Muy Satisfecho
+247,03/09/2024,Consulta general,10,86,4701,MVZ. Eddie Hernández Vidal,2,4,4,1,Regular,Sí,Satisfecho
+248,04/09/2024,Urgencias,39,174,4287,MVZ. Eddie Hernández Vidal,4,4,4,1,Regular,Sí,Satisfecho
+249,05/09/2024,Ultrasonido,40,171,6929,MVZ. Eddie Hernández Vidal,3,2,1,3,Mala,Sí,Algo satisfecho
+250,06/09/2024,Urgencias,40,116,213,MVZ. Eddie Hernández Vidal,1,4,3,3,Regular,No,Satisfecho
+251,07/09/2024,Desparacitación,27,29,4594,MVZ. Eddie Hernández Vidal,1,1,4,4,Buena,No,Satisfecho
+252,08/09/2024,Estética,30,38,2984,MVZ. Eddie Hernández Vidal,1,4,3,2,Mala,No,Satisfecho
+253,09/09/2024,Desparacitación,59,14,9796,MVZ. Eddie Hernández Vidal,3,2,1,2,Pesima,Sí,Algo satisfecho
+254,10/09/2024,Vacunación,36,42,9631,MVZ. Eddie Hernández Vidal,1,4,5,2,Mala,Sí,Satisfecho
+255,11/09/2024,Vacunación,34,107,5646,MVZ. Eddie Hernández Vidal,4,4,3,3,Pesima,No,Muy Satisfecho
+256,12/09/2024,Estética,59,144,920,MVZ. Eddie Hernández Vidal,5,1,1,5,Buena,No,Satisfecho
+257,13/09/2024,Estética,25,158,9494,MVZ. Eddie Hernández Vidal,1,1,1,4,Buena,Sí,Algo satisfecho
+258,14/09/2024,Hospitalización,27,21,8412,MVZ. Eddie Hernández Vidal,5,2,1,3,Buena,No,Satisfecho
+259,15/09/2024,Urgencias,56,88,5142,MVZ. Eddie Hernández Vidal,3,3,3,3,Regular,No,Satisfecho
+260,16/09/2024,Vacunación,58,66,6101,MVZ. Eddie Hernández Vidal,2,1,2,5,Regular,No,Satisfecho
+261,17/09/2024,Estética,31,127,8233,MVZ. Eddie Hernández Vidal,5,2,4,2,Pesima,No,Satisfecho
+262,18/09/2024,Hospitalización,48,156,6715,MVZ. Eddie Hernández Vidal,5,4,1,2,Buena,No,Satisfecho
+263,19/09/2024,Hospitalización,43,126,7225,MVZ. Eddie Hernández Vidal,1,1,5,1,Buena,No,Algo satisfecho
+264,20/09/2024,Consulta general,3,117,3004,MVZ. Eddie Hernández Vidal,5,5,2,2,Pesima,Sí,Muy Satisfecho
+265,21/09/2024,Estética,0,14,4795,MVZ. Eddie Hernández Vidal,1,2,2,2,Buena,Sí,Algo satisfecho
+266,22/09/2024,Desparacitación,37,47,7330,MVZ. Eddie Hernández Vidal,2,5,1,4,Pesima,No,Satisfecho
+267,23/09/2024,Hospitalización,55,174,6850,MVZ. Eddie Hernández Vidal,5,1,5,3,Mala,No,Muy Satisfecho
+268,24/09/2024,Urgencias,39,31,5316,MVZ. Eddie Hernández Vidal,2,5,4,2,Regular,Sí,Satisfecho
+269,25/09/2024,Desparacitación,12,124,2105,MVZ. Eddie Hernández Vidal,2,3,1,1,Pesima,No,Algo satisfecho
+270,26/09/2024,Urgencias,20,123,9370,MVZ. Eddie Hernández Vidal,1,1,3,1,Mala,No,Algo satisfecho
+271,27/09/2024,Ultrasonido,11,47,9154,MVZ. Eddie Hernández Vidal,2,4,3,5,Regular,Sí,Muy Satisfecho
+272,28/09/2024,Desparacitación,12,67,6761,MVZ. Eddie Hernández Vidal,5,2,4,5,Pesima,No,Muy Satisfecho
+273,29/09/2024,Servicio a domicilio,56,16,795,MVZ. Eddie Hernández Vidal,5,5,5,4,Mala,No,Extremadamente satisfecho
+274,30/09/2024,Desparacitación,50,165,9810,MVZ. Eddie Hernández Vidal,1,3,3,1,Pesima,Sí,Algo satisfecho
+275,01/10/2024,Ultrasonido,27,130,8703,MVZ. Eddie Hernández Vidal,2,5,2,5,Regular,Sí,Muy Satisfecho
+276,02/10/2024,Vacunación,47,35,3517,MVZ. Eddie Hernández Vidal,2,1,5,3,Buena,Sí,Satisfecho
+277,03/10/2024,Vacunación,57,91,6661,MVZ. Eddie Hernández Vidal,2,5,3,2,Regular,No,Satisfecho
+278,04/10/2024,Hospitalización,21,34,831,MVZ. Eddie Hernández Vidal,2,2,2,2,Pesima,No,Algo satisfecho
+279,05/10/2024,Estética,44,37,8180,MVZ. Eddie Hernández Vidal,4,5,5,2,Regular,No,Muy Satisfecho
+280,06/10/2024,Cirugías,12,155,1780,MVZ. Eddie Hernández Vidal,1,5,1,2,Buena,No,Algo satisfecho
+281,07/10/2024,Urgencias,47,180,6579,MVZ. Eddie Hernández Vidal,3,4,3,3,Regular,No,Satisfecho
+282,08/10/2024,Estética,17,45,7686,MVZ. Eddie Hernández Vidal,3,3,5,5,Mala,Sí,Muy Satisfecho
+283,09/10/2024,Cirugías,39,157,1780,MVZ. Eddie Hernández Vidal,4,5,5,1,Mala,Sí,Muy Satisfecho
+284,10/10/2024,Desparacitación,31,123,9920,MVZ. Eddie Hernández Vidal,2,4,4,1,Regular,Sí,Satisfecho
+285,11/10/2024,Hospitalización,47,147,8292,MVZ. Eddie Hernández Vidal,5,5,1,4,Mala,Sí,Muy Satisfecho
+286,12/10/2024,Desparacitación,29,7,8827,MVZ. Eddie Hernández Vidal,2,5,5,4,Regular,No,Muy Satisfecho
+287,13/10/2024,Consulta general,55,38,4952,MVZ. Eddie Hernández Vidal,2,3,2,5,Mala,No,Satisfecho
+288,14/10/2024,Vacunación,1,47,4818,MVZ. Eddie Hernández Vidal,3,5,5,4,Pesima,No,Muy Satisfecho
+289,15/10/2024,Vacunación,37,41,906,MVZ. Eddie Hernández Vidal,4,3,5,4,Buena,Sí,Muy Satisfecho
+290,16/10/2024,Servicio a domicilio,0,133,5813,MVZ. Eddie Hernández Vidal,1,5,5,4,Mala,Sí,Muy Satisfecho
+291,17/10/2024,Cirugías,23,157,1011,MVZ. Eddie Hernández Vidal,2,3,5,3,Buena,Sí,Satisfecho
+292,18/10/2024,Servicio a domicilio,13,55,1407,MVZ. Eddie Hernández Vidal,1,5,5,3,Mala,No,Muy Satisfecho
+293,19/10/2024,Vacunación,8,43,992,MVZ. Eddie Hernández Vidal,1,3,2,2,Buena,Sí,Algo satisfecho
+294,20/10/2024,Cirugías,20,60,526,MVZ. Eddie Hernández Vidal,4,1,3,2,Buena,Sí,Satisfecho
+295,21/10/2024,Hospitalización,53,17,1610,MVZ. Eddie Hernández Vidal,5,5,3,2,Mala,No,Muy Satisfecho
+296,22/10/2024,Servicio a domicilio,18,130,818,MVZ. Eddie Hernández Vidal,2,4,3,4,Buena,Sí,Satisfecho
+297,23/10/2024,Hospitalización,16,20,1939,MVZ. Eddie Hernández Vidal,3,5,2,4,Mala,Sí,Muy Satisfecho
+298,24/10/2024,Consulta general,13,31,3509,MVZ. Eddie Hernández Vidal,3,5,1,3,Buena,No,Satisfecho
+299,25/10/2024,Ultrasonido,8,156,8544,MVZ. Eddie Hernández Vidal,3,4,1,1,Regular,No,Algo satisfecho
+300,26/10/2024,Cirugías,6,21,4432,MVZ. Eddie Hernández Vidal,1,5,5,5,Regular,No,Muy Satisfecho
+301,27/10/2024,Urgencias,27,87,999,MVZ. Eddie Hernández Vidal,5,1,2,5,Mala,No,Satisfecho
+302,28/10/2024,Urgencias,37,178,3289,MVZ. Eddie Hernández Vidal,5,4,4,5,Pesima,Sí,Extremadamente satisfecho
+303,29/10/2024,Vacunación,35,166,2045,MVZ. Eddie Hernández Vidal,4,4,5,1,Pesima,Sí,Muy Satisfecho
+304,30/10/2024,Consulta general,40,136,3387,MVZ. Eddie Hernández Vidal,1,3,4,5,Regular,No,Satisfecho
+305,31/10/2024,Ultrasonido,26,63,2145,MVZ. Eddie Hernández Vidal,5,3,5,5,Regular,Sí,Extremadamente satisfecho
+306,01/11/2024,Ultrasonido,30,107,7297,MVZ. Eddie Hernández Vidal,3,4,1,4,Buena,Sí,Satisfecho
+307,02/11/2024,Hospitalización,12,76,4220,MVZ. Eddie Hernández Vidal,3,4,4,5,Mala,Sí,Muy Satisfecho
+308,03/11/2024,Estética,57,62,4746,MVZ. Eddie Hernández Vidal,3,5,5,5,Regular,No,Extremadamente satisfecho
+309,04/11/2024,Estética,45,153,6052,MVZ. Eddie Hernández Vidal,5,1,1,2,Pesima,Sí,Algo satisfecho
+310,05/11/2024,Hospitalización,16,117,4688,MVZ. Eddie Hernández Vidal,3,3,3,4,Mala,No,Satisfecho
+311,06/11/2024,Urgencias,58,71,8434,MVZ. Eddie Hernández Vidal,5,2,3,3,Mala,Sí,Satisfecho
+312,07/11/2024,Estética,23,65,7349,MVZ. Eddie Hernández Vidal,5,5,4,4,Pesima,Sí,Extremadamente satisfecho
+313,08/11/2024,Ultrasonido,50,15,798,MVZ. Eddie Hernández Vidal,2,5,4,5,Regular,Sí,Muy Satisfecho
+314,09/11/2024,Estética,42,56,4557,MVZ. Eddie Hernández Vidal,3,1,4,1,Mala,Sí,Algo satisfecho
+315,10/11/2024,Estética,8,103,340,MVZ. Eddie Hernández Vidal,5,3,2,2,Mala,No,Satisfecho
+316,11/11/2024,Vacunación,55,5,463,MVZ. Eddie Hernández Vidal,5,2,4,3,Buena,No,Muy Satisfecho
+317,12/11/2024,Ultrasonido,54,75,4885,MVZ. Eddie Hernández Vidal,3,3,5,4,Buena,Sí,Muy Satisfecho
+318,13/11/2024,Consulta general,16,18,9941,MVZ. Eddie Hernández Vidal,3,3,3,2,Pesima,No,Satisfecho
+319,14/11/2024,Hospitalización,53,30,4581,MVZ. Eddie Hernández Vidal,3,1,1,3,Buena,Sí,Algo satisfecho
+320,15/11/2024,Desparacitación,18,96,9963,MVZ. Eddie Hernández Vidal,4,5,5,1,Pesima,Sí,Muy Satisfecho
+321,16/11/2024,Servicio a domicilio,10,52,4716,MVZ. Eddie Hernández Vidal,3,1,2,5,Regular,Sí,Satisfecho
+322,17/11/2024,Urgencias,15,74,3715,MVZ. Eddie Hernández Vidal,2,3,3,1,Regular,No,Algo satisfecho
+323,18/11/2024,Estética,38,110,736,MVZ. Eddie Hernández Vidal,1,2,1,5,Mala,No,Algo satisfecho
+324,19/11/2024,Servicio a domicilio,24,28,7538,MVZ. Eddie Hernández Vidal,5,5,3,3,Mala,Sí,Muy Satisfecho
+325,20/11/2024,Hospitalización,36,29,4402,MVZ. Eddie Hernández Vidal,3,1,1,2,Buena,Sí,Algo satisfecho
+326,21/11/2024,Estética,47,26,5971,MVZ. Eddie Hernández Vidal,4,4,5,3,Mala,No,Muy Satisfecho
+327,22/11/2024,Desparacitación,0,18,9479,MVZ. Eddie Hernández Vidal,5,2,4,4,Pesima,Sí,Muy Satisfecho
+328,23/11/2024,Desparacitación,3,71,1100,MVZ. Eddie Hernández Vidal,5,4,4,1,Pesima,Sí,Muy Satisfecho
+329,24/11/2024,Consulta general,26,174,7461,MVZ. Eddie Hernández Vidal,2,3,5,2,Regular,Sí,Satisfecho
+330,25/11/2024,Hospitalización,20,134,6652,MVZ. Eddie Hernández Vidal,4,2,4,5,Pesima,Sí,Muy Satisfecho
+331,26/11/2024,Ultrasonido,47,63,9610,MVZ. Eddie Hernández Vidal,5,2,5,3,Pesima,Sí,Muy Satisfecho
+332,27/11/2024,Desparacitación,47,57,9500,MVZ. Eddie Hernández Vidal,2,5,1,2,Regular,Sí,Satisfecho
+333,28/11/2024,Consulta general,33,133,4527,MVZ. Eddie Hernández Vidal,4,3,5,3,Regular,Sí,Muy Satisfecho
+334,29/11/2024,Cirugías,24,131,6102,MVZ. Eddie Hernández Vidal,4,1,2,1,Buena,No,Algo satisfecho
+335,30/11/2024,Hospitalización,18,19,2433,MVZ. Eddie Hernández Vidal,3,2,3,1,Regular,Sí,Algo satisfecho
+336,01/12/2024,Consulta general,40,105,5192,MVZ. Eddie Hernández Vidal,4,1,1,4,Pesima,No,Satisfecho
+337,02/12/2024,Vacunación,9,140,4750,MVZ. Eddie Hernández Vidal,2,3,4,3,Buena,Sí,Satisfecho
+338,03/12/2024,Cirugías,8,53,3710,MVZ. Eddie Hernández Vidal,4,3,5,3,Regular,No,Muy Satisfecho
+339,04/12/2024,Hospitalización,7,78,9519,MVZ. Eddie Hernández Vidal,4,4,1,1,Pesima,No,Satisfecho
+340,05/12/2024,Vacunación,28,113,9421,MVZ. Eddie Hernández Vidal,4,1,3,5,Mala,Sí,Satisfecho
+341,06/12/2024,Ultrasonido,47,54,8664,MVZ. Eddie Hernández Vidal,3,1,2,5,Mala,No,Satisfecho
+342,07/12/2024,Ultrasonido,41,9,7487,MVZ. Eddie Hernández Vidal,5,5,4,3,Buena,Sí,Muy Satisfecho
+343,08/12/2024,Hospitalización,19,21,4635,MVZ. Eddie Hernández Vidal,4,3,1,4,Pesima,No,Satisfecho
+344,09/12/2024,Consulta general,22,149,7480,MVZ. Eddie Hernández Vidal,1,3,4,3,Pesima,Sí,Satisfecho
+345,10/12/2024,Ultrasonido,3,68,8693,MVZ. Eddie Hernández Vidal,5,3,1,3,Mala,No,Satisfecho
+346,11/12/2024,Urgencias,55,149,8366,MVZ. Eddie Hernández Vidal,1,3,2,3,Pesima,No,Algo satisfecho
+347,12/12/2024,Vacunación,14,109,9280,MVZ. Eddie Hernández Vidal,4,5,1,3,Buena,No,Satisfecho
+348,13/12/2024,Estética,55,7,810,MVZ. Eddie Hernández Vidal,3,4,3,5,Mala,No,Muy Satisfecho
+349,14/12/2024,Desparacitación,2,37,5788,MVZ. Eddie Hernández Vidal,2,3,4,4,Pesima,Sí,Satisfecho
+350,15/12/2024,Consulta general,23,75,2560,MVZ. Eddie Hernández Vidal,5,2,5,5,Mala,No,Muy Satisfecho
+351,16/12/2024,Desparacitación,43,161,2403,MVZ. Eddie Hernández Vidal,4,4,1,2,Mala,Sí,Satisfecho
+352,17/12/2024,Cirugías,24,27,9972,MVZ. Eddie Hernández Vidal,1,5,1,2,Pesima,Sí,Algo satisfecho
+353,18/12/2024,Urgencias,20,160,2345,MVZ. Eddie Hernández Vidal,4,4,3,2,Regular,Sí,Satisfecho
+354,19/12/2024,Vacunación,35,126,4668,MVZ. Eddie Hernández Vidal,2,4,1,1,Regular,No,Algo satisfecho
+355,20/12/2024,Consulta general,58,131,3856,MVZ. Eddie Hernández Vidal,4,5,3,4,Regular,Sí,Muy Satisfecho
+356,21/12/2024,Desparacitación,46,9,9300,MVZ. Eddie Hernández Vidal,1,2,1,5,Mala,Sí,Algo satisfecho
+357,22/12/2024,Desparacitación,32,9,7890,MVZ. Eddie Hernández Vidal,1,3,5,4,Pesima,Sí,Satisfecho
+358,23/12/2024,Desparacitación,34,80,6683,MVZ. Eddie Hernández Vidal,4,2,1,2,Regular,No,Algo satisfecho
+359,24/12/2024,Urgencias,42,80,9765,MVZ. Eddie Hernández Vidal,4,3,3,5,Buena,No,Muy Satisfecho
+360,25/12/2024,Urgencias,28,81,9043,MVZ. Eddie Hernández Vidal,5,5,3,1,Buena,Sí,Muy Satisfecho
+361,26/12/2024,Estética,37,142,6512,MVZ. Eddie Hernández Vidal,3,1,5,3,Buena,Sí,Satisfecho
+362,27/12/2024,Desparacitación,36,40,5629,MVZ. Eddie Hernández Vidal,2,5,5,5,Regular,No,Muy Satisfecho
+363,28/12/2024,Ultrasonido,18,139,5796,MVZ. Eddie Hernández Vidal,3,4,5,1,Pesima,Sí,Satisfecho
+364,29/12/2024,Vacunación,55,36,6569,MVZ. Eddie Hernández Vidal,4,3,1,5,Regular,No,Satisfecho
+365,30/12/2024,Vacunación,42,32,5122,MVZ. Eddie Hernández Vidal,3,5,4,5,Buena,Sí,Muy Satisfecho
+366,31/12/2024,Servicio a domicilio,35,15,4876,MVZ. Eddie Hernández Vidal,2,2,5,4,Regular,Sí,Satisfecho
+367,01/01/2025,Consulta general,39,106,3584,MVZ. Eddie Hernández Vidal,3,1,4,3,Buena,No,Satisfecho
+368,02/01/2025,Servicio a domicilio,35,84,8792,MVZ. Eddie Hernández Vidal,2,2,5,2,Regular,No,Satisfecho
+369,03/01/2025,Consulta general,1,31,6528,MVZ. Eddie Hernández Vidal,1,2,5,4,Buena,Sí,Satisfecho
+370,04/01/2025,Vacunación,29,74,8303,MVZ. Eddie Hernández Vidal,1,4,2,1,Pesima,Sí,Algo satisfecho
+371,05/01/2025,Desparacitación,20,169,2753,MVZ. Eddie Hernández Vidal,4,3,2,1,Pesima,Sí,Satisfecho
+372,06/01/2025,Consulta general,37,37,5604,MVZ. Eddie Hernández Vidal,3,3,5,2,Buena,No,Satisfecho
+373,07/01/2025,Consulta general,35,42,8982,MVZ. Eddie Hernández Vidal,1,5,2,2,Pesima,No,Satisfecho
+374,08/01/2025,Urgencias,46,87,9054,MVZ. Eddie Hernández Vidal,3,4,2,3,Pesima,No,Satisfecho
+375,09/01/2025,Hospitalización,34,82,6323,MVZ. Eddie Hernández Vidal,1,5,3,3,Pesima,No,Satisfecho
+376,10/01/2025,Estética,27,71,5071,MVZ. Eddie Hernández Vidal,4,3,2,4,Regular,No,Satisfecho
+377,11/01/2025,Desparacitación,49,173,3864,MVZ. Eddie Hernández Vidal,1,4,4,3,Buena,Sí,Satisfecho
+378,12/01/2025,Vacunación,59,133,6516,MVZ. Eddie Hernández Vidal,1,3,5,2,Pesima,No,Satisfecho
+379,13/01/2025,Cirugías,14,171,8638,MVZ. Eddie Hernández Vidal,2,4,5,2,Regular,No,Satisfecho
+380,14/01/2025,Ultrasonido,42,69,3709,MVZ. Eddie Hernández Vidal,4,1,4,3,Pesima,Sí,Satisfecho
+381,15/01/2025,Vacunación,30,142,3149,MVZ. Eddie Hernández Vidal,5,1,1,1,Buena,Sí,Algo satisfecho
+382,16/01/2025,Servicio a domicilio,27,67,3115,MVZ. Eddie Hernández Vidal,3,3,5,5,Regular,No,Muy Satisfecho
+383,17/01/2025,Estética,51,8,6730,MVZ. Eddie Hernández Vidal,5,4,1,4,Pesima,Sí,Muy Satisfecho
+384,18/01/2025,Consulta general,4,138,9893,MVZ. Eddie Hernández Vidal,5,5,2,4,Regular,Sí,Muy Satisfecho
+385,19/01/2025,Desparacitación,4,86,6690,MVZ. Eddie Hernández Vidal,2,1,2,5,Regular,Sí,Satisfecho
+386,20/01/2025,Urgencias,6,23,424,MVZ. Eddie Hernández Vidal,5,5,5,4,Mala,Sí,Extremadamente satisfecho
+387,21/01/2025,Estética,41,50,4471,MVZ. Eddie Hernández Vidal,1,1,1,3,Buena,No,Algo satisfecho
+388,22/01/2025,Vacunación,41,69,7936,MVZ. Eddie Hernández Vidal,2,3,3,2,Mala,Sí,Satisfecho
+389,23/01/2025,Cirugías,3,122,750,MVZ. Eddie Hernández Vidal,2,5,5,3,Buena,Sí,Muy Satisfecho
+390,24/01/2025,Cirugías,39,43,5244,MVZ. Eddie Hernández Vidal,2,4,5,3,Pesima,No,Muy Satisfecho
+391,25/01/2025,Consulta general,44,113,5401,MVZ. Eddie Hernández Vidal,4,1,2,2,Buena,Sí,Algo satisfecho
+392,26/01/2025,Hospitalización,36,174,1991,MVZ. Eddie Hernández Vidal,5,4,4,5,Regular,No,Extremadamente satisfecho
+393,27/01/2025,Estética,27,22,5435,MVZ. Eddie Hernández Vidal,2,2,4,5,Pesima,Sí,Satisfecho
+394,28/01/2025,Ultrasonido,13,177,2594,MVZ. Eddie Hernández Vidal,1,5,1,5,Buena,Sí,Satisfecho
+395,29/01/2025,Desparacitación,44,151,3122,MVZ. Eddie Hernández Vidal,1,1,3,5,Pesima,Sí,Satisfecho
+396,30/01/2025,Hospitalización,0,139,1768,MVZ. Eddie Hernández Vidal,2,4,2,5,Regular,Sí,Satisfecho
+397,31/01/2025,Vacunación,10,59,5583,MVZ. Eddie Hernández Vidal,4,3,3,2,Mala,No,Satisfecho
+398,01/02/2025,Cirugías,29,172,1736,MVZ. Eddie Hernández Vidal,3,2,3,3,Regular,No,Satisfecho
+399,02/02/2025,Vacunación,14,133,7490,MVZ. Eddie Hernández Vidal,2,2,4,3,Buena,No,Satisfecho
+400,03/02/2025,Ultrasonido,0,42,9412,MVZ. Eddie Hernández Vidal,3,4,1,5,Regular,Sí,Satisfecho
+401,04/02/2025,Desparacitación,0,41,590,MVZ. Eddie Hernández Vidal,4,5,4,4,Pesima,Sí,Muy Satisfecho
+402,05/02/2025,Hospitalización,32,140,2745,MVZ. Eddie Hernández Vidal,2,3,3,5,Pesima,Sí,Satisfecho
+403,06/02/2025,Vacunación,52,50,6871,MVZ. Eddie Hernández Vidal,2,4,2,3,Regular,No,Satisfecho
+404,07/02/2025,Urgencias,11,144,790,MVZ. Eddie Hernández Vidal,1,4,1,3,Buena,Sí,Algo satisfecho
+405,08/02/2025,Cirugías,29,137,3195,MVZ. Eddie Hernández Vidal,2,4,5,3,Mala,Sí,Muy Satisfecho
+406,09/02/2025,Vacunación,5,43,3236,MVZ. Eddie Hernández Vidal,2,4,3,1,Mala,No,Satisfecho
+407,10/02/2025,Hospitalización,5,129,4671,MVZ. Eddie Hernández Vidal,2,4,3,3,Regular,Sí,Satisfecho
+408,11/02/2025,Cirugías,57,45,5425,MVZ. Eddie Hernández Vidal,1,4,3,2,Mala,No,Satisfecho
+409,12/02/2025,Cirugías,30,67,3465,MVZ. Eddie Hernández Vidal,3,3,1,4,Buena,Sí,Satisfecho
+410,13/02/2025,Estética,18,75,9008,MVZ. Eddie Hernández Vidal,1,3,3,5,Regular,Sí,Satisfecho
+411,14/02/2025,Urgencias,42,167,4310,MVZ. Eddie Hernández Vidal,1,4,3,1,Regular,Sí,Algo satisfecho
+412,15/02/2025,Estética,16,85,1330,MVZ. Eddie Hernández Vidal,2,3,3,4,Buena,Sí,Satisfecho
+413,16/02/2025,Vacunación,55,161,6221,MVZ. Eddie Hernández Vidal,2,1,3,5,Regular,Sí,Satisfecho
+414,17/02/2025,Ultrasonido,17,165,3472,MVZ. Eddie Hernández Vidal,5,1,5,1,Regular,No,Satisfecho
+415,18/02/2025,Vacunación,11,54,7295,MVZ. Eddie Hernández Vidal,5,2,1,1,Mala,Sí,Algo satisfecho
+416,19/02/2025,Servicio a domicilio,9,13,851,MVZ. Eddie Hernández Vidal,4,1,4,4,Regular,No,Satisfecho
+417,20/02/2025,Hospitalización,9,26,3243,MVZ. Eddie Hernández Vidal,5,2,2,4,Regular,Sí,Satisfecho
+418,21/02/2025,Urgencias,26,55,9819,MVZ. Eddie Hernández Vidal,2,3,1,3,Mala,No,Algo satisfecho
+419,22/02/2025,Vacunación,12,157,7087,MVZ. Eddie Hernández Vidal,4,4,4,5,Mala,Sí,Muy Satisfecho
+420,23/02/2025,Urgencias,0,149,6429,MVZ. Eddie Hernández Vidal,3,4,4,5,Pesima,No,Muy Satisfecho
+421,24/02/2025,Vacunación,39,90,8558,MVZ. Eddie Hernández Vidal,5,1,4,2,Regular,Sí,Satisfecho
+422,25/02/2025,Ultrasonido,28,15,8899,MVZ. Eddie Hernández Vidal,5,3,4,4,Mala,Sí,Muy Satisfecho
+423,26/02/2025,Consulta general,54,165,4621,MVZ. Eddie Hernández Vidal,2,5,2,1,Regular,No,Satisfecho
+424,27/02/2025,Servicio a domicilio,13,141,3213,MVZ. Eddie Hernández Vidal,2,4,4,5,Mala,No,Muy Satisfecho
+425,28/02/2025,Desparacitación,23,111,7003,MVZ. Eddie Hernández Vidal,1,3,5,4,Mala,No,Satisfecho
+426,01/03/2025,Consulta general,58,50,6497,MVZ. Eddie Hernández Vidal,1,4,2,2,Regular,Sí,Algo satisfecho
+427,02/03/2025,Vacunación,57,153,913,MVZ. Eddie Hernández Vidal,5,1,3,1,Mala,No,Satisfecho
+428,03/03/2025,Servicio a domicilio,48,167,2499,MVZ. Eddie Hernández Vidal,5,5,3,3,Pesima,Sí,Muy Satisfecho
+429,04/03/2025,Desparacitación,27,9,4862,MVZ. Eddie Hernández Vidal,4,4,2,4,Pesima,Sí,Muy Satisfecho
+430,05/03/2025,Hospitalización,43,53,3929,MVZ. Eddie Hernández Vidal,5,3,4,2,Buena,Sí,Muy Satisfecho
+431,06/03/2025,Desparacitación,25,29,689,MVZ. Eddie Hernández Vidal,2,2,2,4,Pesima,Sí,Satisfecho
+432,07/03/2025,Desparacitación,20,108,7021,MVZ. Eddie Hernández Vidal,2,4,1,4,Pesima,Sí,Satisfecho
+433,08/03/2025,Consulta general,47,48,3449,MVZ. Eddie Hernández Vidal,4,2,4,3,Pesima,No,Satisfecho
+434,09/03/2025,Servicio a domicilio,12,21,2387,MVZ. Eddie Hernández Vidal,3,3,5,4,Pesima,No,Muy Satisfecho
+435,10/03/2025,Hospitalización,24,62,8708,MVZ. Eddie Hernández Vidal,3,4,2,4,Mala,No,Satisfecho
+436,11/03/2025,Servicio a domicilio,5,10,9896,MVZ. Eddie Hernández Vidal,2,5,5,1,Pesima,No,Satisfecho
+437,12/03/2025,Vacunación,34,128,2060,MVZ. Eddie Hernández Vidal,1,1,1,5,Buena,No,Algo satisfecho
+438,13/03/2025,Hospitalización,12,13,2507,MVZ. Eddie Hernández Vidal,3,1,5,3,Mala,Sí,Satisfecho
+439,14/03/2025,Ultrasonido,59,38,7320,MVZ. Eddie Hernández Vidal,1,3,1,3,Regular,Sí,Algo satisfecho
+440,15/03/2025,Ultrasonido,43,59,5794,MVZ. Eddie Hernández Vidal,2,5,2,2,Regular,Sí,Satisfecho
+441,16/03/2025,Servicio a domicilio,15,69,7643,MVZ. Eddie Hernández Vidal,2,5,1,2,Mala,No,Satisfecho
+442,17/03/2025,Vacunación,59,165,926,MVZ. Eddie Hernández Vidal,1,1,3,5,Mala,No,Satisfecho
+443,18/03/2025,Ultrasonido,21,7,7697,MVZ. Eddie Hernández Vidal,2,2,1,1,Pesima,Sí,Algo satisfecho
+444,19/03/2025,Urgencias,36,160,4026,MVZ. Eddie Hernández Vidal,5,3,2,1,Mala,Sí,Satisfecho
+445,20/03/2025,Estética,49,92,1100,MVZ. Eddie Hernández Vidal,2,5,1,1,Mala,No,Algo satisfecho
+446,21/03/2025,Urgencias,44,71,5492,MVZ. Eddie Hernández Vidal,5,4,5,3,Regular,No,Muy Satisfecho
+447,22/03/2025,Hospitalización,12,50,3495,MVZ. Eddie Hernández Vidal,4,3,5,1,Mala,Sí,Satisfecho
+448,23/03/2025,Ultrasonido,48,153,3386,MVZ. Eddie Hernández Vidal,1,1,1,4,Buena,Sí,Algo satisfecho
+449,24/03/2025,Cirugías,34,140,4963,MVZ. Eddie Hernández Vidal,3,4,3,1,Pesima,No,Satisfecho
+450,25/03/2025,Ultrasonido,5,29,1916,MVZ. Eddie Hernández Vidal,4,3,5,1,Mala,Sí,Satisfecho
+451,26/03/2025,Cirugías,20,104,865,MVZ. Eddie Hernández Vidal,1,3,5,3,Regular,No,Satisfecho
+452,27/03/2025,Servicio a domicilio,60,67,1902,MVZ. Eddie Hernández Vidal,3,2,3,3,Buena,Sí,Satisfecho
+453,28/03/2025,Hospitalización,31,99,9420,MVZ. Eddie Hernández Vidal,5,4,4,4,Buena,Sí,Muy Satisfecho
+454,29/03/2025,Consulta general,34,167,9504,MVZ. Eddie Hernández Vidal,3,1,4,4,Mala,Sí,Satisfecho
+455,30/03/2025,Servicio a domicilio,23,154,8637,MVZ. Eddie Hernández Vidal,5,3,4,1,Mala,No,Satisfecho
+456,31/03/2025,Servicio a domicilio,19,92,3198,MVZ. Eddie Hernández Vidal,2,2,3,4,Mala,Sí,Satisfecho
+457,01/04/2025,Cirugías,21,150,9981,MVZ. Eddie Hernández Vidal,2,1,3,2,Pesima,No,Algo satisfecho
+458,02/04/2025,Ultrasonido,47,74,1346,MVZ. Eddie Hernández Vidal,5,4,5,5,Regular,Sí,Extremadamente satisfecho
+459,03/04/2025,Desparacitación,58,132,2429,MVZ. Eddie Hernández Vidal,4,1,3,2,Mala,No,Satisfecho
+460,04/04/2025,Servicio a domicilio,6,8,7551,MVZ. Eddie Hernández Vidal,3,4,3,4,Buena,Sí,Muy Satisfecho
+461,05/04/2025,Servicio a domicilio,4,94,1316,MVZ. Eddie Hernández Vidal,5,1,2,3,Mala,No,Satisfecho
+462,06/04/2025,Consulta general,9,154,1581,MVZ. Eddie Hernández Vidal,4,4,5,4,Buena,Sí,Muy Satisfecho
+463,07/04/2025,Urgencias,24,139,3617,MVZ. Eddie Hernández Vidal,3,3,1,1,Mala,No,Algo satisfecho
+464,08/04/2025,Urgencias,47,27,9723,MVZ. Eddie Hernández Vidal,4,4,3,3,Buena,Sí,Muy Satisfecho
+465,09/04/2025,Servicio a domicilio,32,28,2584,MVZ. Eddie Hernández Vidal,5,1,4,2,Buena,No,Satisfecho
+466,10/04/2025,Estética,10,90,1321,MVZ. Eddie Hernández Vidal,3,5,4,4,Pesima,No,Muy Satisfecho
+467,11/04/2025,Vacunación,26,81,134,MVZ. Eddie Hernández Vidal,3,1,3,3,Mala,Sí,Satisfecho
+468,12/04/2025,Urgencias,27,155,5699,MVZ. Eddie Hernández Vidal,4,1,3,1,Mala,Sí,Algo satisfecho
+469,13/04/2025,Estética,16,65,2022,MVZ. Eddie Hernández Vidal,2,1,1,1,Mala,Sí,Insatisfecho
+470,14/04/2025,Estética,34,143,3890,MVZ. Eddie Hernández Vidal,3,5,1,1,Pesima,Sí,Satisfecho
+471,15/04/2025,Consulta general,22,46,2943,MVZ. Eddie Hernández Vidal,4,1,4,1,Buena,Sí,Satisfecho
+472,16/04/2025,Urgencias,28,74,4863,MVZ. Eddie Hernández Vidal,2,1,4,4,Buena,Sí,Satisfecho
+473,17/04/2025,Cirugías,28,172,6436,MVZ. Eddie Hernández Vidal,1,3,1,4,Buena,Sí,Algo satisfecho
+474,18/04/2025,Estética,49,120,3513,MVZ. Eddie Hernández Vidal,4,2,4,3,Mala,Sí,Satisfecho
+475,19/04/2025,Servicio a domicilio,14,95,9564,MVZ. Eddie Hernández Vidal,3,5,2,3,Regular,No,Satisfecho
+476,20/04/2025,Vacunación,37,159,8053,MVZ. Eddie Hernández Vidal,1,5,1,1,Mala,No,Algo satisfecho
+477,21/04/2025,Cirugías,25,179,9132,MVZ. Eddie Hernández Vidal,5,1,3,2,Buena,No,Satisfecho
+478,22/04/2025,Vacunación,5,121,3308,MVZ. Eddie Hernández Vidal,1,5,2,4,Regular,No,Satisfecho
+479,23/04/2025,Estética,2,149,5009,MVZ. Eddie Hernández Vidal,1,5,3,5,Mala,Sí,Muy Satisfecho
+480,24/04/2025,Ultrasonido,35,134,5752,MVZ. Eddie Hernández Vidal,1,4,4,4,Buena,Sí,Satisfecho
+481,25/04/2025,Desparacitación,11,83,3577,MVZ. Eddie Hernández Vidal,2,2,3,1,Buena,No,Algo satisfecho
+482,26/04/2025,Ultrasonido,51,14,6154,MVZ. Eddie Hernández Vidal,2,5,4,1,Mala,No,Satisfecho
+483,27/04/2025,Vacunación,13,68,9116,MVZ. Eddie Hernández Vidal,2,2,5,1,Mala,Sí,Satisfecho
+484,28/04/2025,Ultrasonido,35,68,2735,MVZ. Eddie Hernández Vidal,1,5,4,2,Buena,Sí,Satisfecho
+485,29/04/2025,Servicio a domicilio,56,168,4860,MVZ. Eddie Hernández Vidal,3,3,4,3,Buena,Sí,Satisfecho
+486,30/04/2025,Ultrasonido,31,104,2139,MVZ. Eddie Hernández Vidal,3,2,3,5,Mala,Sí,Satisfecho
+487,01/05/2025,Cirugías,30,141,5881,MVZ. Eddie Hernández Vidal,1,4,4,1,Buena,No,Satisfecho
+488,02/05/2025,Cirugías,5,61,3904,MVZ. Eddie Hernández Vidal,1,5,5,4,Pesima,No,Muy Satisfecho
+489,03/05/2025,Desparacitación,29,120,7756,MVZ. Eddie Hernández Vidal,3,1,4,2,Buena,No,Satisfecho
+490,04/05/2025,Ultrasonido,27,109,6851,MVZ. Eddie Hernández Vidal,4,5,4,5,Buena,Sí,Extremadamente satisfecho
+491,05/05/2025,Cirugías,57,178,6170,MVZ. Eddie Hernández Vidal,5,5,1,2,Pesima,No,Satisfecho
+492,06/05/2025,Consulta general,53,82,4846,MVZ. Eddie Hernández Vidal,1,5,2,3,Regular,Sí,Satisfecho
+493,07/05/2025,Vacunación,1,49,2196,MVZ. Eddie Hernández Vidal,1,2,1,1,Mala,Sí,Insatisfecho
+494,08/05/2025,Vacunación,40,19,8142,MVZ. Eddie Hernández Vidal,2,5,5,4,Regular,Sí,Muy Satisfecho
+495,09/05/2025,Estética,26,146,1839,MVZ. Eddie Hernández Vidal,2,2,2,1,Mala,No,Algo satisfecho
+496,10/05/2025,Cirugías,28,63,8424,MVZ. Eddie Hernández Vidal,1,4,5,5,Buena,Sí,Muy Satisfecho
+497,11/05/2025,Cirugías,39,139,6240,MVZ. Eddie Hernández Vidal,4,3,4,5,Regular,No,Muy Satisfecho
+498,12/05/2025,Ultrasonido,39,112,6352,MVZ. Eddie Hernández Vidal,4,3,2,5,Regular,Sí,Muy Satisfecho
+499,13/05/2025,Urgencias,33,77,1330,MVZ. Eddie Hernández Vidal,2,3,3,3,Pesima,No,Satisfecho
+500,14/05/2025,Hospitalización,41,56,3676,MVZ. Eddie Hernández Vidal,5,5,4,3,Pesima,No,Muy Satisfecho
+501,15/05/2025,Cirugías,47,19,3867,MVZ. Eddie Hernández Vidal,1,2,2,5,Regular,Sí,Satisfecho
+502,16/05/2025,Consulta general,45,115,1099,MVZ. Eddie Hernández Vidal,4,3,5,3,Buena,Sí,Muy Satisfecho
+503,17/05/2025,Cirugías,32,33,4622,MVZ. Eddie Hernández Vidal,4,4,1,3,Mala,Sí,Satisfecho
+504,18/05/2025,Ultrasonido,57,162,5114,MVZ. Eddie Hernández Vidal,1,3,3,5,Mala,No,Satisfecho
+505,19/05/2025,Ultrasonido,4,99,6795,MVZ. Eddie Hernández Vidal,5,5,2,4,Buena,No,Muy Satisfecho
+506,20/05/2025,Estética,54,13,8204,MVZ. Eddie Hernández Vidal,2,1,5,2,Pesima,Sí,Satisfecho
+507,21/05/2025,Hospitalización,0,112,134,MVZ. Eddie Hernández Vidal,1,3,3,3,Buena,Sí,Satisfecho
+508,22/05/2025,Cirugías,11,61,4487,MVZ. Eddie Hernández Vidal,5,5,4,5,Regular,No,Extremadamente satisfecho
+509,23/05/2025,Vacunación,51,84,5192,MVZ. Eddie Hernández Vidal,3,5,4,4,Buena,No,Muy Satisfecho
+510,24/05/2025,Servicio a domicilio,35,103,5656,MVZ. Eddie Hernández Vidal,3,1,3,3,Regular,Sí,Satisfecho
+511,25/05/2025,Vacunación,4,42,5919,MVZ. Eddie Hernández Vidal,5,3,2,2,Mala,No,Satisfecho
+512,26/05/2025,Servicio a domicilio,26,175,7665,MVZ. Eddie Hernández Vidal,2,3,1,4,Pesima,No,Satisfecho
+513,27/05/2025,Cirugías,15,107,6554,MVZ. Eddie Hernández Vidal,1,4,4,4,Pesima,No,Satisfecho
+514,28/05/2025,Desparacitación,49,106,8538,MVZ. Eddie Hernández Vidal,4,5,4,2,Pesima,Sí,Muy Satisfecho
+515,29/05/2025,Consulta general,28,10,291,MVZ. Eddie Hernández Vidal,1,3,5,5,Pesima,No,Muy Satisfecho
+516,30/05/2025,Cirugías,42,147,1171,MVZ. Eddie Hernández Vidal,2,3,1,2,Pesima,No,Algo satisfecho
+517,31/05/2025,Estética,16,144,8175,MVZ. Eddie Hernández Vidal,3,2,1,2,Buena,No,Algo satisfecho
+518,01/06/2025,Vacunación,52,149,6486,MVZ. Eddie Hernández Vidal,1,1,1,5,Buena,No,Algo satisfecho
+519,02/06/2025,Cirugías,6,164,6201,MVZ. Eddie Hernández Vidal,5,4,1,5,Buena,No,Muy Satisfecho
+520,03/06/2025,Estética,56,81,1828,MVZ. Eddie Hernández Vidal,1,1,4,1,Buena,Sí,Algo satisfecho
+521,04/06/2025,Desparacitación,31,103,7413,MVZ. Eddie Hernández Vidal,1,2,4,4,Buena,No,Satisfecho
+522,05/06/2025,Consulta general,2,69,3937,MVZ. Eddie Hernández Vidal,3,2,1,4,Pesima,No,Satisfecho
+523,06/06/2025,Hospitalización,60,125,3212,MVZ. Eddie Hernández Vidal,3,2,4,5,Mala,No,Muy Satisfecho
+524,07/06/2025,Estética,17,62,327,MVZ. Eddie Hernández Vidal,4,3,2,1,Buena,Sí,Satisfecho
+525,08/06/2025,Consulta general,50,149,6727,MVZ. Eddie Hernández Vidal,3,1,4,2,Regular,No,Satisfecho
+526,09/06/2025,Servicio a domicilio,1,132,3807,MVZ. Eddie Hernández Vidal,3,1,2,2,Regular,No,Algo satisfecho
+527,10/06/2025,Consulta general,32,137,2751,MVZ. Eddie Hernández Vidal,1,5,4,3,Regular,No,Satisfecho
+528,11/06/2025,Consulta general,33,105,1649,MVZ. Eddie Hernández Vidal,3,3,5,4,Pesima,Sí,Muy Satisfecho
+529,12/06/2025,Hospitalización,38,8,1288,MVZ. Eddie Hernández Vidal,1,4,4,2,Mala,Sí,Satisfecho
+530,13/06/2025,Cirugías,4,138,3470,MVZ. Eddie Hernández Vidal,1,4,5,1,Mala,Sí,Satisfecho
+531,14/06/2025,Urgencias,30,55,9596,MVZ. Eddie Hernández Vidal,5,5,3,4,Regular,No,Muy Satisfecho
+532,15/06/2025,Desparacitación,4,132,5012,MVZ. Eddie Hernández Vidal,1,2,2,5,Mala,Sí,Satisfecho
+533,16/06/2025,Consulta general,59,175,9623,MVZ. Eddie Hernández Vidal,4,3,2,1,Mala,No,Satisfecho
+534,17/06/2025,Consulta general,15,50,3668,MVZ. Eddie Hernández Vidal,1,1,5,2,Buena,Sí,Algo satisfecho
+535,18/06/2025,Ultrasonido,21,20,604,MVZ. Eddie Hernández Vidal,1,5,5,4,Mala,No,Muy Satisfecho
+536,19/06/2025,Ultrasonido,57,122,8964,MVZ. Eddie Hernández Vidal,2,1,4,2,Pesima,Sí,Algo satisfecho
+537,20/06/2025,Urgencias,51,96,9488,MVZ. Eddie Hernández Vidal,4,1,2,3,Buena,Sí,Satisfecho
+538,21/06/2025,Servicio a domicilio,38,130,2750,MVZ. Eddie Hernández Vidal,2,1,5,2,Buena,Sí,Satisfecho
+539,22/06/2025,Vacunación,10,166,3308,MVZ. Eddie Hernández Vidal,5,2,4,5,Regular,No,Muy Satisfecho
+540,23/06/2025,Hospitalización,16,16,5237,MVZ. Eddie Hernández Vidal,1,4,4,2,Buena,No,Satisfecho
+541,24/06/2025,Servicio a domicilio,2,132,9939,MVZ. Eddie Hernández Vidal,4,2,1,5,Pesima,Sí,Satisfecho
+542,25/06/2025,Desparacitación,46,39,6906,MVZ. Eddie Hernández Vidal,4,2,1,1,Pesima,Sí,Algo satisfecho
+543,26/06/2025,Urgencias,46,18,8705,MVZ. Eddie Hernández Vidal,5,4,3,2,Buena,Sí,Muy Satisfecho
+544,27/06/2025,Ultrasonido,46,140,5988,MVZ. Eddie Hernández Vidal,3,4,2,1,Buena,No,Satisfecho
+545,28/06/2025,Servicio a domicilio,32,157,3666,MVZ. Eddie Hernández Vidal,4,5,5,3,Regular,Sí,Muy Satisfecho
+546,29/06/2025,Desparacitación,39,104,2666,MVZ. Eddie Hernández Vidal,3,2,2,1,Buena,Sí,Algo satisfecho
+547,30/06/2025,Hospitalización,23,87,307,MVZ. Eddie Hernández Vidal,5,3,4,3,Mala,No,Muy Satisfecho
+548,01/07/2025,Vacunación,1,115,249,MVZ. Eddie Hernández Vidal,3,1,5,2,Pesima,Sí,Satisfecho
+549,02/07/2025,Urgencias,36,45,4790,MVZ. Eddie Hernández Vidal,5,3,1,4,Pesima,No,Satisfecho
+550,03/07/2025,Cirugías,25,70,6779,MVZ. Eddie Hernández Vidal,1,3,5,2,Regular,No,Satisfecho
+551,04/07/2025,Desparacitación,8,32,2462,MVZ. Eddie Hernández Vidal,1,3,1,5,Regular,Sí,Satisfecho
+552,05/07/2025,Urgencias,47,148,3492,MVZ. Eddie Hernández Vidal,1,4,4,2,Regular,Sí,Satisfecho
+553,06/07/2025,Servicio a domicilio,27,148,328,MVZ. Eddie Hernández Vidal,2,5,3,4,Regular,No,Muy Satisfecho
+554,07/07/2025,Vacunación,0,46,1148,MVZ. Eddie Hernández Vidal,4,2,1,2,Buena,No,Algo satisfecho
+555,08/07/2025,Consulta general,35,11,8232,MVZ. Eddie Hernández Vidal,5,4,1,4,Mala,Sí,Muy Satisfecho
+556,09/07/2025,Hospitalización,26,131,3213,MVZ. Eddie Hernández Vidal,3,5,3,2,Mala,No,Satisfecho
+557,10/07/2025,Consulta general,47,61,390,MVZ. Eddie Hernández Vidal,5,5,3,5,Pesima,No,Extremadamente satisfecho
+558,11/07/2025,Vacunación,52,139,2342,MVZ. Eddie Hernández Vidal,2,5,5,5,Mala,No,Muy Satisfecho
+559,12/07/2025,Desparacitación,42,83,6380,MVZ. Eddie Hernández Vidal,3,5,4,1,Regular,Sí,Satisfecho
+560,13/07/2025,Consulta general,22,164,8270,MVZ. Eddie Hernández Vidal,2,1,2,5,Buena,Sí,Satisfecho
+561,14/07/2025,Hospitalización,31,139,4840,MVZ. Eddie Hernández Vidal,3,1,1,2,Mala,Sí,Algo satisfecho
+562,15/07/2025,Desparacitación,1,38,6664,MVZ. Eddie Hernández Vidal,4,4,4,3,Regular,No,Muy Satisfecho
+563,16/07/2025,Urgencias,29,132,5798,MVZ. Eddie Hernández Vidal,1,2,4,4,Regular,No,Satisfecho
+564,17/07/2025,Servicio a domicilio,3,131,5856,MVZ. Eddie Hernández Vidal,1,2,4,4,Pesima,Sí,Satisfecho
+565,18/07/2025,Hospitalización,3,51,400,MVZ. Eddie Hernández Vidal,4,4,4,1,Mala,No,Satisfecho
+566,19/07/2025,Desparacitación,34,132,5020,MVZ. Eddie Hernández Vidal,4,2,4,2,Mala,Sí,Satisfecho
+567,20/07/2025,Urgencias,52,31,4371,MVZ. Eddie Hernández Vidal,1,4,5,5,Buena,Sí,Muy Satisfecho
+568,21/07/2025,Servicio a domicilio,36,56,1000,MVZ. Eddie Hernández Vidal,5,2,5,4,Mala,No,Muy Satisfecho
+569,22/07/2025,Ultrasonido,42,165,3503,MVZ. Eddie Hernández Vidal,3,3,3,4,Regular,Sí,Satisfecho
+570,23/07/2025,Servicio a domicilio,46,51,9676,MVZ. Eddie Hernández Vidal,5,1,5,4,Pesima,No,Muy Satisfecho
+571,24/07/2025,Desparacitación,20,100,9342,MVZ. Eddie Hernández Vidal,5,4,1,3,Mala,Sí,Satisfecho
+572,25/07/2025,Cirugías,41,140,877,MVZ. Eddie Hernández Vidal,4,5,1,3,Regular,No,Satisfecho
+573,26/07/2025,Desparacitación,5,44,8415,MVZ. Eddie Hernández Vidal,1,2,5,3,Buena,No,Satisfecho
+574,27/07/2025,Desparacitación,24,10,4285,MVZ. Eddie Hernández Vidal,3,4,4,1,Regular,Sí,Satisfecho
+575,28/07/2025,Estética,19,106,2472,MVZ. Eddie Hernández Vidal,1,3,3,1,Mala,No,Algo satisfecho
+576,29/07/2025,Consulta general,54,160,4738,MVZ. Eddie Hernández Vidal,1,3,3,1,Regular,No,Algo satisfecho
+577,30/07/2025,Cirugías,37,171,3731,MVZ. Eddie Hernández Vidal,1,1,5,2,Regular,Sí,Algo satisfecho
+578,31/07/2025,Hospitalización,3,50,1541,MVZ. Eddie Hernández Vidal,4,4,2,1,Buena,Sí,Satisfecho
+579,01/08/2025,Urgencias,19,156,217,MVZ. Eddie Hernández Vidal,1,4,5,3,Regular,No,Satisfecho
+580,02/08/2025,Consulta general,23,17,7873,MVZ. Eddie Hernández Vidal,1,2,4,2,Mala,Sí,Algo satisfecho
+581,03/08/2025,Vacunación,48,142,5953,MVZ. Eddie Hernández Vidal,3,5,4,2,Regular,No,Muy Satisfecho
+582,04/08/2025,Servicio a domicilio,30,162,7736,MVZ. Eddie Hernández Vidal,4,3,5,1,Regular,Sí,Satisfecho
+583,05/08/2025,Estética,30,162,6553,MVZ. Eddie Hernández Vidal,5,5,2,2,Pesima,Sí,Muy Satisfecho
+584,06/08/2025,Servicio a domicilio,25,18,7004,MVZ. Eddie Hernández Vidal,2,3,4,3,Buena,Sí,Satisfecho
+585,07/08/2025,Desparacitación,7,92,1445,MVZ. Eddie Hernández Vidal,1,2,1,3,Mala,No,Algo satisfecho
+586,08/08/2025,Estética,42,29,9809,MVZ. Eddie Hernández Vidal,1,1,1,3,Buena,Sí,Algo satisfecho
+587,09/08/2025,Servicio a domicilio,12,142,8280,MVZ. Eddie Hernández Vidal,3,4,1,5,Mala,Sí,Satisfecho
+588,10/08/2025,Estética,4,73,6381,MVZ. Eddie Hernández Vidal,5,3,1,3,Buena,No,Satisfecho
+589,11/08/2025,Hospitalización,48,170,6201,MVZ. Eddie Hernández Vidal,2,3,4,1,Buena,No,Satisfecho
+590,12/08/2025,Estética,27,91,2178,MVZ. Eddie Hernández Vidal,3,4,3,1,Pesima,Sí,Satisfecho
+591,13/08/2025,Servicio a domicilio,12,157,5883,MVZ. Eddie Hernández Vidal,2,1,4,4,Regular,No,Satisfecho
+592,14/08/2025,Vacunación,47,106,437,MVZ. Eddie Hernández Vidal,3,3,3,4,Regular,Sí,Satisfecho
+593,15/08/2025,Vacunación,10,109,4334,MVZ. Eddie Hernández Vidal,3,5,2,3,Pesima,No,Satisfecho
+594,16/08/2025,Ultrasonido,60,58,8851,MVZ. Eddie Hernández Vidal,4,2,2,2,Pesima,No,Satisfecho
+595,17/08/2025,Urgencias,43,103,9313,MVZ. Eddie Hernández Vidal,3,1,4,3,Regular,Sí,Satisfecho
+596,18/08/2025,Vacunación,53,179,9755,MVZ. Eddie Hernández Vidal,5,5,3,1,Pesima,Sí,Muy Satisfecho
+597,19/08/2025,Ultrasonido,46,166,6634,MVZ. Eddie Hernández Vidal,4,3,4,2,Pesima,Sí,Satisfecho
+598,20/08/2025,Vacunación,10,146,7594,MVZ. Eddie Hernández Vidal,2,1,4,2,Regular,No,Algo satisfecho
+599,21/08/2025,Ultrasonido,51,17,2169,MVZ. Eddie Hernández Vidal,4,4,3,1,Regular,No,Satisfecho
+600,22/08/2025,Vacunación,43,179,2567,MVZ. Eddie Hernández Vidal,2,1,5,2,Regular,No,Satisfecho
+601,23/08/2025,Servicio a domicilio,6,34,2383,MVZ. Eddie Hernández Vidal,2,3,2,5,Regular,Sí,Satisfecho
+602,24/08/2025,Servicio a domicilio,7,17,1407,MVZ. Eddie Hernández Vidal,2,2,2,4,Pesima,Sí,Satisfecho
+603,25/08/2025,Servicio a domicilio,0,53,9204,MVZ. Eddie Hernández Vidal,3,5,2,4,Regular,No,Muy Satisfecho
+604,26/08/2025,Ultrasonido,51,40,1138,MVZ. Eddie Hernández Vidal,5,4,2,2,Regular,Sí,Satisfecho
+605,27/08/2025,Desparacitación,34,39,8841,MVZ. Eddie Hernández Vidal,4,1,2,2,Pesima,Sí,Algo satisfecho
+606,28/08/2025,Ultrasonido,32,63,4615,MVZ. Eddie Hernández Vidal,2,2,4,2,Regular,Sí,Satisfecho
+607,29/08/2025,Urgencias,23,134,427,MVZ. Eddie Hernández Vidal,5,2,4,4,Mala,No,Muy Satisfecho
+608,30/08/2025,Desparacitación,0,150,414,MVZ. Eddie Hernández Vidal,2,5,4,3,Regular,No,Muy Satisfecho
+609,31/08/2025,Servicio a domicilio,7,176,2076,MVZ. Eddie Hernández Vidal,2,1,5,3,Mala,No,Satisfecho
+610,01/09/2025,Consulta general,30,14,3751,MVZ. Eddie Hernández Vidal,1,1,5,3,Mala,No,Satisfecho
+611,02/09/2025,Ultrasonido,18,149,9167,MVZ. Eddie Hernández Vidal,2,5,5,4,Buena,Sí,Muy Satisfecho
+612,03/09/2025,Consulta general,32,72,9781,MVZ. Eddie Hernández Vidal,1,2,3,4,Mala,Sí,Satisfecho
+613,04/09/2025,Hospitalización,2,174,5068,MVZ. Eddie Hernández Vidal,1,1,1,3,Mala,No,Algo satisfecho
+614,05/09/2025,Cirugías,38,52,5088,MVZ. Eddie Hernández Vidal,2,4,4,5,Buena,Sí,Muy Satisfecho
+615,06/09/2025,Ultrasonido,12,93,4505,MVZ. Eddie Hernández Vidal,5,3,4,5,Mala,Sí,Muy Satisfecho
+616,07/09/2025,Consulta general,0,63,6536,MVZ. Eddie Hernández Vidal,5,1,3,1,Buena,No,Satisfecho
+617,08/09/2025,Ultrasonido,60,41,4168,MVZ. Eddie Hernández Vidal,3,4,3,5,Mala,Sí,Muy Satisfecho
+618,09/09/2025,Ultrasonido,8,17,7477,MVZ. Eddie Hernández Vidal,1,2,2,1,Regular,No,Algo satisfecho
+619,10/09/2025,Ultrasonido,3,31,5132,MVZ. Eddie Hernández Vidal,5,5,3,4,Mala,Sí,Muy Satisfecho
+620,11/09/2025,Ultrasonido,13,7,6609,MVZ. Eddie Hernández Vidal,5,4,3,5,Mala,No,Muy Satisfecho
+621,12/09/2025,Servicio a domicilio,26,27,5644,MVZ. Eddie Hernández Vidal,3,4,2,4,Buena,Sí,Satisfecho
+622,13/09/2025,Cirugías,3,51,9015,MVZ. Eddie Hernández Vidal,1,1,5,5,Mala,No,Satisfecho
+623,14/09/2025,Servicio a domicilio,38,88,387,MVZ. Eddie Hernández Vidal,2,5,2,1,Buena,No,Satisfecho
+624,15/09/2025,Servicio a domicilio,6,23,7866,MVZ. Eddie Hernández Vidal,1,5,2,4,Buena,No,Satisfecho
+625,16/09/2025,Vacunación,6,39,3536,MVZ. Eddie Hernández Vidal,4,4,2,3,Pesima,No,Satisfecho
+626,17/09/2025,Servicio a domicilio,20,100,612,MVZ. Eddie Hernández Vidal,5,4,3,4,Pesima,Sí,Muy Satisfecho
+627,18/09/2025,Vacunación,58,5,4428,MVZ. Eddie Hernández Vidal,3,2,1,1,Buena,No,Algo satisfecho
+628,19/09/2025,Estética,2,160,2345,MVZ. Eddie Hernández Vidal,1,1,3,3,Mala,No,Algo satisfecho
+629,20/09/2025,Cirugías,21,53,1084,MVZ. Eddie Hernández Vidal,3,5,4,4,Pesima,Sí,Muy Satisfecho
+630,21/09/2025,Desparacitación,47,136,9252,MVZ. Eddie Hernández Vidal,4,3,5,3,Regular,Sí,Muy Satisfecho
+631,22/09/2025,Cirugías,52,16,1413,MVZ. Eddie Hernández Vidal,2,4,1,2,Pesima,No,Algo satisfecho
+632,23/09/2025,Consulta general,58,117,8710,MVZ. Eddie Hernández Vidal,2,3,4,1,Buena,Sí,Satisfecho
+633,24/09/2025,Cirugías,46,161,6788,MVZ. Eddie Hernández Vidal,5,4,3,5,Buena,Sí,Muy Satisfecho
+634,25/09/2025,Estética,18,45,3490,MVZ. Eddie Hernández Vidal,1,5,1,4,Mala,No,Satisfecho
+635,26/09/2025,Servicio a domicilio,16,7,1938,MVZ. Eddie Hernández Vidal,4,1,5,3,Pesima,No,Satisfecho
+636,27/09/2025,Cirugías,57,64,8476,MVZ. Eddie Hernández Vidal,1,3,2,4,Buena,No,Satisfecho
+637,28/09/2025,Ultrasonido,43,15,2179,MVZ. Eddie Hernández Vidal,1,2,2,2,Pesima,Sí,Algo satisfecho
+638,29/09/2025,Desparacitación,33,137,1716,MVZ. Eddie Hernández Vidal,3,5,4,1,Pesima,No,Satisfecho
+639,30/09/2025,Urgencias,42,114,298,MVZ. Eddie Hernández Vidal,5,3,3,3,Pesima,No,Muy Satisfecho
+640,01/10/2025,Estética,5,132,6426,MVZ. Eddie Hernández Vidal,5,4,3,4,Regular,No,Muy Satisfecho
+641,02/10/2025,Cirugías,29,95,4376,MVZ. Eddie Hernández Vidal,1,1,5,4,Mala,No,Satisfecho
+642,03/10/2025,Cirugías,15,112,9934,MVZ. Eddie Hernández Vidal,1,4,3,4,Buena,Sí,Satisfecho
+643,04/10/2025,Cirugías,25,13,8084,MVZ. Eddie Hernández Vidal,4,1,5,1,Regular,Sí,Satisfecho
+644,05/10/2025,Consulta general,45,42,4631,MVZ. Eddie Hernández Vidal,1,4,4,3,Mala,No,Satisfecho
+645,06/10/2025,Urgencias,53,107,570,MVZ. Eddie Hernández Vidal,5,3,1,4,Regular,No,Satisfecho
+646,07/10/2025,Urgencias,24,96,7441,MVZ. Eddie Hernández Vidal,3,2,4,3,Mala,No,Satisfecho
+647,08/10/2025,Urgencias,36,24,841,MVZ. Eddie Hernández Vidal,4,4,4,4,Pesima,Sí,Muy Satisfecho
+648,09/10/2025,Urgencias,60,40,6109,MVZ. Eddie Hernández Vidal,3,3,2,3,Buena,Sí,Satisfecho
+649,10/10/2025,Urgencias,57,169,4660,MVZ. Eddie Hernández Vidal,1,3,3,4,Buena,No,Satisfecho
+650,11/10/2025,Hospitalización,0,129,5880,MVZ. Eddie Hernández Vidal,4,4,5,5,Regular,No,Extremadamente satisfecho
+651,12/10/2025,Ultrasonido,13,79,8802,MVZ. Eddie Hernández Vidal,3,2,2,1,Mala,Sí,Algo satisfecho
+652,13/10/2025,Vacunación,12,54,7878,MVZ. Eddie Hernández Vidal,4,1,3,4,Pesima,No,Satisfecho
+653,14/10/2025,Cirugías,6,151,2970,MVZ. Eddie Hernández Vidal,2,3,2,2,Mala,Sí,Algo satisfecho
+654,15/10/2025,Desparacitación,49,9,7108,MVZ. Eddie Hernández Vidal,2,3,1,3,Pesima,No,Algo satisfecho
+655,16/10/2025,Vacunación,49,54,9813,MVZ. Eddie Hernández Vidal,5,3,3,3,Regular,Sí,Muy Satisfecho
+656,17/10/2025,Desparacitación,3,18,6036,MVZ. Eddie Hernández Vidal,4,3,1,1,Mala,No,Algo satisfecho
+657,18/10/2025,Cirugías,32,149,4885,MVZ. Eddie Hernández Vidal,4,4,1,1,Regular,No,Satisfecho
+658,19/10/2025,Consulta general,51,109,9283,MVZ. Eddie Hernández Vidal,5,1,3,5,Regular,No,Muy Satisfecho
+659,20/10/2025,Vacunación,49,66,6585,MVZ. Eddie Hernández Vidal,2,4,1,3,Regular,Sí,Satisfecho
+660,21/10/2025,Ultrasonido,35,103,7396,MVZ. Eddie Hernández Vidal,4,2,5,2,Mala,Sí,Satisfecho
+661,22/10/2025,Hospitalización,13,22,6819,MVZ. Eddie Hernández Vidal,5,1,5,3,Mala,Sí,Muy Satisfecho
+662,23/10/2025,Desparacitación,11,29,7093,MVZ. Eddie Hernández Vidal,5,5,4,5,Pesima,No,Extremadamente satisfecho
+663,24/10/2025,Urgencias,17,98,4132,MVZ. Eddie Hernández Vidal,4,2,2,5,Regular,No,Satisfecho
+664,25/10/2025,Urgencias,4,71,1417,MVZ. Eddie Hernández Vidal,2,4,4,4,Mala,No,Muy Satisfecho
+665,26/10/2025,Hospitalización,23,51,3808,MVZ. Eddie Hernández Vidal,3,3,2,2,Mala,Sí,Satisfecho
+666,27/10/2025,Vacunación,47,173,8849,MVZ. Eddie Hernández Vidal,2,4,5,5,Pesima,No,Muy Satisfecho
+667,28/10/2025,Vacunación,10,172,2138,MVZ. Eddie Hernández Vidal,4,4,5,5,Regular,Sí,Extremadamente satisfecho
+668,29/10/2025,Urgencias,38,14,4628,MVZ. Eddie Hernández Vidal,4,4,5,5,Pesima,No,Extremadamente satisfecho
+669,30/10/2025,Urgencias,52,112,6285,MVZ. Eddie Hernández Vidal,4,2,1,5,Buena,No,Satisfecho
+670,31/10/2025,Desparacitación,53,31,4281,MVZ. Eddie Hernández Vidal,2,5,1,3,Regular,Sí,Satisfecho
+671,01/11/2025,Desparacitación,38,25,9924,MVZ. Eddie Hernández Vidal,3,3,1,1,Regular,Sí,Algo satisfecho
+672,02/11/2025,Cirugías,48,111,8309,MVZ. Eddie Hernández Vidal,3,3,3,5,Regular,Sí,Muy Satisfecho
+673,03/11/2025,Estética,36,71,6782,MVZ. Eddie Hernández Vidal,5,4,1,4,Pesima,No,Muy Satisfecho
+674,04/11/2025,Estética,29,57,1039,MVZ. Eddie Hernández Vidal,5,4,3,3,Regular,No,Muy Satisfecho
+675,05/11/2025,Urgencias,25,44,5532,MVZ. Eddie Hernández Vidal,1,4,1,2,Buena,Sí,Algo satisfecho
+676,06/11/2025,Consulta general,35,88,1709,MVZ. Eddie Hernández Vidal,1,4,3,1,Pesima,No,Algo satisfecho
+677,07/11/2025,Cirugías,7,121,7055,MVZ. Eddie Hernández Vidal,1,2,3,3,Regular,No,Algo satisfecho
+678,08/11/2025,Ultrasonido,0,140,9209,MVZ. Eddie Hernández Vidal,1,2,4,1,Buena,No,Algo satisfecho
+679,09/11/2025,Consulta general,0,36,7196,MVZ. Eddie Hernández Vidal,3,1,4,2,Buena,Sí,Satisfecho
+680,10/11/2025,Desparacitación,8,101,2813,MVZ. Eddie Hernández Vidal,4,1,1,2,Buena,No,Algo satisfecho
+681,11/11/2025,Urgencias,3,160,6149,MVZ. Eddie Hernández Vidal,3,2,4,5,Buena,Sí,Muy Satisfecho
+682,12/11/2025,Desparacitación,6,157,3286,MVZ. Eddie Hernández Vidal,3,4,3,5,Buena,Sí,Muy Satisfecho
+683,13/11/2025,Hospitalización,37,60,1596,MVZ. Eddie Hernández Vidal,5,3,1,2,Mala,No,Satisfecho
+684,14/11/2025,Hospitalización,60,141,5417,MVZ. Eddie Hernández Vidal,3,2,3,5,Buena,No,Satisfecho
+685,15/11/2025,Hospitalización,7,49,810,MVZ. Eddie Hernández Vidal,1,2,2,1,Buena,No,Algo satisfecho
+686,16/11/2025,Ultrasonido,51,58,9457,MVZ. Eddie Hernández Vidal,5,1,1,5,Mala,Sí,Satisfecho
+687,17/11/2025,Servicio a domicilio,13,43,5488,MVZ. Eddie Hernández Vidal,1,5,5,2,Regular,No,Satisfecho
+688,18/11/2025,Ultrasonido,18,160,5350,MVZ. Eddie Hernández Vidal,5,3,2,4,Mala,Sí,Muy Satisfecho
+689,19/11/2025,Urgencias,56,48,2744,MVZ. Eddie Hernández Vidal,5,3,3,5,Mala,Sí,Muy Satisfecho
+690,20/11/2025,Servicio a domicilio,17,13,7330,MVZ. Eddie Hernández Vidal,2,5,4,5,Mala,No,Muy Satisfecho
+691,21/11/2025,Hospitalización,3,173,3930,MVZ. Eddie Hernández Vidal,5,1,1,5,Mala,Sí,Satisfecho
+692,22/11/2025,Hospitalización,8,125,2167,MVZ. Eddie Hernández Vidal,2,3,1,3,Mala,Sí,Algo satisfecho
+693,23/11/2025,Servicio a domicilio,47,37,7098,MVZ. Eddie Hernández Vidal,4,1,1,5,Regular,No,Satisfecho
+694,24/11/2025,Ultrasonido,43,21,1655,MVZ. Eddie Hernández Vidal,1,1,4,3,Mala,No,Algo satisfecho
+695,25/11/2025,Consulta general,3,122,1759,MVZ. Eddie Hernández Vidal,3,4,1,5,Pesima,Sí,Satisfecho
+696,26/11/2025,Vacunación,44,80,4581,MVZ. Eddie Hernández Vidal,4,5,2,1,Mala,No,Satisfecho
+697,27/11/2025,Hospitalización,11,84,9819,MVZ. Eddie Hernández Vidal,3,5,4,3,Mala,Sí,Muy Satisfecho
+698,28/11/2025,Urgencias,53,56,5969,MVZ. Eddie Hernández Vidal,1,4,4,2,Regular,No,Satisfecho
+699,29/11/2025,Cirugías,49,115,6215,MVZ. Eddie Hernández Vidal,3,1,5,4,Mala,Sí,Satisfecho
+700,30/11/2025,Desparacitación,50,169,1149,MVZ. Eddie Hernández Vidal,5,1,4,2,Mala,Sí,Satisfecho
+701,01/12/2025,Cirugías,10,65,6037,MVZ. Eddie Hernández Vidal,4,3,2,1,Pesima,Sí,Satisfecho
+702,02/12/2025,Cirugías,43,23,7797,MVZ. Eddie Hernández Vidal,2,5,1,4,Pesima,No,Satisfecho
+703,03/12/2025,Vacunación,15,158,5556,MVZ. Eddie Hernández Vidal,3,3,4,4,Mala,No,Muy Satisfecho
+704,04/12/2025,Estética,27,45,5210,MVZ. Eddie Hernández Vidal,4,3,4,3,Pesima,No,Muy Satisfecho
+705,05/12/2025,Urgencias,38,158,8371,MVZ. Eddie Hernández Vidal,2,5,1,2,Buena,No,Satisfecho
+706,06/12/2025,Consulta general,35,9,2147,MVZ. Eddie Hernández Vidal,1,3,4,3,Buena,Sí,Satisfecho
+707,07/12/2025,Cirugías,18,143,6156,MVZ. Eddie Hernández Vidal,1,5,3,1,Buena,Sí,Satisfecho
+708,08/12/2025,Desparacitación,53,102,1877,MVZ. Eddie Hernández Vidal,4,1,2,1,Regular,Sí,Algo satisfecho
+709,09/12/2025,Consulta general,35,91,8802,MVZ. Eddie Hernández Vidal,2,1,5,3,Pesima,Sí,Satisfecho
+710,10/12/2025,Cirugías,21,115,3891,MVZ. Eddie Hernández Vidal,4,2,3,1,Regular,No,Satisfecho
+711,11/12/2025,Urgencias,28,168,4418,MVZ. Eddie Hernández Vidal,4,3,2,2,Buena,Sí,Satisfecho
+712,12/12/2025,Ultrasonido,59,89,6077,MVZ. Eddie Hernández Vidal,2,3,4,4,Regular,Sí,Satisfecho
+713,13/12/2025,Estética,33,138,3938,MVZ. Eddie Hernández Vidal,5,5,3,1,Pesima,Sí,Muy Satisfecho
+714,14/12/2025,Estética,25,63,3821,MVZ. Eddie Hernández Vidal,3,3,2,1,Pesima,Sí,Algo satisfecho
+715,15/12/2025,Ultrasonido,10,104,3011,MVZ. Eddie Hernández Vidal,3,2,3,5,Mala,No,Satisfecho
+716,16/12/2025,Vacunación,1,180,4359,MVZ. Eddie Hernández Vidal,3,4,2,3,Buena,No,Satisfecho
+717,17/12/2025,Desparacitación,58,108,6701,MVZ. Eddie Hernández Vidal,4,4,1,2,Mala,Sí,Satisfecho
+718,18/12/2025,Desparacitación,21,163,7661,MVZ. Eddie Hernández Vidal,3,1,3,1,Mala,Sí,Algo satisfecho
+719,19/12/2025,Vacunación,25,144,7371,MVZ. Eddie Hernández Vidal,4,2,1,5,Mala,Sí,Satisfecho
+720,20/12/2025,Ultrasonido,10,13,2929,MVZ. Eddie Hernández Vidal,4,1,4,3,Buena,No,Satisfecho
+721,21/12/2025,Cirugías,56,126,8261,MVZ. Eddie Hernández Vidal,2,5,4,1,Pesima,Sí,Satisfecho
+722,22/12/2025,Estética,41,31,9172,MVZ. Eddie Hernández Vidal,1,4,3,4,Buena,No,Satisfecho
+723,23/12/2025,Consulta general,13,109,4748,MVZ. Eddie Hernández Vidal,2,5,1,5,Buena,No,Satisfecho
+724,24/12/2025,Vacunación,51,100,5843,MVZ. Eddie Hernández Vidal,5,2,2,1,Mala,Sí,Satisfecho
+725,25/12/2025,Estética,2,55,2255,MVZ. Eddie Hernández Vidal,3,1,4,4,Buena,No,Satisfecho
+726,26/12/2025,Consulta general,18,24,6896,MVZ. Eddie Hernández Vidal,2,1,2,2,Pesima,Sí,Algo satisfecho
+727,27/12/2025,Cirugías,20,36,7277,MVZ. Eddie Hernández Vidal,2,3,1,1,Buena,No,Algo satisfecho
+728,28/12/2025,Estética,7,42,2420,MVZ. Eddie Hernández Vidal,2,2,2,4,Pesima,Sí,Satisfecho
+729,29/12/2025,Urgencias,40,144,4231,MVZ. Eddie Hernández Vidal,5,2,4,4,Mala,No,Muy Satisfecho
+730,30/12/2025,Vacunación,56,84,6569,MVZ. Eddie Hernández Vidal,5,1,4,1,Mala,No,Satisfecho
+731,31/12/2025,Hospitalización,21,177,3145,MVZ. Eddie Hernández Vidal,3,5,4,3,Regular,Sí,Muy Satisfecho
+732,01/01/2026,Consulta general,37,58,3077,MVZ. Eddie Hernández Vidal,1,3,4,4,Mala,No,Satisfecho
+733,02/01/2026,Hospitalización,46,137,9769,MVZ. Eddie Hernández Vidal,3,1,5,2,Pesima,No,Satisfecho
+734,03/01/2026,Estética,19,150,8766,MVZ. Eddie Hernández Vidal,1,4,3,2,Pesima,No,Satisfecho
+735,04/01/2026,Urgencias,26,30,4289,MVZ. Eddie Hernández Vidal,1,3,5,5,Regular,No,Muy Satisfecho
+736,05/01/2026,Hospitalización,55,127,2911,MVZ. Eddie Hernández Vidal,5,3,5,4,Buena,No,Muy Satisfecho
+737,06/01/2026,Cirugías,6,81,2578,MVZ. Eddie Hernández Vidal,5,1,4,5,Pesima,Sí,Muy Satisfecho
+738,07/01/2026,Ultrasonido,0,5,9648,MVZ. Eddie Hernández Vidal,2,4,4,4,Regular,No,Muy Satisfecho
+739,08/01/2026,Estética,8,101,6663,MVZ. Eddie Hernández Vidal,3,3,3,2,Mala,No,Satisfecho
+740,09/01/2026,Hospitalización,60,174,9105,MVZ. Eddie Hernández Vidal,1,5,5,5,Regular,No,Muy Satisfecho
+741,10/01/2026,Cirugías,21,109,7135,MVZ. Eddie Hernández Vidal,1,1,1,5,Pesima,No,Algo satisfecho
+742,11/01/2026,Consulta general,59,88,4969,MVZ. Eddie Hernández Vidal,1,5,2,4,Regular,No,Satisfecho
+743,12/01/2026,Urgencias,47,128,6157,MVZ. Eddie Hernández Vidal,2,5,2,5,Mala,Sí,Muy Satisfecho
+744,13/01/2026,Urgencias,37,104,1469,MVZ. Eddie Hernández Vidal,5,1,4,2,Regular,Sí,Satisfecho
+745,14/01/2026,Cirugías,3,98,6426,MVZ. Eddie Hernández Vidal,5,5,5,5,Buena,No,Extremadamente satisfecho
+746,15/01/2026,Ultrasonido,46,30,3517,MVZ. Eddie Hernández Vidal,2,2,1,5,Regular,No,Satisfecho
+747,16/01/2026,Vacunación,40,128,2448,MVZ. Eddie Hernández Vidal,3,4,3,5,Buena,Sí,Muy Satisfecho
+748,17/01/2026,Ultrasonido,41,177,8725,MVZ. Eddie Hernández Vidal,3,4,1,2,Pesima,No,Satisfecho
+749,18/01/2026,Consulta general,28,77,1805,MVZ. Eddie Hernández Vidal,2,5,2,3,Buena,Sí,Satisfecho
+750,19/01/2026,Hospitalización,57,43,9270,MVZ. Eddie Hernández Vidal,5,4,5,5,Mala,No,Extremadamente satisfecho
+751,20/01/2026,Hospitalización,55,55,1070,MVZ. Eddie Hernández Vidal,3,3,5,4,Mala,Sí,Muy Satisfecho
+752,21/01/2026,Urgencias,36,148,8223,MVZ. Eddie Hernández Vidal,1,3,4,2,Regular,No,Satisfecho
+753,22/01/2026,Hospitalización,39,137,5822,MVZ. Eddie Hernández Vidal,1,4,1,5,Regular,No,Satisfecho
+754,23/01/2026,Ultrasonido,1,31,184,MVZ. Eddie Hernández Vidal,5,2,2,2,Pesima,No,Satisfecho
+755,24/01/2026,Urgencias,51,80,2753,MVZ. Eddie Hernández Vidal,2,2,4,1,Pesima,Sí,Algo satisfecho
+756,25/01/2026,Desparacitación,45,31,8233,MVZ. Eddie Hernández Vidal,2,1,3,3,Mala,No,Algo satisfecho
+757,26/01/2026,Servicio a domicilio,5,33,8486,MVZ. Eddie Hernández Vidal,3,1,5,1,Pesima,No,Satisfecho
+758,27/01/2026,Hospitalización,58,133,7367,MVZ. Eddie Hernández Vidal,5,3,3,5,Mala,Sí,Muy Satisfecho
+759,28/01/2026,Cirugías,27,74,6007,MVZ. Eddie Hernández Vidal,5,4,4,2,Pesima,No,Muy Satisfecho
+760,29/01/2026,Servicio a domicilio,31,62,331,MVZ. Eddie Hernández Vidal,3,5,2,5,Regular,No,Muy Satisfecho
+761,30/01/2026,Estética,40,18,3465,MVZ. Eddie Hernández Vidal,5,1,1,5,Buena,No,Satisfecho
+762,31/01/2026,Cirugías,9,27,8559,MVZ. Eddie Hernández Vidal,5,4,5,4,Pesima,No,Extremadamente satisfecho
+763,01/02/2026,Ultrasonido,53,66,6875,MVZ. Eddie Hernández Vidal,3,2,4,3,Pesima,Sí,Satisfecho
+764,02/02/2026,Ultrasonido,56,95,3974,MVZ. Eddie Hernández Vidal,5,4,2,4,Regular,No,Muy Satisfecho
+765,03/02/2026,Desparacitación,7,67,1789,MVZ. Eddie Hernández Vidal,3,2,2,3,Mala,No,Satisfecho
+766,04/02/2026,Consulta general,35,138,2742,MVZ. Eddie Hernández Vidal,4,1,3,2,Mala,Sí,Satisfecho
+767,05/02/2026,Cirugías,47,87,462,MVZ. Eddie Hernández Vidal,2,3,5,3,Mala,No,Satisfecho
+768,06/02/2026,Desparacitación,5,49,8024,MVZ. Eddie Hernández Vidal,2,2,2,3,Pesima,Sí,Algo satisfecho
+769,07/02/2026,Cirugías,41,115,6170,MVZ. Eddie Hernández Vidal,5,4,3,4,Regular,Sí,Muy Satisfecho
+770,08/02/2026,Cirugías,28,72,8183,MVZ. Eddie Hernández Vidal,1,1,4,2,Buena,No,Algo satisfecho
+771,09/02/2026,Ultrasonido,54,28,9066,MVZ. Eddie Hernández Vidal,1,5,3,3,Regular,No,Satisfecho
+772,10/02/2026,Vacunación,58,142,128,MVZ. Eddie Hernández Vidal,2,1,5,3,Mala,No,Satisfecho
+773,11/02/2026,Estética,21,10,1219,MVZ. Eddie Hernández Vidal,1,1,2,1,Buena,Sí,Insatisfecho
+774,12/02/2026,Consulta general,11,38,4020,MVZ. Eddie Hernández Vidal,3,3,4,3,Mala,Sí,Satisfecho
+775,13/02/2026,Desparacitación,3,134,6549,MVZ. Eddie Hernández Vidal,3,3,3,5,Pesima,Sí,Muy Satisfecho
+776,14/02/2026,Servicio a domicilio,18,68,2248,MVZ. Eddie Hernández Vidal,4,2,2,5,Pesima,No,Satisfecho
+777,15/02/2026,Hospitalización,35,89,5251,MVZ. Eddie Hernández Vidal,1,2,5,4,Regular,No,Satisfecho
+778,16/02/2026,Desparacitación,46,96,5285,MVZ. Eddie Hernández Vidal,2,2,5,3,Mala,Sí,Satisfecho
+779,17/02/2026,Consulta general,41,36,7164,MVZ. Eddie Hernández Vidal,4,5,1,2,Regular,Sí,Satisfecho
+780,18/02/2026,Estética,17,136,200,MVZ. Eddie Hernández Vidal,5,3,4,1,Regular,No,Satisfecho
+781,19/02/2026,Servicio a domicilio,47,89,8495,MVZ. Eddie Hernández Vidal,3,4,1,1,Regular,Sí,Algo satisfecho
+782,20/02/2026,Vacunación,27,143,5699,MVZ. Eddie Hernández Vidal,2,3,5,4,Regular,No,Muy Satisfecho
+783,21/02/2026,Vacunación,54,78,7948,MVZ. Eddie Hernández Vidal,2,4,2,4,Buena,No,Satisfecho
+784,22/02/2026,Desparacitación,47,146,5521,MVZ. Eddie Hernández Vidal,1,5,4,3,Pesima,Sí,Satisfecho
+785,23/02/2026,Consulta general,9,65,9072,MVZ. Eddie Hernández Vidal,2,5,3,4,Buena,Sí,Muy Satisfecho
+786,24/02/2026,Ultrasonido,19,109,5579,MVZ. Eddie Hernández Vidal,5,4,1,1,Regular,Sí,Satisfecho
+787,25/02/2026,Servicio a domicilio,7,86,2637,MVZ. Eddie Hernández Vidal,1,4,2,1,Buena,Sí,Algo satisfecho
+788,26/02/2026,Cirugías,7,50,8378,MVZ. Eddie Hernández Vidal,1,2,3,5,Buena,Sí,Satisfecho
+789,27/02/2026,Desparacitación,37,158,5024,MVZ. Eddie Hernández Vidal,4,5,4,4,Pesima,Sí,Muy Satisfecho
+790,28/02/2026,Consulta general,43,136,2272,MVZ. Eddie Hernández Vidal,1,3,4,4,Mala,Sí,Satisfecho
+791,01/03/2026,Cirugías,44,19,8184,MVZ. Eddie Hernández Vidal,4,4,1,1,Pesima,No,Satisfecho
+792,02/03/2026,Desparacitación,46,20,3464,MVZ. Eddie Hernández Vidal,5,2,2,3,Pesima,Sí,Satisfecho
+793,03/03/2026,Cirugías,46,10,196,MVZ. Eddie Hernández Vidal,2,2,2,1,Buena,Sí,Algo satisfecho
+794,04/03/2026,Hospitalización,34,59,4936,MVZ. Eddie Hernández Vidal,5,5,4,3,Pesima,Sí,Muy Satisfecho
+795,05/03/2026,Desparacitación,33,5,3702,MVZ. Eddie Hernández Vidal,1,2,5,3,Buena,No,Satisfecho
+796,06/03/2026,Desparacitación,10,86,1046,MVZ. Eddie Hernández Vidal,2,2,2,4,Regular,No,Satisfecho
+797,07/03/2026,Servicio a domicilio,55,37,6723,MVZ. Eddie Hernández Vidal,2,1,5,4,Mala,No,Satisfecho
+798,08/03/2026,Servicio a domicilio,5,63,610,MVZ. Eddie Hernández Vidal,3,4,5,3,Mala,Sí,Muy Satisfecho
+799,09/03/2026,Consulta general,28,34,6241,MVZ. Eddie Hernández Vidal,5,1,3,5,Pesima,Sí,Muy Satisfecho
+800,10/03/2026,Vacunación,46,164,4986,MVZ. Eddie Hernández Vidal,4,3,1,2,Buena,No,Satisfecho
+801,11/03/2026,Urgencias,32,164,261,MVZ. Eddie Hernández Vidal,5,1,4,2,Pesima,No,Satisfecho
+802,12/03/2026,Consulta general,19,23,3545,MVZ. Eddie Hernández Vidal,5,3,4,4,Pesima,Sí,Muy Satisfecho
+803,13/03/2026,Consulta general,39,112,2765,MVZ. Eddie Hernández Vidal,2,3,3,4,Pesima,Sí,Satisfecho
+804,14/03/2026,Ultrasonido,30,107,3537,MVZ. Eddie Hernández Vidal,5,5,5,4,Pesima,Sí,Extremadamente satisfecho
+805,15/03/2026,Estética,31,76,2167,MVZ. Eddie Hernández Vidal,5,1,2,4,Pesima,No,Satisfecho
+806,16/03/2026,Ultrasonido,47,24,6322,MVZ. Eddie Hernández Vidal,5,5,3,3,Pesima,No,Muy Satisfecho
+807,17/03/2026,Vacunación,47,74,3439,MVZ. Eddie Hernández Vidal,3,2,3,4,Buena,No,Satisfecho
+808,18/03/2026,Urgencias,1,134,970,MVZ. Eddie Hernández Vidal,2,5,5,3,Pesima,No,Muy Satisfecho
+809,19/03/2026,Hospitalización,32,55,2816,MVZ. Eddie Hernández Vidal,4,1,2,3,Buena,Sí,Satisfecho
+810,20/03/2026,Vacunación,40,65,8519,MVZ. Eddie Hernández Vidal,1,5,3,5,Regular,Sí,Muy Satisfecho
+811,21/03/2026,Servicio a domicilio,49,63,3857,MVZ. Eddie Hernández Vidal,2,4,5,1,Pesima,No,Satisfecho
+812,22/03/2026,Cirugías,55,121,6797,MVZ. Eddie Hernández Vidal,3,4,5,4,Buena,No,Muy Satisfecho
+813,23/03/2026,Hospitalización,45,151,1238,MVZ. Eddie Hernández Vidal,4,4,5,1,Buena,No,Muy Satisfecho
+814,24/03/2026,Vacunación,55,174,3362,MVZ. Eddie Hernández Vidal,1,2,5,3,Buena,Sí,Satisfecho
+815,25/03/2026,Desparacitación,46,11,1545,MVZ. Eddie Hernández Vidal,2,1,3,5,Pesima,Sí,Satisfecho
+816,26/03/2026,Hospitalización,54,176,8003,MVZ. Eddie Hernández Vidal,1,1,4,1,Pesima,Sí,Algo satisfecho
+817,27/03/2026,Ultrasonido,0,165,2715,MVZ. Eddie Hernández Vidal,3,4,3,5,Mala,Sí,Muy Satisfecho
+818,28/03/2026,Hospitalización,37,80,2898,MVZ. Eddie Hernández Vidal,5,4,5,3,Buena,No,Muy Satisfecho
+819,29/03/2026,Vacunación,21,128,6531,MVZ. Eddie Hernández Vidal,1,5,2,4,Buena,No,Satisfecho
+820,30/03/2026,Ultrasonido,22,29,7671,MVZ. Eddie Hernández Vidal,2,2,3,1,Regular,Sí,Algo satisfecho
+821,31/03/2026,Vacunación,27,55,4809,MVZ. Eddie Hernández Vidal,3,2,2,4,Mala,No,Satisfecho
+822,01/04/2026,Hospitalización,5,141,688,MVZ. Eddie Hernández Vidal,3,5,1,1,Pesima,Sí,Satisfecho
+823,02/04/2026,Consulta general,45,122,5300,MVZ. Eddie Hernández Vidal,3,4,5,3,Mala,No,Muy Satisfecho
+824,03/04/2026,Vacunación,35,88,3013,MVZ. Eddie Hernández Vidal,5,1,3,4,Mala,Sí,Satisfecho
+825,04/04/2026,Hospitalización,45,7,2075,MVZ. Eddie Hernández Vidal,5,5,5,1,Pesima,No,Muy Satisfecho
+826,05/04/2026,Estética,35,33,3714,MVZ. Eddie Hernández Vidal,2,2,2,4,Pesima,No,Satisfecho
+827,06/04/2026,Estética,60,43,2239,MVZ. Eddie Hernández Vidal,3,4,4,4,Mala,Sí,Muy Satisfecho
+828,07/04/2026,Desparacitación,40,179,6474,MVZ. Eddie Hernández Vidal,4,3,4,4,Regular,No,Muy Satisfecho
+829,08/04/2026,Cirugías,3,48,2535,MVZ. Eddie Hernández Vidal,3,5,2,4,Pesima,Sí,Muy Satisfecho
+830,09/04/2026,Vacunación,28,102,7653,MVZ. Eddie Hernández Vidal,2,4,3,2,Buena,No,Satisfecho
+831,10/04/2026,Ultrasonido,27,121,5746,MVZ. Eddie Hernández Vidal,3,1,5,2,Regular,Sí,Satisfecho
+832,11/04/2026,Ultrasonido,59,18,7167,MVZ. Eddie Hernández Vidal,3,3,3,5,Pesima,No,Muy Satisfecho
+833,12/04/2026,Servicio a domicilio,9,50,3919,MVZ. Eddie Hernández Vidal,4,3,2,1,Mala,Sí,Satisfecho
+834,13/04/2026,Vacunación,43,38,7277,MVZ. Eddie Hernández Vidal,2,1,5,5,Buena,No,Satisfecho
+835,14/04/2026,Cirugías,3,15,6535,MVZ. Eddie Hernández Vidal,3,1,2,2,Buena,Sí,Algo satisfecho
+836,15/04/2026,Hospitalización,43,120,7090,MVZ. Eddie Hernández Vidal,5,1,1,2,Buena,Sí,Algo satisfecho
+837,16/04/2026,Urgencias,11,92,4464,MVZ. Eddie Hernández Vidal,1,5,1,5,Buena,Sí,Satisfecho
+838,17/04/2026,Hospitalización,51,130,1053,MVZ. Eddie Hernández Vidal,4,5,3,1,Buena,No,Satisfecho
+839,18/04/2026,Consulta general,22,82,8114,MVZ. Eddie Hernández Vidal,4,4,3,5,Regular,Sí,Muy Satisfecho
+840,19/04/2026,Servicio a domicilio,42,120,6849,MVZ. Eddie Hernández Vidal,2,3,4,5,Regular,Sí,Muy Satisfecho
+841,20/04/2026,Cirugías,42,35,2135,MVZ. Eddie Hernández Vidal,5,3,1,1,Buena,Sí,Satisfecho
+842,21/04/2026,Urgencias,4,69,1973,MVZ. Eddie Hernández Vidal,5,3,1,5,Regular,No,Muy Satisfecho
+843,22/04/2026,Cirugías,29,112,8362,MVZ. Eddie Hernández Vidal,5,2,5,3,Buena,No,Muy Satisfecho
+844,23/04/2026,Estética,60,72,7473,MVZ. Eddie Hernández Vidal,2,2,4,4,Pesima,Sí,Satisfecho
+845,24/04/2026,Estética,44,131,4410,MVZ. Eddie Hernández Vidal,2,1,2,2,Buena,No,Algo satisfecho
+846,25/04/2026,Servicio a domicilio,2,115,7567,MVZ. Eddie Hernández Vidal,2,3,5,4,Mala,No,Muy Satisfecho
+847,26/04/2026,Cirugías,30,133,9373,MVZ. Eddie Hernández Vidal,3,4,4,2,Buena,Sí,Satisfecho
+848,27/04/2026,Vacunación,5,100,5458,MVZ. Eddie Hernández Vidal,3,4,5,1,Buena,Sí,Satisfecho
+849,28/04/2026,Consulta general,47,141,882,MVZ. Eddie Hernández Vidal,4,4,4,4,Regular,Sí,Muy Satisfecho
+850,29/04/2026,Hospitalización,12,72,9160,MVZ. Eddie Hernández Vidal,4,2,1,2,Pesima,No,Algo satisfecho
+851,30/04/2026,Vacunación,17,16,7772,MVZ. Eddie Hernández Vidal,1,2,5,2,Buena,No,Satisfecho
+852,01/05/2026,Estética,15,156,9897,MVZ. Eddie Hernández Vidal,1,5,3,2,Buena,Sí,Satisfecho
+853,02/05/2026,Cirugías,56,25,9582,MVZ. Eddie Hernández Vidal,4,3,5,3,Regular,Sí,Muy Satisfecho
+854,03/05/2026,Cirugías,41,6,4263,MVZ. Eddie Hernández Vidal,1,3,4,1,Mala,Sí,Algo satisfecho
+855,04/05/2026,Consulta general,24,73,104,MVZ. Eddie Hernández Vidal,3,3,3,5,Mala,Sí,Muy Satisfecho
+856,05/05/2026,Hospitalización,21,175,6424,MVZ. Eddie Hernández Vidal,4,5,1,4,Mala,Sí,Muy Satisfecho
+857,06/05/2026,Servicio a domicilio,40,104,9251,MVZ. Eddie Hernández Vidal,2,4,1,1,Mala,No,Algo satisfecho
+858,07/05/2026,Consulta general,3,129,5743,MVZ. Eddie Hernández Vidal,5,4,5,4,Pesima,Sí,Extremadamente satisfecho
+859,08/05/2026,Urgencias,60,27,4256,MVZ. Eddie Hernández Vidal,2,5,3,3,Mala,Sí,Satisfecho
+860,09/05/2026,Consulta general,46,163,5361,MVZ. Eddie Hernández Vidal,1,5,4,5,Pesima,No,Muy Satisfecho
+861,10/05/2026,Urgencias,48,43,8944,MVZ. Eddie Hernández Vidal,2,3,5,5,Buena,No,Muy Satisfecho
+862,11/05/2026,Consulta general,31,80,5532,MVZ. Eddie Hernández Vidal,4,5,3,2,Regular,No,Muy Satisfecho
+863,12/05/2026,Consulta general,6,57,9705,MVZ. Eddie Hernández Vidal,4,3,3,4,Regular,Sí,Muy Satisfecho
+864,13/05/2026,Ultrasonido,51,103,9198,MVZ. Eddie Hernández Vidal,1,1,3,4,Mala,Sí,Algo satisfecho
+865,14/05/2026,Estética,33,118,9730,MVZ. Eddie Hernández Vidal,4,3,2,3,Regular,No,Satisfecho
+866,15/05/2026,Estética,47,11,1862,MVZ. Eddie Hernández Vidal,2,1,1,2,Regular,No,Algo satisfecho
+867,16/05/2026,Vacunación,11,38,6622,MVZ. Eddie Hernández Vidal,5,2,4,2,Mala,Sí,Satisfecho
+868,17/05/2026,Servicio a domicilio,39,34,5620,MVZ. Eddie Hernández Vidal,1,2,1,4,Pesima,Sí,Algo satisfecho
+869,18/05/2026,Urgencias,8,90,2712,MVZ. Eddie Hernández Vidal,5,3,5,1,Pesima,Sí,Muy Satisfecho
+870,19/05/2026,Hospitalización,3,19,3154,MVZ. Eddie Hernández Vidal,3,2,4,4,Buena,Sí,Satisfecho
+871,20/05/2026,Desparacitación,55,57,5076,MVZ. Eddie Hernández Vidal,5,3,3,4,Pesima,No,Muy Satisfecho
+872,21/05/2026,Ultrasonido,43,91,2294,MVZ. Eddie Hernández Vidal,4,5,1,1,Pesima,Sí,Satisfecho
+873,22/05/2026,Urgencias,54,96,7673,MVZ. Eddie Hernández Vidal,2,5,3,4,Mala,Sí,Muy Satisfecho
+874,23/05/2026,Cirugías,39,118,7930,MVZ. Eddie Hernández Vidal,5,2,1,1,Pesima,Sí,Algo satisfecho
+875,24/05/2026,Vacunación,41,99,9640,MVZ. Eddie Hernández Vidal,5,2,3,3,Regular,Sí,Satisfecho
+876,25/05/2026,Vacunación,54,108,5059,MVZ. Eddie Hernández Vidal,2,3,2,1,Buena,No,Algo satisfecho
+877,26/05/2026,Desparacitación,25,179,7655,MVZ. Eddie Hernández Vidal,1,1,4,1,Pesima,Sí,Algo satisfecho
+878,27/05/2026,Urgencias,45,92,4885,MVZ. Eddie Hernández Vidal,2,1,2,5,Pesima,Sí,Satisfecho
+879,28/05/2026,Ultrasonido,6,29,5972,MVZ. Eddie Hernández Vidal,3,4,2,2,Pesima,No,Satisfecho
+880,29/05/2026,Cirugías,7,146,4333,MVZ. Eddie Hernández Vidal,5,2,2,2,Regular,Sí,Satisfecho
+881,30/05/2026,Vacunación,40,165,9453,MVZ. Eddie Hernández Vidal,2,2,1,3,Mala,Sí,Algo satisfecho
+882,31/05/2026,Urgencias,29,37,4034,MVZ. Eddie Hernández Vidal,5,3,4,5,Pesima,No,Muy Satisfecho
+883,01/06/2026,Urgencias,5,123,7344,MVZ. Eddie Hernández Vidal,1,2,4,3,Mala,Sí,Satisfecho
+884,02/06/2026,Consulta general,38,30,7139,MVZ. Eddie Hernández Vidal,5,3,3,2,Mala,Sí,Satisfecho
+885,03/06/2026,Servicio a domicilio,3,78,8316,MVZ. Eddie Hernández Vidal,5,2,1,3,Regular,No,Satisfecho
+886,04/06/2026,Urgencias,7,106,9480,MVZ. Eddie Hernández Vidal,2,3,3,4,Regular,No,Satisfecho
+887,05/06/2026,Servicio a domicilio,50,113,3437,MVZ. Eddie Hernández Vidal,1,1,5,5,Regular,Sí,Satisfecho
+888,06/06/2026,Servicio a domicilio,43,150,106,MVZ. Eddie Hernández Vidal,3,5,4,4,Regular,No,Muy Satisfecho
+889,07/06/2026,Ultrasonido,23,156,1900,MVZ. Eddie Hernández Vidal,2,5,5,1,Buena,Sí,Satisfecho
+890,08/06/2026,Hospitalización,24,40,5149,MVZ. Eddie Hernández Vidal,2,2,4,3,Mala,Sí,Satisfecho
+891,09/06/2026,Estética,50,126,9445,MVZ. Eddie Hernández Vidal,1,1,5,4,Regular,No,Satisfecho
+892,10/06/2026,Estética,29,40,3848,MVZ. Eddie Hernández Vidal,4,5,1,3,Regular,Sí,Satisfecho
+893,11/06/2026,Servicio a domicilio,51,167,2866,MVZ. Eddie Hernández Vidal,5,5,2,5,Buena,Sí,Muy Satisfecho
+894,12/06/2026,Desparacitación,17,89,3647,MVZ. Eddie Hernández Vidal,2,3,2,3,Pesima,No,Satisfecho
+895,13/06/2026,Hospitalización,56,25,5894,MVZ. Eddie Hernández Vidal,1,5,2,4,Mala,Sí,Satisfecho
+896,14/06/2026,Hospitalización,43,11,8299,MVZ. Eddie Hernández Vidal,2,2,3,1,Mala,Sí,Algo satisfecho
+897,15/06/2026,Cirugías,33,141,9046,MVZ. Eddie Hernández Vidal,1,1,4,1,Buena,No,Algo satisfecho
+898,16/06/2026,Hospitalización,48,5,9473,MVZ. Eddie Hernández Vidal,1,3,1,1,Mala,Sí,Algo satisfecho
+899,17/06/2026,Servicio a domicilio,14,66,4707,MVZ. Eddie Hernández Vidal,3,4,3,4,Buena,Sí,Muy Satisfecho
+900,18/06/2026,Desparacitación,42,94,2977,MVZ. Eddie Hernández Vidal,1,2,3,3,Pesima,Sí,Algo satisfecho
+901,19/06/2026,Consulta general,42,107,5909,MVZ. Eddie Hernández Vidal,1,3,5,1,Pesima,Sí,Satisfecho
+902,20/06/2026,Consulta general,16,76,585,MVZ. Eddie Hernández Vidal,4,3,1,1,Mala,No,Algo satisfecho
+903,21/06/2026,Consulta general,47,127,702,MVZ. Eddie Hernández Vidal,5,4,5,4,Buena,Sí,Extremadamente satisfecho
+904,22/06/2026,Hospitalización,53,11,8966,MVZ. Eddie Hernández Vidal,3,1,4,1,Pesima,No,Algo satisfecho
+905,23/06/2026,Urgencias,1,169,4633,MVZ. Eddie Hernández Vidal,5,4,5,3,Mala,Sí,Muy Satisfecho
+906,24/06/2026,Urgencias,42,162,5894,MVZ. Eddie Hernández Vidal,2,4,3,1,Mala,Sí,Satisfecho
+907,25/06/2026,Servicio a domicilio,53,108,4773,MVZ. Eddie Hernández Vidal,3,2,4,4,Regular,No,Satisfecho
+908,26/06/2026,Consulta general,0,24,7183,MVZ. Eddie Hernández Vidal,3,2,5,2,Mala,Sí,Satisfecho
+909,27/06/2026,Desparacitación,51,52,5487,MVZ. Eddie Hernández Vidal,1,5,5,5,Mala,No,Muy Satisfecho
+910,28/06/2026,Ultrasonido,56,155,6663,MVZ. Eddie Hernández Vidal,4,3,1,5,Pesima,No,Satisfecho
+911,29/06/2026,Urgencias,15,72,3829,MVZ. Eddie Hernández Vidal,1,2,1,3,Pesima,No,Algo satisfecho
+912,30/06/2026,Ultrasonido,16,140,4044,MVZ. Eddie Hernández Vidal,4,3,5,1,Regular,Sí,Satisfecho
+913,01/07/2026,Ultrasonido,8,61,4652,MVZ. Eddie Hernández Vidal,3,4,5,2,Mala,No,Muy Satisfecho
+914,02/07/2026,Servicio a domicilio,41,98,8580,MVZ. Eddie Hernández Vidal,3,2,1,2,Pesima,Sí,Algo satisfecho
+915,03/07/2026,Estética,20,77,5413,MVZ. Eddie Hernández Vidal,4,2,5,5,Buena,Sí,Muy Satisfecho
+916,04/07/2026,Ultrasonido,54,151,9933,MVZ. Eddie Hernández Vidal,1,4,1,5,Regular,No,Satisfecho
+917,05/07/2026,Ultrasonido,43,155,616,MVZ. Eddie Hernández Vidal,1,3,5,3,Buena,No,Satisfecho
+918,06/07/2026,Cirugías,25,155,309,MVZ. Eddie Hernández Vidal,3,3,3,4,Mala,No,Satisfecho
+919,07/07/2026,Servicio a domicilio,0,51,6720,MVZ. Eddie Hernández Vidal,1,1,5,2,Regular,No,Algo satisfecho
+920,08/07/2026,Cirugías,59,44,4639,MVZ. Eddie Hernández Vidal,3,1,1,3,Pesima,Sí,Algo satisfecho
+921,09/07/2026,Urgencias,49,61,3011,MVZ. Eddie Hernández Vidal,3,1,5,4,Mala,Sí,Satisfecho
+922,10/07/2026,Vacunación,39,167,309,MVZ. Eddie Hernández Vidal,2,3,1,5,Mala,No,Satisfecho
+923,11/07/2026,Hospitalización,2,65,4360,MVZ. Eddie Hernández Vidal,4,4,4,2,Mala,No,Muy Satisfecho
+924,12/07/2026,Urgencias,6,103,9764,MVZ. Eddie Hernández Vidal,4,5,5,5,Buena,No,Extremadamente satisfecho
+925,13/07/2026,Desparacitación,3,146,9597,MVZ. Eddie Hernández Vidal,2,5,2,1,Buena,Sí,Satisfecho
+926,14/07/2026,Consulta general,30,33,9918,MVZ. Eddie Hernández Vidal,2,5,3,5,Regular,No,Muy Satisfecho
+927,15/07/2026,Vacunación,13,64,3432,MVZ. Eddie Hernández Vidal,5,2,4,4,Pesima,Sí,Muy Satisfecho
+928,16/07/2026,Cirugías,20,18,9061,MVZ. Eddie Hernández Vidal,3,5,2,1,Buena,Sí,Satisfecho
+929,17/07/2026,Hospitalización,52,166,2736,MVZ. Eddie Hernández Vidal,5,5,4,5,Buena,Sí,Extremadamente satisfecho
+930,18/07/2026,Ultrasonido,11,127,748,MVZ. Eddie Hernández Vidal,3,4,2,4,Regular,Sí,Satisfecho
+931,19/07/2026,Servicio a domicilio,11,159,5509,MVZ. Eddie Hernández Vidal,4,1,4,1,Regular,Sí,Satisfecho
+932,20/07/2026,Hospitalización,5,82,4357,MVZ. Eddie Hernández Vidal,5,4,4,1,Mala,No,Muy Satisfecho
+933,21/07/2026,Vacunación,48,130,7643,MVZ. Eddie Hernández Vidal,3,2,3,2,Pesima,Sí,Satisfecho
+934,22/07/2026,Desparacitación,16,79,3898,MVZ. Eddie Hernández Vidal,4,1,3,4,Mala,No,Satisfecho
+935,23/07/2026,Hospitalización,13,92,9725,MVZ. Eddie Hernández Vidal,4,3,1,4,Buena,No,Satisfecho
+936,24/07/2026,Urgencias,8,96,5313,MVZ. Eddie Hernández Vidal,2,3,4,5,Regular,Sí,Muy Satisfecho
+937,25/07/2026,Urgencias,27,60,2716,MVZ. Eddie Hernández Vidal,2,2,1,2,Regular,No,Algo satisfecho
+938,26/07/2026,Consulta general,6,90,6439,MVZ. Eddie Hernández Vidal,5,4,4,5,Pesima,No,Extremadamente satisfecho
+939,27/07/2026,Estética,44,96,3534,MVZ. Eddie Hernández Vidal,1,4,5,1,Regular,Sí,Satisfecho
+940,28/07/2026,Vacunación,54,28,7564,MVZ. Eddie Hernández Vidal,1,3,5,3,Regular,No,Satisfecho
+941,29/07/2026,Cirugías,42,146,7000,MVZ. Eddie Hernández Vidal,4,4,1,2,Buena,No,Satisfecho
+942,30/07/2026,Urgencias,4,25,8400,MVZ. Eddie Hernández Vidal,3,3,2,2,Pesima,No,Satisfecho
+943,31/07/2026,Consulta general,40,40,4465,MVZ. Eddie Hernández Vidal,5,4,2,2,Buena,No,Satisfecho
+944,01/08/2026,Consulta general,41,168,1214,MVZ. Eddie Hernández Vidal,5,2,5,2,Buena,No,Muy Satisfecho
+945,02/08/2026,Vacunación,15,42,1296,MVZ. Eddie Hernández Vidal,5,4,5,1,Buena,Sí,Muy Satisfecho
+946,03/08/2026,Hospitalización,60,155,7622,MVZ. Eddie Hernández Vidal,3,4,4,3,Buena,Sí,Muy Satisfecho
+947,04/08/2026,Vacunación,0,166,6420,MVZ. Eddie Hernández Vidal,4,4,4,4,Regular,No,Muy Satisfecho
+948,05/08/2026,Hospitalización,39,23,6944,MVZ. Eddie Hernández Vidal,3,5,2,3,Mala,No,Satisfecho
+949,06/08/2026,Urgencias,37,133,581,MVZ. Eddie Hernández Vidal,5,5,3,2,Pesima,No,Muy Satisfecho
+950,07/08/2026,Servicio a domicilio,6,36,6218,MVZ. Eddie Hernández Vidal,3,3,2,3,Regular,No,Satisfecho
+951,08/08/2026,Desparacitación,51,35,2122,MVZ. Eddie Hernández Vidal,4,2,5,2,Buena,Sí,Satisfecho
+952,09/08/2026,Desparacitación,29,178,4480,MVZ. Eddie Hernández Vidal,1,2,2,1,Mala,No,Algo satisfecho
+953,10/08/2026,Ultrasonido,58,135,3471,MVZ. Eddie Hernández Vidal,5,5,5,1,Buena,Sí,Muy Satisfecho
+954,11/08/2026,Urgencias,47,154,9955,MVZ. Eddie Hernández Vidal,1,3,4,5,Buena,Sí,Satisfecho
+955,12/08/2026,Consulta general,25,23,8056,MVZ. Eddie Hernández Vidal,2,2,3,5,Buena,No,Satisfecho
+956,13/08/2026,Hospitalización,12,85,1388,MVZ. Eddie Hernández Vidal,1,2,3,5,Regular,Sí,Satisfecho
+957,14/08/2026,Ultrasonido,0,104,6547,MVZ. Eddie Hernández Vidal,2,4,5,5,Regular,No,Muy Satisfecho
+958,15/08/2026,Cirugías,52,17,3945,MVZ. Eddie Hernández Vidal,3,5,3,3,Pesima,Sí,Muy Satisfecho
+959,16/08/2026,Cirugías,50,77,3872,MVZ. Eddie Hernández Vidal,2,2,5,4,Buena,Sí,Satisfecho
+960,17/08/2026,Hospitalización,49,129,4371,MVZ. Eddie Hernández Vidal,1,5,4,4,Regular,No,Muy Satisfecho
+961,18/08/2026,Vacunación,28,104,3991,MVZ. Eddie Hernández Vidal,4,4,2,4,Pesima,Sí,Muy Satisfecho
+962,19/08/2026,Ultrasonido,58,142,3664,MVZ. Eddie Hernández Vidal,4,5,4,5,Mala,Sí,Extremadamente satisfecho
+963,20/08/2026,Estética,7,36,5105,MVZ. Eddie Hernández Vidal,1,4,4,5,Pesima,No,Muy Satisfecho
+964,21/08/2026,Estética,1,54,7607,MVZ. Eddie Hernández Vidal,1,2,2,3,Pesima,No,Algo satisfecho
+965,22/08/2026,Servicio a domicilio,44,68,7050,MVZ. Eddie Hernández Vidal,2,1,3,1,Mala,No,Algo satisfecho
+966,23/08/2026,Consulta general,48,112,9280,MVZ. Eddie Hernández Vidal,1,2,5,4,Pesima,Sí,Satisfecho
+967,24/08/2026,Urgencias,50,52,5495,MVZ. Eddie Hernández Vidal,1,2,4,2,Mala,Sí,Algo satisfecho
+968,25/08/2026,Estética,7,133,9992,MVZ. Eddie Hernández Vidal,1,4,4,3,Regular,No,Satisfecho
+969,26/08/2026,Hospitalización,40,178,6362,MVZ. Eddie Hernández Vidal,1,2,5,3,Pesima,Sí,Satisfecho
+970,27/08/2026,Hospitalización,26,129,366,MVZ. Eddie Hernández Vidal,5,5,2,1,Buena,Sí,Satisfecho
+971,28/08/2026,Urgencias,40,59,2893,MVZ. Eddie Hernández Vidal,5,2,5,2,Buena,No,Muy Satisfecho
+972,29/08/2026,Desparacitación,48,43,1626,MVZ. Eddie Hernández Vidal,4,5,5,1,Regular,Sí,Muy Satisfecho
+973,30/08/2026,Estética,46,41,2455,MVZ. Eddie Hernández Vidal,2,1,4,1,Buena,No,Algo satisfecho
+974,31/08/2026,Urgencias,22,163,1271,MVZ. Eddie Hernández Vidal,4,5,5,3,Mala,Sí,Muy Satisfecho
+975,01/09/2026,Desparacitación,14,38,7961,MVZ. Eddie Hernández Vidal,4,5,1,2,Mala,Sí,Satisfecho
+976,02/09/2026,Cirugías,31,104,4145,MVZ. Eddie Hernández Vidal,2,4,1,3,Regular,No,Satisfecho
+977,03/09/2026,Hospitalización,21,110,4269,MVZ. Eddie Hernández Vidal,2,4,1,1,Mala,No,Algo satisfecho
+978,04/09/2026,Servicio a domicilio,52,123,4865,MVZ. Eddie Hernández Vidal,4,4,4,2,Buena,No,Muy Satisfecho
+979,05/09/2026,Desparacitación,7,131,4261,MVZ. Eddie Hernández Vidal,1,5,4,1,Buena,No,Satisfecho
+980,06/09/2026,Hospitalización,36,31,9183,MVZ. Eddie Hernández Vidal,1,2,2,3,Mala,Sí,Algo satisfecho
+981,07/09/2026,Cirugías,16,51,4569,MVZ. Eddie Hernández Vidal,3,4,2,3,Regular,Sí,Satisfecho
+982,08/09/2026,Urgencias,6,23,4279,MVZ. Eddie Hernández Vidal,3,2,4,5,Pesima,Sí,Muy Satisfecho
+983,09/09/2026,Desparacitación,42,93,2244,MVZ. Eddie Hernández Vidal,3,2,2,2,Mala,Sí,Algo satisfecho
+984,10/09/2026,Desparacitación,20,46,9734,MVZ. Eddie Hernández Vidal,4,2,3,2,Buena,Sí,Satisfecho
+985,11/09/2026,Urgencias,38,24,8862,MVZ. Eddie Hernández Vidal,2,4,2,2,Regular,Sí,Satisfecho
+986,12/09/2026,Servicio a domicilio,4,7,7426,MVZ. Eddie Hernández Vidal,5,2,4,1,Pesima,No,Satisfecho
+987,13/09/2026,Cirugías,16,47,8217,MVZ. Eddie Hernández Vidal,2,1,4,4,Regular,No,Satisfecho
+988,14/09/2026,Cirugías,34,54,904,MVZ. Eddie Hernández Vidal,5,5,4,5,Mala,No,Extremadamente satisfecho
+989,15/09/2026,Vacunación,47,162,7678,MVZ. Eddie Hernández Vidal,2,4,3,1,Regular,Sí,Satisfecho
+990,16/09/2026,Urgencias,56,26,8972,MVZ. Eddie Hernández Vidal,2,3,1,1,Pesima,Sí,Algo satisfecho
+991,17/09/2026,Urgencias,59,123,9444,MVZ. Eddie Hernández Vidal,5,2,4,4,Regular,No,Muy Satisfecho
+992,18/09/2026,Consulta general,47,94,7070,MVZ. Eddie Hernández Vidal,1,5,3,3,Pesima,No,Satisfecho
+993,19/09/2026,Servicio a domicilio,14,83,1603,MVZ. Eddie Hernández Vidal,3,3,5,1,Mala,Sí,Satisfecho
+994,20/09/2026,Consulta general,47,126,2165,MVZ. Eddie Hernández Vidal,4,3,4,1,Pesima,No,Satisfecho
+995,21/09/2026,Urgencias,39,91,4651,MVZ. Eddie Hernández Vidal,4,5,2,2,Mala,Sí,Satisfecho
+996,22/09/2026,Consulta general,15,144,7531,MVZ. Eddie Hernández Vidal,1,1,3,4,Mala,No,Algo satisfecho
+997,23/09/2026,Ultrasonido,24,59,8666,MVZ. Eddie Hernández Vidal,1,5,5,5,Regular,Sí,Muy Satisfecho
+998,24/09/2026,Vacunación,14,29,5145,MVZ. Eddie Hernández Vidal,4,2,2,5,Buena,No,Satisfecho
+999,25/09/2026,Desparacitación,10,74,3811,MVZ. Eddie Hernández Vidal,5,2,3,2,Buena,Sí,Satisfecho
+1000,26/09/2026,Vacunación,54,11,5070,MVZ. Eddie Hernández Vidal,4,2,1,4,Buena,Sí,Satisfecho
+1001,27/09/2026,Ultrasonido,4,66,602,MVZ. Eddie Hernández Vidal,2,3,2,3,Buena,Sí,Satisfecho
+1002,28/09/2026,Desparacitación,20,46,509,MVZ. Eddie Hernández Vidal,5,4,3,4,Pesima,Sí,Muy Satisfecho
+1003,29/09/2026,Servicio a domicilio,41,112,1837,MVZ. Eddie Hernández Vidal,1,1,1,1,Mala,Sí,Insatisfecho
+1004,30/09/2026,Vacunación,40,180,3126,MVZ. Eddie Hernández Vidal,4,5,1,1,Buena,Sí,Satisfecho
+1005,01/10/2026,Ultrasonido,52,145,3832,MVZ. Eddie Hernández Vidal,1,3,2,5,Regular,No,Satisfecho
+1006,02/10/2026,Vacunación,11,145,9501,MVZ. Eddie Hernández Vidal,5,2,5,5,Pesima,Sí,Muy Satisfecho
+1007,03/10/2026,Vacunación,60,50,883,MVZ. Eddie Hernández Vidal,2,5,2,5,Pesima,No,Muy Satisfecho
+1008,04/10/2026,Estética,53,42,8974,MVZ. Eddie Hernández Vidal,2,1,1,5,Mala,Sí,Algo satisfecho
+1009,05/10/2026,Consulta general,29,87,8970,MVZ. Eddie Hernández Vidal,1,4,3,2,Pesima,No,Satisfecho
+1010,06/10/2026,Vacunación,3,58,5625,MVZ. Eddie Hernández Vidal,5,2,1,2,Regular,Sí,Satisfecho
+1011,07/10/2026,Vacunación,52,45,7510,MVZ. Eddie Hernández Vidal,2,4,2,2,Pesima,Sí,Satisfecho
+1012,08/10/2026,Consulta general,44,141,3497,MVZ. Eddie Hernández Vidal,2,3,1,4,Pesima,Sí,Satisfecho
+1013,09/10/2026,Cirugías,26,5,7353,MVZ. Eddie Hernández Vidal,2,4,5,1,Regular,Sí,Satisfecho
+1014,10/10/2026,Vacunación,60,37,5338,MVZ. Eddie Hernández Vidal,5,2,1,4,Buena,No,Satisfecho
+1015,11/10/2026,Ultrasonido,27,145,8399,MVZ. Eddie Hernández Vidal,2,2,5,4,Regular,No,Satisfecho
+1016,12/10/2026,Desparacitación,2,25,6718,MVZ. Eddie Hernández Vidal,5,1,5,3,Regular,No,Muy Satisfecho
+1017,13/10/2026,Estética,60,119,4085,MVZ. Eddie Hernández Vidal,1,3,3,1,Buena,Sí,Algo satisfecho
+1018,14/10/2026,Cirugías,2,20,1068,MVZ. Eddie Hernández Vidal,5,1,1,4,Pesima,Sí,Satisfecho
+1019,15/10/2026,Hospitalización,23,28,4981,MVZ. Eddie Hernández Vidal,1,4,3,4,Buena,No,Satisfecho
+1020,16/10/2026,Consulta general,45,59,761,MVZ. Eddie Hernández Vidal,1,5,4,5,Regular,Sí,Muy Satisfecho
+1021,17/10/2026,Estética,28,113,8087,MVZ. Eddie Hernández Vidal,2,2,3,3,Pesima,Sí,Satisfecho
+1022,18/10/2026,Servicio a domicilio,57,92,7838,MVZ. Eddie Hernández Vidal,1,1,3,3,Pesima,Sí,Algo satisfecho
+1023,19/10/2026,Urgencias,53,14,7198,MVZ. Eddie Hernández Vidal,1,2,5,2,Regular,Sí,Satisfecho
+1024,20/10/2026,Urgencias,18,114,5780,MVZ. Eddie Hernández Vidal,3,5,5,2,Pesima,No,Muy Satisfecho
+1025,21/10/2026,Desparacitación,47,110,7997,MVZ. Eddie Hernández Vidal,3,2,4,1,Pesima,No,Satisfecho
+1026,22/10/2026,Servicio a domicilio,59,75,5296,MVZ. Eddie Hernández Vidal,3,4,5,2,Mala,No,Muy Satisfecho
+1027,23/10/2026,Consulta general,1,168,3733,MVZ. Eddie Hernández Vidal,4,5,5,3,Buena,Sí,Muy Satisfecho
+1028,24/10/2026,Servicio a domicilio,4,171,787,MVZ. Eddie Hernández Vidal,5,3,3,5,Buena,Sí,Muy Satisfecho
+1029,25/10/2026,Servicio a domicilio,36,70,2265,MVZ. Eddie Hernández Vidal,5,1,5,5,Pesima,No,Muy Satisfecho
+1030,26/10/2026,Vacunación,17,38,6794,MVZ. Eddie Hernández Vidal,3,2,1,1,Pesima,Sí,Algo satisfecho
+1031,27/10/2026,Desparacitación,24,106,4579,MVZ. Eddie Hernández Vidal,2,4,4,2,Mala,No,Satisfecho
+1032,28/10/2026,Hospitalización,25,102,9985,MVZ. Eddie Hernández Vidal,3,1,5,1,Buena,Sí,Satisfecho
+1033,29/10/2026,Cirugías,43,166,5426,MVZ. Eddie Hernández Vidal,5,2,2,2,Pesima,No,Satisfecho
+1034,30/10/2026,Consulta general,12,136,2325,MVZ. Eddie Hernández Vidal,3,4,3,3,Mala,No,Satisfecho
+1035,31/10/2026,Vacunación,34,91,8371,MVZ. Eddie Hernández Vidal,2,5,3,5,Regular,No,Muy Satisfecho
+1036,01/11/2026,Consulta general,21,106,1539,MVZ. Eddie Hernández Vidal,5,3,1,3,Mala,Sí,Satisfecho
+1037,02/11/2026,Urgencias,56,127,3061,MVZ. Eddie Hernández Vidal,1,2,2,1,Mala,No,Algo satisfecho
+1038,03/11/2026,Consulta general,50,166,6771,MVZ. Eddie Hernández Vidal,2,2,4,3,Mala,No,Satisfecho
+1039,04/11/2026,Desparacitación,9,8,7115,MVZ. Eddie Hernández Vidal,4,2,3,4,Pesima,No,Satisfecho
+1040,05/11/2026,Urgencias,36,82,8209,MVZ. Eddie Hernández Vidal,3,3,1,2,Regular,Sí,Algo satisfecho
+1041,06/11/2026,Servicio a domicilio,43,167,4630,MVZ. Eddie Hernández Vidal,5,2,5,4,Regular,No,Muy Satisfecho
+1042,07/11/2026,Consulta general,41,84,9439,MVZ. Eddie Hernández Vidal,2,3,4,2,Pesima,Sí,Satisfecho
+1043,08/11/2026,Vacunación,6,176,9255,MVZ. Eddie Hernández Vidal,4,3,3,5,Mala,No,Muy Satisfecho
+1044,09/11/2026,Consulta general,17,35,2501,MVZ. Eddie Hernández Vidal,5,5,5,1,Mala,Sí,Muy Satisfecho
+1045,10/11/2026,Desparacitación,31,174,1240,MVZ. Eddie Hernández Vidal,5,1,5,4,Mala,No,Muy Satisfecho
+1046,11/11/2026,Hospitalización,58,161,3808,MVZ. Eddie Hernández Vidal,3,4,1,3,Pesima,No,Satisfecho
+1047,12/11/2026,Cirugías,50,142,1128,MVZ. Eddie Hernández Vidal,2,3,5,4,Regular,No,Muy Satisfecho
+1048,13/11/2026,Ultrasonido,47,16,3375,MVZ. Eddie Hernández Vidal,1,1,4,4,Buena,Sí,Satisfecho
+1049,14/11/2026,Servicio a domicilio,44,158,9494,MVZ. Eddie Hernández Vidal,5,3,5,5,Regular,Sí,Extremadamente satisfecho
+1050,15/11/2026,Cirugías,6,62,3081,MVZ. Eddie Hernández Vidal,2,5,3,4,Pesima,Sí,Muy Satisfecho
+1051,16/11/2026,Servicio a domicilio,50,78,4786,MVZ. Eddie Hernández Vidal,4,5,4,1,Pesima,Sí,Muy Satisfecho
+1052,17/11/2026,Servicio a domicilio,16,67,9776,MVZ. Eddie Hernández Vidal,1,5,4,2,Pesima,Sí,Satisfecho
+1053,18/11/2026,Consulta general,30,101,4042,MVZ. Eddie Hernández Vidal,5,5,1,5,Mala,Sí,Muy Satisfecho
+1054,19/11/2026,Vacunación,28,154,4878,MVZ. Eddie Hernández Vidal,3,1,1,1,Regular,Sí,Algo satisfecho
+1055,20/11/2026,Estética,11,168,7061,MVZ. Eddie Hernández Vidal,3,2,1,5,Pesima,Sí,Satisfecho
+1056,21/11/2026,Vacunación,32,126,5760,MVZ. Eddie Hernández Vidal,1,4,2,4,Regular,No,Satisfecho
+1057,22/11/2026,Urgencias,38,177,5071,MVZ. Eddie Hernández Vidal,5,3,2,4,Buena,No,Muy Satisfecho
+1058,23/11/2026,Hospitalización,25,101,2026,MVZ. Eddie Hernández Vidal,5,2,1,1,Pesima,Sí,Algo satisfecho
+1059,24/11/2026,Vacunación,38,97,5856,MVZ. Eddie Hernández Vidal,4,1,5,1,Pesima,Sí,Satisfecho
+1060,25/11/2026,Estética,29,105,1586,MVZ. Eddie Hernández Vidal,4,1,5,2,Buena,No,Satisfecho
+1061,26/11/2026,Servicio a domicilio,2,79,1876,MVZ. Eddie Hernández Vidal,3,4,4,1,Pesima,No,Satisfecho
+1062,27/11/2026,Desparacitación,19,104,7497,MVZ. Eddie Hernández Vidal,3,4,5,3,Pesima,Sí,Muy Satisfecho
+1063,28/11/2026,Vacunación,12,34,2588,MVZ. Eddie Hernández Vidal,5,5,5,2,Regular,Sí,Muy Satisfecho
+1064,29/11/2026,Consulta general,18,46,2833,MVZ. Eddie Hernández Vidal,2,2,3,3,Pesima,No,Satisfecho
+1065,30/11/2026,Ultrasonido,0,170,9062,MVZ. Eddie Hernández Vidal,4,1,4,5,Regular,Sí,Muy Satisfecho
+1066,01/12/2026,Cirugías,41,162,6236,MVZ. Eddie Hernández Vidal,1,2,1,2,Pesima,Sí,Algo satisfecho
+1067,02/12/2026,Estética,22,102,639,MVZ. Eddie Hernández Vidal,1,3,1,2,Pesima,No,Algo satisfecho
+1068,03/12/2026,Desparacitación,17,40,5075,MVZ. Eddie Hernández Vidal,1,5,5,2,Pesima,No,Satisfecho
+1069,04/12/2026,Vacunación,42,89,9153,MVZ. Eddie Hernández Vidal,3,2,1,3,Regular,Sí,Algo satisfecho
+1070,05/12/2026,Ultrasonido,4,38,6121,MVZ. Eddie Hernández Vidal,2,3,1,2,Buena,Sí,Algo satisfecho
+1071,06/12/2026,Cirugías,4,136,2428,MVZ. Eddie Hernández Vidal,1,4,5,3,Regular,No,Satisfecho
+1072,07/12/2026,Vacunación,18,100,2705,MVZ. Eddie Hernández Vidal,3,5,5,2,Buena,No,Muy Satisfecho
+1073,08/12/2026,Hospitalización,5,105,7470,MVZ. Eddie Hernández Vidal,4,5,1,1,Mala,Sí,Satisfecho
+1074,09/12/2026,Estética,14,93,593,MVZ. Eddie Hernández Vidal,4,3,3,3,Regular,No,Satisfecho
+1075,10/12/2026,Estética,10,30,1128,MVZ. Eddie Hernández Vidal,2,5,4,3,Mala,Sí,Muy Satisfecho
+1076,11/12/2026,Vacunación,50,94,3930,MVZ. Eddie Hernández Vidal,3,1,3,3,Buena,No,Satisfecho
+1077,12/12/2026,Hospitalización,29,42,4296,MVZ. Eddie Hernández Vidal,5,5,5,3,Buena,No,Extremadamente satisfecho
+1078,13/12/2026,Estética,19,132,8385,MVZ. Eddie Hernández Vidal,4,2,4,3,Buena,No,Satisfecho
+1079,14/12/2026,Cirugías,34,82,1802,MVZ. Eddie Hernández Vidal,3,4,3,5,Regular,No,Muy Satisfecho
+1080,15/12/2026,Hospitalización,3,101,9646,MVZ. Eddie Hernández Vidal,2,2,2,5,Pesima,No,Satisfecho
+1081,16/12/2026,Servicio a domicilio,8,111,3726,MVZ. Eddie Hernández Vidal,4,3,3,4,Pesima,Sí,Muy Satisfecho
+1082,17/12/2026,Hospitalización,26,10,9095,MVZ. Eddie Hernández Vidal,3,5,1,1,Regular,Sí,Satisfecho
+1083,18/12/2026,Estética,18,26,8825,MVZ. Eddie Hernández Vidal,5,4,1,1,Regular,Sí,Satisfecho
+1084,19/12/2026,Urgencias,4,173,3754,MVZ. Eddie Hernández Vidal,5,4,1,3,Buena,Sí,Satisfecho
+1085,20/12/2026,Hospitalización,7,146,8771,MVZ. Eddie Hernández Vidal,2,5,5,5,Regular,No,Muy Satisfecho
+1086,21/12/2026,Desparacitación,42,32,9614,MVZ. Eddie Hernández Vidal,4,2,1,2,Pesima,Sí,Algo satisfecho
+1087,22/12/2026,Estética,29,39,9467,MVZ. Eddie Hernández Vidal,2,1,4,4,Regular,No,Satisfecho
+1088,23/12/2026,Desparacitación,35,133,3555,MVZ. Eddie Hernández Vidal,5,3,3,4,Regular,No,Muy Satisfecho
+1089,24/12/2026,Desparacitación,15,60,8110,MVZ. Eddie Hernández Vidal,2,5,3,2,Buena,No,Satisfecho
+1090,25/12/2026,Urgencias,46,49,7983,MVZ. Eddie Hernández Vidal,4,1,5,5,Mala,No,Muy Satisfecho
+1091,26/12/2026,Desparacitación,45,116,154,MVZ. Eddie Hernández Vidal,4,5,4,3,Regular,No,Muy Satisfecho
+1092,27/12/2026,Estética,3,56,3609,MVZ. Eddie Hernández Vidal,3,3,4,2,Pesima,Sí,Satisfecho
+1093,28/12/2026,Urgencias,58,64,2374,MVZ. Eddie Hernández Vidal,3,2,4,3,Buena,Sí,Satisfecho
+1094,29/12/2026,Urgencias,3,22,4789,MVZ. Eddie Hernández Vidal,1,2,2,1,Mala,Sí,Algo satisfecho
+1095,30/12/2026,Desparacitación,6,101,5800,MVZ. Eddie Hernández Vidal,3,3,1,2,Pesima,No,Algo satisfecho
+1096,31/12/2026,Hospitalización,2,16,4971,MVZ. Eddie Hernández Vidal,1,3,2,4,Pesima,Sí,Satisfecho
+1097,01/01/2027,Vacunación,37,175,2137,MVZ. Eddie Hernández Vidal,3,2,3,2,Buena,No,Satisfecho
+1098,02/01/2027,Hospitalización,24,38,9414,MVZ. Eddie Hernández Vidal,4,2,5,1,Buena,Sí,Satisfecho
+1099,03/01/2027,Hospitalización,55,56,8463,MVZ. Eddie Hernández Vidal,4,5,4,5,Mala,No,Extremadamente satisfecho
+1100,04/01/2027,Servicio a domicilio,59,74,4481,MVZ. Eddie Hernández Vidal,2,1,1,3,Pesima,No,Algo satisfecho
+1101,05/01/2027,Servicio a domicilio,35,86,3634,MVZ. Eddie Hernández Vidal,4,5,2,2,Buena,Sí,Satisfecho
+1102,06/01/2027,Consulta general,3,15,4949,MVZ. Eddie Hernández Vidal,4,4,2,4,Regular,No,Muy Satisfecho
+1103,07/01/2027,Hospitalización,7,46,3031,MVZ. Eddie Hernández Vidal,1,1,1,2,Pesima,Sí,Insatisfecho
+1104,08/01/2027,Urgencias,27,164,9518,MVZ. Eddie Hernández Vidal,2,1,3,5,Regular,Sí,Satisfecho
+1105,09/01/2027,Hospitalización,50,8,5424,MVZ. Eddie Hernández Vidal,4,3,1,3,Buena,No,Satisfecho
+1106,10/01/2027,Cirugías,2,175,6718,MVZ. Eddie Hernández Vidal,4,5,3,1,Mala,Sí,Satisfecho
+1107,11/01/2027,Hospitalización,48,99,980,MVZ. Eddie Hernández Vidal,5,1,4,2,Mala,No,Satisfecho
+1108,12/01/2027,Consulta general,7,139,9625,MVZ. Eddie Hernández Vidal,4,1,4,1,Buena,No,Satisfecho
+1109,13/01/2027,Consulta general,10,69,9330,MVZ. Eddie Hernández Vidal,5,3,3,4,Regular,No,Muy Satisfecho
+1110,14/01/2027,Servicio a domicilio,45,9,9474,MVZ. Eddie Hernández Vidal,3,2,3,3,Buena,Sí,Satisfecho
+1111,15/01/2027,Desparacitación,59,137,1842,MVZ. Eddie Hernández Vidal,3,4,4,5,Buena,No,Muy Satisfecho
+1112,16/01/2027,Consulta general,48,68,2126,MVZ. Eddie Hernández Vidal,4,2,5,3,Regular,Sí,Muy Satisfecho
+1113,17/01/2027,Desparacitación,57,91,9209,MVZ. Eddie Hernández Vidal,2,1,4,4,Buena,No,Satisfecho
+1114,18/01/2027,Cirugías,5,162,9557,MVZ. Eddie Hernández Vidal,4,4,3,1,Buena,Sí,Satisfecho
+1115,19/01/2027,Estética,52,27,7888,MVZ. Eddie Hernández Vidal,3,2,5,2,Regular,Sí,Satisfecho
+1116,20/01/2027,Servicio a domicilio,40,92,1890,MVZ. Eddie Hernández Vidal,5,2,4,1,Buena,No,Satisfecho
+1117,21/01/2027,Consulta general,22,54,3947,MVZ. Eddie Hernández Vidal,5,5,2,1,Regular,Sí,Satisfecho
+1118,22/01/2027,Ultrasonido,52,31,9272,MVZ. Eddie Hernández Vidal,3,5,1,4,Buena,Sí,Satisfecho
+1119,23/01/2027,Vacunación,43,123,5879,MVZ. Eddie Hernández Vidal,4,4,2,4,Mala,Sí,Muy Satisfecho
+1120,24/01/2027,Urgencias,1,61,3430,MVZ. Eddie Hernández Vidal,3,4,1,5,Mala,No,Satisfecho
+1121,25/01/2027,Vacunación,6,144,1796,MVZ. Eddie Hernández Vidal,3,1,2,5,Buena,No,Satisfecho
+1122,26/01/2027,Cirugías,28,135,7879,MVZ. Eddie Hernández Vidal,5,5,5,4,Pesima,Sí,Extremadamente satisfecho
+1123,27/01/2027,Consulta general,5,17,8343,MVZ. Eddie Hernández Vidal,5,3,4,3,Buena,Sí,Muy Satisfecho
+1124,28/01/2027,Vacunación,40,7,2721,MVZ. Eddie Hernández Vidal,3,1,3,1,Mala,Sí,Algo satisfecho
+1125,29/01/2027,Hospitalización,10,96,794,MVZ. Eddie Hernández Vidal,5,3,5,2,Regular,No,Muy Satisfecho
+1126,30/01/2027,Consulta general,7,122,4973,MVZ. Eddie Hernández Vidal,4,5,2,2,Regular,No,Satisfecho
+1127,31/01/2027,Consulta general,29,126,6570,MVZ. Eddie Hernández Vidal,4,2,1,2,Pesima,Sí,Algo satisfecho
+1128,01/02/2027,Hospitalización,36,126,1145,MVZ. Eddie Hernández Vidal,1,2,5,4,Buena,Sí,Satisfecho
+1129,02/02/2027,Desparacitación,18,40,2581,MVZ. Eddie Hernández Vidal,3,1,5,5,Buena,Sí,Muy Satisfecho
+1130,03/02/2027,Servicio a domicilio,47,133,1425,MVZ. Eddie Hernández Vidal,2,4,2,1,Buena,No,Algo satisfecho
+1131,04/02/2027,Urgencias,60,66,3641,MVZ. Eddie Hernández Vidal,4,5,2,3,Mala,No,Muy Satisfecho
+1132,05/02/2027,Vacunación,59,82,2259,MVZ. Eddie Hernández Vidal,5,3,4,4,Mala,Sí,Muy Satisfecho
+1133,06/02/2027,Servicio a domicilio,2,106,6134,MVZ. Eddie Hernández Vidal,3,3,3,4,Mala,Sí,Satisfecho
+1134,07/02/2027,Desparacitación,41,151,9818,MVZ. Eddie Hernández Vidal,2,1,2,4,Regular,Sí,Algo satisfecho
+1135,08/02/2027,Urgencias,29,168,4640,MVZ. Eddie Hernández Vidal,2,1,3,2,Buena,Sí,Algo satisfecho
+1136,09/02/2027,Urgencias,32,15,4456,MVZ. Eddie Hernández Vidal,2,5,5,5,Pesima,No,Muy Satisfecho
+1137,10/02/2027,Vacunación,49,24,6208,MVZ. Eddie Hernández Vidal,2,2,4,3,Mala,Sí,Satisfecho
+1138,11/02/2027,Estética,60,160,7479,MVZ. Eddie Hernández Vidal,4,1,5,3,Pesima,Sí,Satisfecho
+1139,12/02/2027,Vacunación,52,14,831,MVZ. Eddie Hernández Vidal,1,5,5,4,Pesima,Sí,Muy Satisfecho
+1140,13/02/2027,Urgencias,25,117,9073,MVZ. Eddie Hernández Vidal,5,2,5,4,Pesima,Sí,Muy Satisfecho
+1141,14/02/2027,Desparacitación,36,171,4641,MVZ. Eddie Hernández Vidal,4,4,5,2,Regular,No,Muy Satisfecho
+1142,15/02/2027,Desparacitación,19,127,6106,MVZ. Eddie Hernández Vidal,1,4,4,3,Mala,Sí,Satisfecho
+1143,16/02/2027,Urgencias,32,17,2838,MVZ. Eddie Hernández Vidal,4,4,1,1,Regular,Sí,Satisfecho
+1144,17/02/2027,Servicio a domicilio,53,107,3888,MVZ. Eddie Hernández Vidal,5,3,1,5,Regular,No,Muy Satisfecho
+1145,18/02/2027,Cirugías,27,74,1033,MVZ. Eddie Hernández Vidal,4,4,3,2,Pesima,No,Satisfecho
+1146,19/02/2027,Cirugías,26,91,7913,MVZ. Eddie Hernández Vidal,5,5,3,5,Regular,Sí,Extremadamente satisfecho
+1147,20/02/2027,Estética,56,67,5016,MVZ. Eddie Hernández Vidal,3,1,1,5,Pesima,No,Satisfecho
+1148,21/02/2027,Servicio a domicilio,56,17,5792,MVZ. Eddie Hernández Vidal,4,2,3,5,Mala,Sí,Muy Satisfecho
+1149,22/02/2027,Hospitalización,28,71,8066,MVZ. Eddie Hernández Vidal,3,5,3,4,Mala,Sí,Muy Satisfecho
+1150,23/02/2027,Vacunación,45,64,5355,MVZ. Eddie Hernández Vidal,4,2,2,5,Mala,Sí,Satisfecho
+1151,24/02/2027,Ultrasonido,23,133,7480,MVZ. Eddie Hernández Vidal,3,1,2,4,Regular,Sí,Satisfecho
+1152,25/02/2027,Consulta general,18,29,5047,MVZ. Eddie Hernández Vidal,3,3,1,4,Regular,No,Satisfecho
+1153,26/02/2027,Urgencias,5,111,2686,MVZ. Eddie Hernández Vidal,3,1,5,5,Buena,No,Muy Satisfecho
+1154,27/02/2027,Servicio a domicilio,1,137,3829,MVZ. Eddie Hernández Vidal,2,1,4,4,Mala,No,Satisfecho
+1155,28/02/2027,Servicio a domicilio,21,151,7651,MVZ. Eddie Hernández Vidal,1,1,2,2,Buena,No,Algo satisfecho
+1156,01/03/2027,Cirugías,34,50,3876,MVZ. Eddie Hernández Vidal,1,2,1,3,Pesima,Sí,Algo satisfecho
+1157,02/03/2027,Cirugías,1,77,5786,MVZ. Eddie Hernández Vidal,3,1,1,3,Buena,Sí,Algo satisfecho
+1158,03/03/2027,Consulta general,29,149,4174,MVZ. Eddie Hernández Vidal,2,5,4,4,Regular,No,Muy Satisfecho
+1159,04/03/2027,Servicio a domicilio,45,91,5276,MVZ. Eddie Hernández Vidal,2,4,1,1,Buena,Sí,Algo satisfecho
+1160,05/03/2027,Estética,34,111,9021,MVZ. Eddie Hernández Vidal,5,4,4,4,Buena,Sí,Muy Satisfecho
+1161,06/03/2027,Hospitalización,14,84,4933,MVZ. Eddie Hernández Vidal,2,5,2,4,Buena,No,Satisfecho
+1162,07/03/2027,Vacunación,42,132,8704,MVZ. Eddie Hernández Vidal,3,3,4,5,Mala,No,Muy Satisfecho
+1163,08/03/2027,Hospitalización,30,25,4574,MVZ. Eddie Hernández Vidal,5,4,3,5,Mala,Sí,Muy Satisfecho
+1164,09/03/2027,Vacunación,9,53,3061,MVZ. Eddie Hernández Vidal,1,2,5,5,Regular,Sí,Satisfecho
+1165,10/03/2027,Consulta general,54,92,5355,MVZ. Eddie Hernández Vidal,1,3,2,2,Buena,No,Algo satisfecho
+1166,11/03/2027,Urgencias,27,71,7439,MVZ. Eddie Hernández Vidal,4,1,2,1,Regular,Sí,Algo satisfecho
+1167,12/03/2027,Consulta general,7,53,7460,MVZ. Eddie Hernández Vidal,3,3,2,3,Buena,No,Satisfecho
+1168,13/03/2027,Urgencias,12,144,1429,MVZ. Eddie Hernández Vidal,4,1,5,1,Regular,No,Satisfecho
+1169,14/03/2027,Estética,29,157,2604,MVZ. Eddie Hernández Vidal,1,4,5,4,Pesima,No,Muy Satisfecho
+1170,15/03/2027,Estética,36,148,3640,MVZ. Eddie Hernández Vidal,2,1,4,4,Pesima,Sí,Satisfecho
+1171,16/03/2027,Cirugías,38,116,4709,MVZ. Eddie Hernández Vidal,5,3,4,5,Mala,Sí,Muy Satisfecho
+1172,17/03/2027,Vacunación,28,158,6752,MVZ. Eddie Hernández Vidal,4,1,3,1,Regular,No,Algo satisfecho
+1173,18/03/2027,Vacunación,49,132,4367,MVZ. Eddie Hernández Vidal,3,5,4,4,Pesima,No,Muy Satisfecho
+1174,19/03/2027,Consulta general,21,138,1907,MVZ. Eddie Hernández Vidal,1,1,4,3,Buena,No,Algo satisfecho
+1175,20/03/2027,Urgencias,23,27,4988,MVZ. Eddie Hernández Vidal,1,5,3,1,Pesima,No,Satisfecho
+1176,21/03/2027,Ultrasonido,37,59,5164,MVZ. Eddie Hernández Vidal,5,2,3,2,Mala,Sí,Satisfecho
+1177,22/03/2027,Consulta general,20,56,8381,MVZ. Eddie Hernández Vidal,1,5,4,5,Mala,Sí,Muy Satisfecho
+1178,23/03/2027,Ultrasonido,13,167,6998,MVZ. Eddie Hernández Vidal,4,3,3,1,Pesima,Sí,Satisfecho
+1179,24/03/2027,Cirugías,45,162,7239,MVZ. Eddie Hernández Vidal,1,2,2,2,Regular,Sí,Algo satisfecho
+1180,25/03/2027,Hospitalización,40,145,6930,MVZ. Eddie Hernández Vidal,1,3,1,1,Buena,No,Algo satisfecho
+1181,26/03/2027,Urgencias,50,49,9670,MVZ. Eddie Hernández Vidal,5,2,1,2,Pesima,Sí,Satisfecho
+1182,27/03/2027,Consulta general,41,63,4773,MVZ. Eddie Hernández Vidal,2,2,5,5,Mala,Sí,Muy Satisfecho
+1183,28/03/2027,Desparacitación,54,129,1324,MVZ. Eddie Hernández Vidal,3,5,5,4,Pesima,Sí,Muy Satisfecho
+1184,29/03/2027,Cirugías,1,25,3836,MVZ. Eddie Hernández Vidal,3,2,2,3,Mala,No,Satisfecho
+1185,30/03/2027,Consulta general,8,68,2273,MVZ. Eddie Hernández Vidal,4,3,2,5,Mala,No,Muy Satisfecho
+1186,31/03/2027,Ultrasonido,58,179,3061,MVZ. Eddie Hernández Vidal,3,3,3,3,Buena,Sí,Satisfecho
+1187,01/04/2027,Cirugías,39,102,9949,MVZ. Eddie Hernández Vidal,5,2,3,5,Regular,No,Muy Satisfecho
+1188,02/04/2027,Desparacitación,44,80,8587,MVZ. Eddie Hernández Vidal,5,2,4,3,Mala,No,Muy Satisfecho
+1189,03/04/2027,Desparacitación,9,51,7274,MVZ. Eddie Hernández Vidal,1,1,5,4,Mala,No,Satisfecho
+1190,04/04/2027,Desparacitación,49,99,3126,MVZ. Eddie Hernández Vidal,1,1,4,3,Regular,No,Algo satisfecho
+1191,05/04/2027,Hospitalización,17,115,1364,MVZ. Eddie Hernández Vidal,4,2,1,2,Pesima,Sí,Algo satisfecho
+1192,06/04/2027,Servicio a domicilio,49,16,5811,MVZ. Eddie Hernández Vidal,2,2,1,1,Buena,No,Algo satisfecho
+1193,07/04/2027,Servicio a domicilio,25,100,8299,MVZ. Eddie Hernández Vidal,1,4,3,1,Mala,Sí,Algo satisfecho
+1194,08/04/2027,Ultrasonido,23,39,1509,MVZ. Eddie Hernández Vidal,5,1,5,4,Pesima,No,Muy Satisfecho
+1195,09/04/2027,Cirugías,57,46,9588,MVZ. Eddie Hernández Vidal,1,5,2,1,Mala,Sí,Algo satisfecho
+1196,10/04/2027,Vacunación,40,154,2305,MVZ. Eddie Hernández Vidal,4,3,5,3,Mala,Sí,Muy Satisfecho
+1197,11/04/2027,Urgencias,57,96,8112,MVZ. Eddie Hernández Vidal,4,5,2,2,Buena,No,Satisfecho
+1198,12/04/2027,Estética,51,86,4549,MVZ. Eddie Hernández Vidal,1,1,4,1,Regular,No,Algo satisfecho
+1199,13/04/2027,Estética,10,62,3670,MVZ. Eddie Hernández Vidal,2,1,2,4,Regular,No,Algo satisfecho
+1200,14/04/2027,Consulta general,26,139,1298,MVZ. Eddie Hernández Vidal,3,4,3,5,Pesima,No,Muy Satisfecho
+1201,15/04/2027,Estética,13,144,6613,MVZ. Eddie Hernández Vidal,5,4,5,4,Pesima,No,Extremadamente satisfecho
+1202,16/04/2027,Hospitalización,31,117,3561,MVZ. Eddie Hernández Vidal,2,5,2,1,Mala,No,Satisfecho
+1203,17/04/2027,Cirugías,60,115,5625,MVZ. Eddie Hernández Vidal,4,4,4,4,Regular,Sí,Muy Satisfecho
+1204,18/04/2027,Hospitalización,21,152,9307,MVZ. Eddie Hernández Vidal,5,4,2,4,Buena,No,Muy Satisfecho
+1205,19/04/2027,Desparacitación,33,12,2125,MVZ. Eddie Hernández Vidal,5,2,4,5,Pesima,No,Muy Satisfecho
+1206,20/04/2027,Urgencias,45,62,6643,MVZ. Eddie Hernández Vidal,3,2,2,2,Mala,Sí,Algo satisfecho
+1207,21/04/2027,Hospitalización,1,149,4171,MVZ. Eddie Hernández Vidal,4,4,1,1,Regular,No,Satisfecho
+1208,22/04/2027,Servicio a domicilio,32,75,6223,MVZ. Eddie Hernández Vidal,3,3,3,3,Mala,Sí,Satisfecho
+1209,23/04/2027,Vacunación,43,173,4497,MVZ. Eddie Hernández Vidal,3,3,5,1,Regular,Sí,Satisfecho
+1210,24/04/2027,Cirugías,55,15,6713,MVZ. Eddie Hernández Vidal,2,2,3,5,Buena,Sí,Satisfecho
+1211,25/04/2027,Desparacitación,6,46,5262,MVZ. Eddie Hernández Vidal,4,3,5,2,Mala,Sí,Muy Satisfecho
+1212,26/04/2027,Urgencias,34,175,1274,MVZ. Eddie Hernández Vidal,4,3,2,3,Pesima,Sí,Satisfecho
+1213,27/04/2027,Desparacitación,30,173,2892,MVZ. Eddie Hernández Vidal,2,2,3,5,Pesima,No,Satisfecho
+1214,28/04/2027,Cirugías,46,162,1156,MVZ. Eddie Hernández Vidal,4,3,1,3,Buena,No,Satisfecho
+1215,29/04/2027,Estética,26,79,9536,MVZ. Eddie Hernández Vidal,2,5,2,4,Mala,Sí,Satisfecho
+1216,30/04/2027,Consulta general,38,79,6894,MVZ. Eddie Hernández Vidal,4,5,1,2,Regular,Sí,Satisfecho
+1217,01/05/2027,Desparacitación,36,164,4911,MVZ. Eddie Hernández Vidal,1,1,2,4,Pesima,Sí,Algo satisfecho
+1218,02/05/2027,Estética,17,86,3549,MVZ. Eddie Hernández Vidal,4,3,4,3,Regular,Sí,Muy Satisfecho
+1219,03/05/2027,Urgencias,48,104,6647,MVZ. Eddie Hernández Vidal,1,5,5,4,Mala,Sí,Muy Satisfecho
+1220,04/05/2027,Consulta general,12,169,8115,MVZ. Eddie Hernández Vidal,3,5,5,1,Regular,No,Muy Satisfecho
+1221,05/05/2027,Consulta general,52,66,2172,MVZ. Eddie Hernández Vidal,3,5,1,5,Pesima,No,Muy Satisfecho
+1222,06/05/2027,Estética,47,86,2453,MVZ. Eddie Hernández Vidal,3,4,1,4,Pesima,Sí,Satisfecho
+1223,07/05/2027,Desparacitación,52,118,2966,MVZ. Eddie Hernández Vidal,5,2,1,4,Mala,Sí,Satisfecho
+1224,08/05/2027,Urgencias,39,160,3127,MVZ. Eddie Hernández Vidal,3,3,4,2,Regular,Sí,Satisfecho
+1225,09/05/2027,Vacunación,48,30,7538,MVZ. Eddie Hernández Vidal,1,5,2,2,Mala,Sí,Satisfecho
+1226,10/05/2027,Urgencias,48,180,2090,MVZ. Eddie Hernández Vidal,2,1,3,4,Pesima,Sí,Satisfecho
+1227,11/05/2027,Hospitalización,55,116,1481,MVZ. Eddie Hernández Vidal,2,4,1,4,Buena,No,Satisfecho
+1228,12/05/2027,Urgencias,25,144,4993,MVZ. Eddie Hernández Vidal,5,4,1,2,Pesima,No,Satisfecho
+1229,13/05/2027,Estética,0,97,6472,MVZ. Eddie Hernández Vidal,4,2,4,1,Pesima,Sí,Satisfecho
+1230,14/05/2027,Consulta general,60,21,5129,MVZ. Eddie Hernández Vidal,3,3,3,2,Mala,No,Satisfecho
+1231,15/05/2027,Servicio a domicilio,38,166,2784,MVZ. Eddie Hernández Vidal,4,1,5,5,Pesima,No,Muy Satisfecho
+1232,16/05/2027,Estética,30,128,2321,MVZ. Eddie Hernández Vidal,2,3,1,4,Mala,No,Satisfecho
+1233,17/05/2027,Cirugías,41,147,180,MVZ. Eddie Hernández Vidal,1,5,5,3,Pesima,No,Muy Satisfecho
+1234,18/05/2027,Estética,47,173,6814,MVZ. Eddie Hernández Vidal,5,1,1,5,Mala,Sí,Satisfecho
+1235,19/05/2027,Servicio a domicilio,36,70,7957,MVZ. Eddie Hernández Vidal,5,1,2,2,Mala,No,Satisfecho
+1236,20/05/2027,Consulta general,38,179,309,MVZ. Eddie Hernández Vidal,5,3,1,5,Pesima,Sí,Muy Satisfecho
+1237,21/05/2027,Vacunación,28,27,1285,MVZ. Eddie Hernández Vidal,3,3,1,1,Mala,Sí,Algo satisfecho
+1238,22/05/2027,Cirugías,42,173,574,MVZ. Eddie Hernández Vidal,5,4,1,4,Regular,Sí,Muy Satisfecho
+1239,23/05/2027,Urgencias,23,164,5179,MVZ. Eddie Hernández Vidal,1,5,4,5,Pesima,Sí,Muy Satisfecho
+1240,24/05/2027,Servicio a domicilio,15,65,406,MVZ. Eddie Hernández Vidal,1,5,4,4,Pesima,Sí,Muy Satisfecho
+1241,25/05/2027,Cirugías,38,131,4212,MVZ. Eddie Hernández Vidal,5,2,1,2,Mala,No,Satisfecho
+1242,26/05/2027,Estética,38,33,9617,MVZ. Eddie Hernández Vidal,2,3,4,3,Regular,No,Satisfecho
+1243,27/05/2027,Ultrasonido,22,129,4624,MVZ. Eddie Hernández Vidal,2,5,4,3,Pesima,Sí,Muy Satisfecho
+1244,28/05/2027,Servicio a domicilio,48,88,7038,MVZ. Eddie Hernández Vidal,5,2,3,5,Mala,Sí,Muy Satisfecho
+1245,29/05/2027,Hospitalización,7,101,1615,MVZ. Eddie Hernández Vidal,3,3,1,3,Regular,Sí,Satisfecho
+1246,30/05/2027,Hospitalización,37,111,4926,MVZ. Eddie Hernández Vidal,2,2,4,5,Mala,Sí,Satisfecho
+1247,31/05/2027,Consulta general,50,48,4746,MVZ. Eddie Hernández Vidal,5,5,5,3,Mala,No,Extremadamente satisfecho
+1248,01/06/2027,Estética,2,73,9901,MVZ. Eddie Hernández Vidal,1,4,5,2,Buena,Sí,Satisfecho
+1249,02/06/2027,Desparacitación,13,98,8583,MVZ. Eddie Hernández Vidal,4,1,3,1,Mala,No,Algo satisfecho
+1250,03/06/2027,Vacunación,20,31,2793,MVZ. Eddie Hernández Vidal,2,4,2,2,Regular,No,Satisfecho
+1251,04/06/2027,Vacunación,46,89,9283,MVZ. Eddie Hernández Vidal,3,1,5,5,Pesima,Sí,Muy Satisfecho
+1252,05/06/2027,Servicio a domicilio,29,52,3228,MVZ. Eddie Hernández Vidal,4,2,3,2,Regular,Sí,Satisfecho
+1253,06/06/2027,Urgencias,32,62,1334,MVZ. Eddie Hernández Vidal,4,3,4,4,Pesima,Sí,Muy Satisfecho
+1254,07/06/2027,Desparacitación,52,46,9021,MVZ. Eddie Hernández Vidal,3,3,2,4,Pesima,Sí,Satisfecho
+1255,08/06/2027,Ultrasonido,55,161,1351,MVZ. Eddie Hernández Vidal,3,3,2,2,Buena,No,Satisfecho
+1256,09/06/2027,Desparacitación,19,165,9331,MVZ. Eddie Hernández Vidal,5,4,2,5,Pesima,Sí,Muy Satisfecho
+1257,10/06/2027,Vacunación,44,145,451,MVZ. Eddie Hernández Vidal,1,3,5,5,Mala,Sí,Muy Satisfecho
+1258,11/06/2027,Servicio a domicilio,44,93,6163,MVZ. Eddie Hernández Vidal,3,1,2,3,Pesima,Sí,Algo satisfecho
+1259,12/06/2027,Vacunación,56,115,8583,MVZ. Eddie Hernández Vidal,3,1,1,3,Mala,No,Algo satisfecho
+1260,13/06/2027,Consulta general,22,44,4962,MVZ. Eddie Hernández Vidal,4,1,4,1,Regular,Sí,Satisfecho
+1261,14/06/2027,Consulta general,22,50,8000,MVZ. Eddie Hernández Vidal,2,3,4,3,Buena,No,Satisfecho
+1262,15/06/2027,Servicio a domicilio,44,166,707,MVZ. Eddie Hernández Vidal,2,5,2,4,Pesima,No,Satisfecho
+1263,16/06/2027,Hospitalización,37,99,8445,MVZ. Eddie Hernández Vidal,3,1,2,4,Regular,Sí,Satisfecho
+1264,17/06/2027,Servicio a domicilio,60,65,7798,MVZ. Eddie Hernández Vidal,1,1,2,5,Mala,Sí,Algo satisfecho
+1265,18/06/2027,Hospitalización,34,167,4679,MVZ. Eddie Hernández Vidal,3,5,4,3,Pesima,No,Muy Satisfecho
+1266,19/06/2027,Urgencias,54,162,4286,MVZ. Eddie Hernández Vidal,1,3,2,3,Buena,No,Algo satisfecho
+1267,20/06/2027,Consulta general,38,125,1943,MVZ. Eddie Hernández Vidal,4,3,2,1,Buena,Sí,Satisfecho
+1268,21/06/2027,Estética,21,172,3038,MVZ. Eddie Hernández Vidal,5,4,4,2,Regular,No,Muy Satisfecho
+1269,22/06/2027,Urgencias,28,68,578,MVZ. Eddie Hernández Vidal,4,3,3,3,Regular,Sí,Satisfecho
+1270,23/06/2027,Cirugías,48,155,5135,MVZ. Eddie Hernández Vidal,5,1,4,3,Buena,Sí,Satisfecho
+1271,24/06/2027,Servicio a domicilio,34,58,6514,MVZ. Eddie Hernández Vidal,4,4,3,1,Regular,No,Satisfecho
+1272,25/06/2027,Estética,1,31,8553,MVZ. Eddie Hernández Vidal,3,5,5,2,Regular,Sí,Muy Satisfecho
+1273,26/06/2027,Urgencias,54,73,3140,MVZ. Eddie Hernández Vidal,3,5,5,2,Pesima,No,Muy Satisfecho
+1274,27/06/2027,Desparacitación,45,48,6372,MVZ. Eddie Hernández Vidal,1,2,3,3,Buena,Sí,Algo satisfecho
+1275,28/06/2027,Urgencias,46,180,6418,MVZ. Eddie Hernández Vidal,3,4,4,3,Mala,Sí,Muy Satisfecho
+1276,29/06/2027,Vacunación,17,142,4456,MVZ. Eddie Hernández Vidal,2,5,1,5,Regular,Sí,Satisfecho
+1277,30/06/2027,Estética,52,75,5025,MVZ. Eddie Hernández Vidal,3,2,4,3,Pesima,No,Satisfecho
+1278,01/07/2027,Consulta general,34,162,8057,MVZ. Eddie Hernández Vidal,2,1,4,1,Pesima,Sí,Algo satisfecho
+1279,02/07/2027,Ultrasonido,43,10,5983,MVZ. Eddie Hernández Vidal,4,5,3,5,Pesima,Sí,Muy Satisfecho
+1280,03/07/2027,Desparacitación,13,6,8675,MVZ. Eddie Hernández Vidal,4,2,1,3,Buena,Sí,Satisfecho
+1281,04/07/2027,Ultrasonido,17,129,715,MVZ. Eddie Hernández Vidal,5,2,1,5,Pesima,No,Satisfecho
+1282,05/07/2027,Ultrasonido,31,91,1307,MVZ. Eddie Hernández Vidal,5,4,5,1,Regular,No,Muy Satisfecho
+1283,06/07/2027,Desparacitación,21,31,3881,MVZ. Eddie Hernández Vidal,3,3,1,3,Buena,No,Satisfecho
+1284,07/07/2027,Hospitalización,34,98,7892,MVZ. Eddie Hernández Vidal,3,1,3,5,Pesima,Sí,Satisfecho
+1285,08/07/2027,Servicio a domicilio,45,138,615,MVZ. Eddie Hernández Vidal,5,3,3,5,Mala,Sí,Muy Satisfecho
+1286,09/07/2027,Estética,1,149,1940,MVZ. Eddie Hernández Vidal,3,2,1,3,Buena,No,Algo satisfecho
+1287,10/07/2027,Urgencias,5,159,7133,MVZ. Eddie Hernández Vidal,2,5,1,4,Pesima,No,Satisfecho
+1288,11/07/2027,Estética,47,49,9993,MVZ. Eddie Hernández Vidal,4,3,4,1,Regular,No,Satisfecho
+1289,12/07/2027,Ultrasonido,50,31,4982,MVZ. Eddie Hernández Vidal,1,3,3,1,Pesima,No,Algo satisfecho
+1290,13/07/2027,Servicio a domicilio,38,83,1325,MVZ. Eddie Hernández Vidal,1,5,2,4,Pesima,No,Satisfecho
+1291,14/07/2027,Ultrasonido,31,93,6408,MVZ. Eddie Hernández Vidal,4,3,4,5,Mala,No,Muy Satisfecho
+1292,15/07/2027,Cirugías,28,141,8359,MVZ. Eddie Hernández Vidal,1,5,3,2,Regular,Sí,Satisfecho
+1293,16/07/2027,Vacunación,38,24,8224,MVZ. Eddie Hernández Vidal,1,1,3,1,Buena,Sí,Algo satisfecho
+1294,17/07/2027,Hospitalización,58,124,4771,MVZ. Eddie Hernández Vidal,2,4,5,4,Buena,Sí,Muy Satisfecho
+1295,18/07/2027,Estética,50,64,300,MVZ. Eddie Hernández Vidal,4,5,4,5,Regular,Sí,Extremadamente satisfecho
+1296,19/07/2027,Vacunación,48,80,2549,MVZ. Eddie Hernández Vidal,5,5,3,3,Buena,Sí,Muy Satisfecho
+1297,20/07/2027,Estética,4,179,4042,MVZ. Eddie Hernández Vidal,4,5,4,2,Mala,No,Muy Satisfecho
+1298,21/07/2027,Estética,37,26,8144,MVZ. Eddie Hernández Vidal,3,4,3,4,Regular,No,Muy Satisfecho
+1299,22/07/2027,Desparacitación,7,62,3160,MVZ. Eddie Hernández Vidal,3,2,3,3,Buena,Sí,Satisfecho
+1300,23/07/2027,Desparacitación,3,159,9767,MVZ. Eddie Hernández Vidal,4,1,2,3,Pesima,Sí,Satisfecho
+1301,24/07/2027,Consulta general,54,58,1871,MVZ. Eddie Hernández Vidal,1,5,5,3,Mala,No,Muy Satisfecho
+1302,25/07/2027,Urgencias,21,117,6750,MVZ. Eddie Hernández Vidal,2,3,4,2,Mala,No,Satisfecho
+1303,26/07/2027,Hospitalización,21,126,6703,MVZ. Eddie Hernández Vidal,3,1,3,4,Mala,Sí,Satisfecho
+1304,27/07/2027,Ultrasonido,57,155,4749,MVZ. Eddie Hernández Vidal,5,5,4,2,Mala,No,Muy Satisfecho
+1305,28/07/2027,Servicio a domicilio,26,87,7202,MVZ. Eddie Hernández Vidal,2,2,4,4,Buena,No,Satisfecho
+1306,29/07/2027,Consulta general,2,171,7135,MVZ. Eddie Hernández Vidal,5,3,1,4,Buena,No,Satisfecho
+1307,30/07/2027,Urgencias,28,137,2120,MVZ. Eddie Hernández Vidal,1,5,4,5,Buena,Sí,Muy Satisfecho
+1308,31/07/2027,Ultrasonido,47,130,2227,MVZ. Eddie Hernández Vidal,5,4,1,1,Pesima,Sí,Satisfecho
+1309,01/08/2027,Consulta general,32,152,962,MVZ. Eddie Hernández Vidal,5,3,4,1,Mala,Sí,Satisfecho
+1310,02/08/2027,Ultrasonido,37,96,3556,MVZ. Eddie Hernández Vidal,3,4,4,4,Pesima,No,Muy Satisfecho
+1311,03/08/2027,Hospitalización,33,140,8794,MVZ. Eddie Hernández Vidal,1,1,1,2,Pesima,No,Insatisfecho
+1312,04/08/2027,Consulta general,35,117,2309,MVZ. Eddie Hernández Vidal,5,3,5,5,Buena,No,Extremadamente satisfecho
+1313,05/08/2027,Cirugías,58,122,273,MVZ. Eddie Hernández Vidal,2,3,4,3,Regular,Sí,Satisfecho
+1314,06/08/2027,Servicio a domicilio,32,103,9397,MVZ. Eddie Hernández Vidal,4,4,3,3,Regular,No,Muy Satisfecho
+1315,07/08/2027,Urgencias,39,93,3593,MVZ. Eddie Hernández Vidal,4,1,5,2,Pesima,No,Satisfecho
+1316,08/08/2027,Servicio a domicilio,17,62,5514,MVZ. Eddie Hernández Vidal,3,1,2,3,Regular,Sí,Algo satisfecho
+1317,09/08/2027,Ultrasonido,9,74,627,MVZ. Eddie Hernández Vidal,5,4,4,3,Mala,Sí,Muy Satisfecho
+1318,10/08/2027,Ultrasonido,35,49,6298,MVZ. Eddie Hernández Vidal,2,5,2,5,Mala,No,Muy Satisfecho
+1319,11/08/2027,Vacunación,44,18,4541,MVZ. Eddie Hernández Vidal,2,2,5,5,Mala,No,Muy Satisfecho
+1320,12/08/2027,Cirugías,22,171,4881,MVZ. Eddie Hernández Vidal,5,4,3,4,Buena,No,Muy Satisfecho
+1321,13/08/2027,Desparacitación,5,5,3089,MVZ. Eddie Hernández Vidal,5,4,4,4,Mala,No,Muy Satisfecho
+1322,14/08/2027,Hospitalización,22,118,2291,MVZ. Eddie Hernández Vidal,1,5,1,1,Buena,Sí,Algo satisfecho
+1323,15/08/2027,Vacunación,9,50,7202,MVZ. Eddie Hernández Vidal,4,5,2,2,Mala,Sí,Satisfecho
+1324,16/08/2027,Servicio a domicilio,54,155,5459,MVZ. Eddie Hernández Vidal,5,3,1,3,Buena,No,Satisfecho
+1325,17/08/2027,Ultrasonido,1,35,3294,MVZ. Eddie Hernández Vidal,5,3,5,3,Buena,Sí,Muy Satisfecho
+1326,18/08/2027,Consulta general,43,37,6808,MVZ. Eddie Hernández Vidal,2,1,4,2,Mala,No,Algo satisfecho
+1327,19/08/2027,Cirugías,5,124,6854,MVZ. Eddie Hernández Vidal,3,5,4,3,Buena,Sí,Muy Satisfecho
+1328,20/08/2027,Consulta general,42,100,3045,MVZ. Eddie Hernández Vidal,4,1,2,2,Regular,Sí,Algo satisfecho
+1329,21/08/2027,Vacunación,4,50,8007,MVZ. Eddie Hernández Vidal,4,4,2,3,Regular,Sí,Satisfecho
+1330,22/08/2027,Consulta general,7,105,192,MVZ. Eddie Hernández Vidal,4,1,3,2,Pesima,Sí,Satisfecho
+1331,23/08/2027,Urgencias,54,136,6783,MVZ. Eddie Hernández Vidal,1,4,5,5,Pesima,No,Muy Satisfecho
+1332,24/08/2027,Hospitalización,19,168,1377,MVZ. Eddie Hernández Vidal,4,4,2,2,Pesima,Sí,Satisfecho
+1333,25/08/2027,Vacunación,50,24,7139,MVZ. Eddie Hernández Vidal,2,5,1,3,Pesima,Sí,Satisfecho
+1334,26/08/2027,Ultrasonido,51,103,5389,MVZ. Eddie Hernández Vidal,5,1,1,3,Mala,Sí,Satisfecho
+1335,27/08/2027,Desparacitación,38,150,614,MVZ. Eddie Hernández Vidal,2,5,4,5,Pesima,No,Muy Satisfecho
+1336,28/08/2027,Desparacitación,53,8,5180,MVZ. Eddie Hernández Vidal,1,4,5,4,Buena,No,Muy Satisfecho
+1337,29/08/2027,Vacunación,55,70,9315,MVZ. Eddie Hernández Vidal,1,3,3,1,Regular,No,Algo satisfecho
+1338,30/08/2027,Cirugías,13,148,7287,MVZ. Eddie Hernández Vidal,2,2,3,2,Regular,Sí,Algo satisfecho
+1339,31/08/2027,Desparacitación,11,110,2025,MVZ. Eddie Hernández Vidal,3,2,3,3,Mala,Sí,Satisfecho
+1340,01/09/2027,Desparacitación,23,13,223,MVZ. Eddie Hernández Vidal,3,5,2,1,Pesima,No,Satisfecho
+1341,02/09/2027,Urgencias,38,125,2053,MVZ. Eddie Hernández Vidal,1,4,5,2,Pesima,Sí,Satisfecho
+1342,03/09/2027,Urgencias,54,57,2366,MVZ. Eddie Hernández Vidal,3,5,5,2,Pesima,Sí,Muy Satisfecho
+1343,04/09/2027,Cirugías,53,155,9520,MVZ. Eddie Hernández Vidal,2,5,1,1,Buena,Sí,Algo satisfecho
+1344,05/09/2027,Urgencias,11,15,4050,MVZ. Eddie Hernández Vidal,1,3,3,3,Mala,No,Satisfecho
+1345,06/09/2027,Ultrasonido,40,49,1548,MVZ. Eddie Hernández Vidal,4,5,1,2,Buena,No,Satisfecho
+1346,07/09/2027,Vacunación,53,145,3273,MVZ. Eddie Hernández Vidal,3,1,2,5,Buena,No,Satisfecho
+1347,08/09/2027,Estética,31,8,1139,MVZ. Eddie Hernández Vidal,3,3,4,4,Mala,Sí,Muy Satisfecho
+1348,09/09/2027,Ultrasonido,3,27,8121,MVZ. Eddie Hernández Vidal,2,2,3,5,Buena,No,Satisfecho
+1349,10/09/2027,Servicio a domicilio,55,145,3322,MVZ. Eddie Hernández Vidal,2,5,1,5,Mala,No,Satisfecho
+1350,11/09/2027,Consulta general,2,158,7966,MVZ. Eddie Hernández Vidal,2,5,5,3,Pesima,Sí,Muy Satisfecho
+1351,12/09/2027,Hospitalización,7,95,8415,MVZ. Eddie Hernández Vidal,3,2,1,5,Buena,No,Satisfecho
+1352,13/09/2027,Hospitalización,2,45,842,MVZ. Eddie Hernández Vidal,3,3,2,3,Mala,No,Satisfecho
+1353,14/09/2027,Ultrasonido,25,174,4199,MVZ. Eddie Hernández Vidal,1,3,3,4,Buena,No,Satisfecho
+1354,15/09/2027,Hospitalización,46,133,1725,MVZ. Eddie Hernández Vidal,3,4,4,1,Regular,Sí,Satisfecho
+1355,16/09/2027,Cirugías,5,64,8509,MVZ. Eddie Hernández Vidal,1,1,2,5,Buena,Sí,Algo satisfecho
+1356,17/09/2027,Estética,16,160,2855,MVZ. Eddie Hernández Vidal,2,3,5,1,Pesima,Sí,Satisfecho
+1357,18/09/2027,Estética,50,45,7326,MVZ. Eddie Hernández Vidal,4,5,2,2,Buena,Sí,Satisfecho
+1358,19/09/2027,Consulta general,8,26,5112,MVZ. Eddie Hernández Vidal,3,1,1,2,Pesima,No,Algo satisfecho
+1359,20/09/2027,Desparacitación,17,81,5408,MVZ. Eddie Hernández Vidal,2,3,2,3,Regular,Sí,Satisfecho
+1360,21/09/2027,Ultrasonido,56,140,3920,MVZ. Eddie Hernández Vidal,4,4,3,5,Buena,Sí,Muy Satisfecho
+1361,22/09/2027,Desparacitación,50,136,4475,MVZ. Eddie Hernández Vidal,2,1,1,1,Buena,Sí,Insatisfecho
+1362,23/09/2027,Servicio a domicilio,28,32,6887,MVZ. Eddie Hernández Vidal,4,2,1,5,Buena,Sí,Satisfecho
+1363,24/09/2027,Hospitalización,14,93,6183,MVZ. Eddie Hernández Vidal,3,5,3,5,Regular,No,Muy Satisfecho
+1364,25/09/2027,Estética,56,179,4836,MVZ. Eddie Hernández Vidal,2,1,1,3,Regular,No,Algo satisfecho
+1365,26/09/2027,Cirugías,6,41,1587,MVZ. Eddie Hernández Vidal,3,1,1,2,Buena,No,Algo satisfecho
+1366,27/09/2027,Hospitalización,13,13,4107,MVZ. Eddie Hernández Vidal,1,1,4,4,Pesima,Sí,Satisfecho
+1367,28/09/2027,Ultrasonido,56,142,6526,MVZ. Eddie Hernández Vidal,2,1,5,1,Pesima,No,Algo satisfecho
+1368,29/09/2027,Vacunación,28,134,3644,MVZ. Eddie Hernández Vidal,4,2,2,4,Mala,No,Satisfecho
+1369,30/09/2027,Vacunación,3,171,6846,MVZ. Eddie Hernández Vidal,2,1,4,3,Mala,Sí,Satisfecho
+1370,01/10/2027,Hospitalización,44,153,4198,MVZ. Eddie Hernández Vidal,5,2,5,5,Regular,No,Muy Satisfecho
+1371,02/10/2027,Servicio a domicilio,59,50,9517,MVZ. Eddie Hernández Vidal,5,1,4,5,Pesima,Sí,Muy Satisfecho
+1372,03/10/2027,Estética,38,94,3846,MVZ. Eddie Hernández Vidal,1,1,4,3,Regular,No,Algo satisfecho
+1373,04/10/2027,Consulta general,47,177,6704,MVZ. Eddie Hernández Vidal,2,2,2,2,Regular,No,Algo satisfecho
+1374,05/10/2027,Vacunación,4,94,1721,MVZ. Eddie Hernández Vidal,2,1,1,3,Regular,Sí,Algo satisfecho
+1375,06/10/2027,Servicio a domicilio,0,69,5798,MVZ. Eddie Hernández Vidal,4,3,2,1,Mala,No,Satisfecho
+1376,07/10/2027,Consulta general,11,108,800,MVZ. Eddie Hernández Vidal,4,2,5,1,Regular,No,Satisfecho
+1377,08/10/2027,Hospitalización,38,63,8321,MVZ. Eddie Hernández Vidal,4,5,3,4,Mala,No,Muy Satisfecho
+1378,09/10/2027,Estética,6,75,9324,MVZ. Eddie Hernández Vidal,2,3,2,2,Buena,No,Algo satisfecho
+1379,10/10/2027,Hospitalización,51,108,9400,MVZ. Eddie Hernández Vidal,2,1,2,2,Buena,Sí,Algo satisfecho
+1380,11/10/2027,Cirugías,20,22,2884,MVZ. Eddie Hernández Vidal,5,1,5,3,Regular,No,Muy Satisfecho
+1381,12/10/2027,Hospitalización,56,16,1181,MVZ. Eddie Hernández Vidal,3,5,1,1,Mala,No,Satisfecho
+1382,13/10/2027,Hospitalización,6,22,6500,MVZ. Eddie Hernández Vidal,4,3,3,2,Buena,Sí,Satisfecho
+1383,14/10/2027,Consulta general,16,42,5463,MVZ. Eddie Hernández Vidal,3,2,3,1,Regular,Sí,Algo satisfecho
+1384,15/10/2027,Cirugías,0,99,3886,MVZ. Eddie Hernández Vidal,3,3,3,3,Buena,No,Satisfecho
+1385,16/10/2027,Ultrasonido,3,118,9725,MVZ. Eddie Hernández Vidal,1,5,3,3,Regular,No,Satisfecho
+1386,17/10/2027,Cirugías,59,17,5616,MVZ. Eddie Hernández Vidal,2,2,4,1,Regular,Sí,Algo satisfecho
+1387,18/10/2027,Estética,5,150,2720,MVZ. Eddie Hernández Vidal,2,2,5,1,Mala,No,Satisfecho
+1388,19/10/2027,Estética,47,131,8989,MVZ. Eddie Hernández Vidal,5,4,5,5,Mala,No,Extremadamente satisfecho
+1389,20/10/2027,Consulta general,39,41,6740,MVZ. Eddie Hernández Vidal,2,1,1,4,Pesima,No,Algo satisfecho
+1390,21/10/2027,Cirugías,59,165,1180,MVZ. Eddie Hernández Vidal,1,2,3,2,Mala,Sí,Algo satisfecho
+1391,22/10/2027,Servicio a domicilio,16,132,9366,MVZ. Eddie Hernández Vidal,2,2,1,3,Mala,No,Algo satisfecho
+1392,23/10/2027,Cirugías,25,136,7847,MVZ. Eddie Hernández Vidal,4,4,4,3,Buena,Sí,Muy Satisfecho
+1393,24/10/2027,Consulta general,57,123,388,MVZ. Eddie Hernández Vidal,4,4,3,2,Pesima,Sí,Satisfecho
+1394,25/10/2027,Estética,30,122,1928,MVZ. Eddie Hernández Vidal,5,2,5,4,Buena,No,Muy Satisfecho
+1395,26/10/2027,Consulta general,27,170,2605,MVZ. Eddie Hernández Vidal,4,5,3,4,Regular,Sí,Muy Satisfecho
+1396,27/10/2027,Hospitalización,11,10,9805,MVZ. Eddie Hernández Vidal,1,4,2,4,Mala,No,Satisfecho
+1397,28/10/2027,Estética,40,150,4713,MVZ. Eddie Hernández Vidal,2,3,1,2,Mala,Sí,Algo satisfecho
+1398,29/10/2027,Cirugías,0,23,322,MVZ. Eddie Hernández Vidal,3,5,4,1,Regular,No,Satisfecho
+1399,30/10/2027,Urgencias,33,23,8463,MVZ. Eddie Hernández Vidal,2,3,1,5,Pesima,No,Satisfecho
+1400,31/10/2027,Consulta general,25,86,4293,MVZ. Eddie Hernández Vidal,1,3,3,5,Regular,No,Satisfecho
+1401,01/11/2027,Cirugías,52,38,2249,MVZ. Eddie Hernández Vidal,2,5,3,1,Buena,No,Satisfecho
+1402,02/11/2027,Consulta general,14,143,5986,MVZ. Eddie Hernández Vidal,2,2,3,3,Pesima,Sí,Satisfecho
+1403,03/11/2027,Desparacitación,48,54,9121,MVZ. Eddie Hernández Vidal,4,1,4,5,Buena,Sí,Muy Satisfecho
+1404,04/11/2027,Estética,34,14,4290,MVZ. Eddie Hernández Vidal,1,3,5,5,Buena,Sí,Muy Satisfecho
+1405,05/11/2027,Servicio a domicilio,52,159,9795,MVZ. Eddie Hernández Vidal,4,5,4,1,Regular,No,Muy Satisfecho
+1406,06/11/2027,Estética,40,137,7325,MVZ. Eddie Hernández Vidal,5,3,3,4,Mala,No,Muy Satisfecho
+1407,07/11/2027,Vacunación,50,109,3318,MVZ. Eddie Hernández Vidal,5,1,1,1,Mala,No,Algo satisfecho
+1408,08/11/2027,Vacunación,50,94,4962,MVZ. Eddie Hernández Vidal,1,4,3,2,Buena,No,Satisfecho
+1409,09/11/2027,Hospitalización,43,119,7145,MVZ. Eddie Hernández Vidal,1,4,5,3,Buena,No,Satisfecho
+1410,10/11/2027,Desparacitación,55,76,8458,MVZ. Eddie Hernández Vidal,5,4,2,4,Buena,No,Muy Satisfecho
+1411,11/11/2027,Estética,38,102,8447,MVZ. Eddie Hernández Vidal,3,3,1,3,Mala,No,Satisfecho
+1412,12/11/2027,Vacunación,19,22,7515,MVZ. Eddie Hernández Vidal,5,3,5,3,Mala,Sí,Muy Satisfecho
+1413,13/11/2027,Vacunación,42,117,5711,MVZ. Eddie Hernández Vidal,2,5,4,1,Regular,No,Satisfecho
+1414,14/11/2027,Consulta general,34,22,5967,MVZ. Eddie Hernández Vidal,5,2,2,1,Pesima,No,Satisfecho
+1415,15/11/2027,Hospitalización,38,107,9434,MVZ. Eddie Hernández Vidal,5,1,1,2,Buena,Sí,Algo satisfecho
+1416,16/11/2027,Cirugías,21,107,9164,MVZ. Eddie Hernández Vidal,4,4,1,1,Regular,Sí,Satisfecho
+1417,17/11/2027,Cirugías,20,63,5187,MVZ. Eddie Hernández Vidal,1,2,1,5,Pesima,No,Algo satisfecho
+1418,18/11/2027,Hospitalización,26,92,2909,MVZ. Eddie Hernández Vidal,4,1,5,2,Buena,Sí,Satisfecho
+1419,19/11/2027,Hospitalización,35,167,9022,MVZ. Eddie Hernández Vidal,4,4,3,3,Mala,Sí,Muy Satisfecho
+1420,20/11/2027,Vacunación,27,135,7956,MVZ. Eddie Hernández Vidal,4,4,3,3,Mala,No,Muy Satisfecho
+1421,21/11/2027,Servicio a domicilio,3,118,9986,MVZ. Eddie Hernández Vidal,2,2,5,2,Mala,Sí,Satisfecho
+1422,22/11/2027,Consulta general,25,30,8651,MVZ. Eddie Hernández Vidal,1,1,5,4,Mala,No,Satisfecho
+1423,23/11/2027,Servicio a domicilio,60,75,5776,MVZ. Eddie Hernández Vidal,5,5,3,4,Buena,No,Muy Satisfecho
+1424,24/11/2027,Cirugías,7,143,798,MVZ. Eddie Hernández Vidal,2,4,3,2,Mala,Sí,Satisfecho
+1425,25/11/2027,Estética,4,24,4633,MVZ. Eddie Hernández Vidal,4,2,1,1,Mala,Sí,Algo satisfecho
+1426,26/11/2027,Estética,4,178,6405,MVZ. Eddie Hernández Vidal,2,2,5,2,Buena,Sí,Satisfecho
+1427,27/11/2027,Estética,53,84,6889,MVZ. Eddie Hernández Vidal,2,5,4,1,Mala,Sí,Satisfecho
+1428,28/11/2027,Servicio a domicilio,9,89,6674,MVZ. Eddie Hernández Vidal,4,5,2,1,Mala,No,Satisfecho
+1429,29/11/2027,Servicio a domicilio,4,40,6506,MVZ. Eddie Hernández Vidal,4,2,1,4,Pesima,Sí,Satisfecho
+1430,30/11/2027,Estética,33,180,4427,MVZ. Eddie Hernández Vidal,2,2,2,4,Pesima,Sí,Satisfecho
+1431,01/12/2027,Desparacitación,49,109,2112,MVZ. Eddie Hernández Vidal,2,3,2,1,Regular,No,Algo satisfecho
+1432,02/12/2027,Consulta general,10,65,2296,MVZ. Eddie Hernández Vidal,1,1,4,2,Buena,Sí,Algo satisfecho
+1433,03/12/2027,Consulta general,23,41,4917,MVZ. Eddie Hernández Vidal,1,5,2,2,Buena,Sí,Satisfecho
+1434,04/12/2027,Urgencias,57,118,2731,MVZ. Eddie Hernández Vidal,4,5,3,5,Buena,Sí,Muy Satisfecho
+1435,05/12/2027,Servicio a domicilio,48,161,4744,MVZ. Eddie Hernández Vidal,4,5,2,4,Pesima,Sí,Muy Satisfecho
+1436,06/12/2027,Consulta general,32,177,4089,MVZ. Eddie Hernández Vidal,2,2,4,2,Regular,No,Satisfecho
+1437,07/12/2027,Hospitalización,13,51,6050,MVZ. Eddie Hernández Vidal,3,4,4,3,Regular,No,Muy Satisfecho
+1438,08/12/2027,Urgencias,21,142,2977,MVZ. Eddie Hernández Vidal,1,1,5,2,Mala,Sí,Algo satisfecho
+1439,09/12/2027,Servicio a domicilio,28,105,172,MVZ. Eddie Hernández Vidal,3,2,1,2,Pesima,Sí,Algo satisfecho
+1440,10/12/2027,Vacunación,23,92,3029,MVZ. Eddie Hernández Vidal,2,1,5,5,Mala,No,Satisfecho
+1441,11/12/2027,Desparacitación,48,168,3129,MVZ. Eddie Hernández Vidal,5,2,4,5,Buena,Sí,Muy Satisfecho
+1442,12/12/2027,Vacunación,5,97,9755,MVZ. Eddie Hernández Vidal,5,5,1,3,Pesima,No,Muy Satisfecho
+1443,13/12/2027,Urgencias,2,23,3834,MVZ. Eddie Hernández Vidal,5,4,1,4,Mala,No,Muy Satisfecho
+1444,14/12/2027,Urgencias,0,83,9533,MVZ. Eddie Hernández Vidal,5,3,5,1,Regular,No,Muy Satisfecho
+1445,15/12/2027,Ultrasonido,9,153,5646,MVZ. Eddie Hernández Vidal,2,2,3,3,Regular,No,Satisfecho
+1446,16/12/2027,Desparacitación,7,41,3911,MVZ. Eddie Hernández Vidal,1,2,3,5,Buena,No,Satisfecho
+1447,17/12/2027,Vacunación,29,77,6410,MVZ. Eddie Hernández Vidal,1,5,4,1,Buena,Sí,Satisfecho
+1448,18/12/2027,Vacunación,21,117,9602,MVZ. Eddie Hernández Vidal,3,3,2,4,Pesima,No,Satisfecho
+1449,19/12/2027,Consulta general,16,108,7120,MVZ. Eddie Hernández Vidal,4,5,4,3,Regular,Sí,Muy Satisfecho
+1450,20/12/2027,Urgencias,14,18,5517,MVZ. Eddie Hernández Vidal,5,2,4,1,Pesima,Sí,Satisfecho
+1451,21/12/2027,Hospitalización,19,112,2481,MVZ. Eddie Hernández Vidal,1,5,3,4,Regular,Sí,Satisfecho
+1452,22/12/2027,Estética,37,26,5805,MVZ. Eddie Hernández Vidal,2,1,4,1,Mala,No,Algo satisfecho
+1453,23/12/2027,Ultrasonido,26,64,4159,MVZ. Eddie Hernández Vidal,4,1,3,1,Mala,No,Algo satisfecho
+1454,24/12/2027,Servicio a domicilio,12,37,8774,MVZ. Eddie Hernández Vidal,3,1,4,3,Pesima,Sí,Satisfecho
+1455,25/12/2027,Estética,15,35,2659,MVZ. Eddie Hernández Vidal,3,3,5,1,Pesima,No,Satisfecho
+1456,26/12/2027,Estética,19,78,3533,MVZ. Eddie Hernández Vidal,1,1,2,5,Regular,No,Algo satisfecho
+1457,27/12/2027,Ultrasonido,18,96,7967,MVZ. Eddie Hernández Vidal,2,4,5,1,Pesima,Sí,Satisfecho
+1458,28/12/2027,Desparacitación,42,161,666,MVZ. Eddie Hernández Vidal,2,3,2,3,Buena,Sí,Satisfecho
+1459,29/12/2027,Consulta general,2,61,5946,MVZ. Eddie Hernández Vidal,1,5,5,2,Regular,No,Satisfecho
+1460,30/12/2027,Estética,16,28,2329,MVZ. Eddie Hernández Vidal,1,5,2,3,Regular,No,Satisfecho
+1461,31/12/2027,Cirugías,56,97,6694,MVZ. Eddie Hernández Vidal,1,4,4,2,Regular,No,Satisfecho
+1462,01/01/2028,Desparacitación,11,71,2212,MVZ. Eddie Hernández Vidal,1,1,4,3,Regular,Sí,Algo satisfecho
+1463,02/01/2028,Vacunación,35,25,6741,MVZ. Eddie Hernández Vidal,2,5,3,5,Buena,Sí,Muy Satisfecho
+1464,03/01/2028,Cirugías,9,91,9103,MVZ. Eddie Hernández Vidal,2,5,3,4,Mala,Sí,Muy Satisfecho
+1465,04/01/2028,Hospitalización,57,101,3901,MVZ. Eddie Hernández Vidal,1,5,3,3,Buena,No,Satisfecho
+1466,05/01/2028,Ultrasonido,9,140,8179,MVZ. Eddie Hernández Vidal,2,3,1,4,Mala,No,Satisfecho
+1467,06/01/2028,Ultrasonido,30,26,5884,MVZ. Eddie Hernández Vidal,3,5,1,5,Pesima,No,Muy Satisfecho
+1468,07/01/2028,Vacunación,22,89,6759,MVZ. Eddie Hernández Vidal,2,4,5,4,Mala,Sí,Muy Satisfecho
+1469,08/01/2028,Vacunación,42,152,7079,MVZ. Eddie Hernández Vidal,2,3,2,3,Buena,Sí,Satisfecho
+1470,09/01/2028,Servicio a domicilio,20,94,1682,MVZ. Eddie Hernández Vidal,4,3,5,4,Pesima,Sí,Muy Satisfecho
+1471,10/01/2028,Hospitalización,41,180,8030,MVZ. Eddie Hernández Vidal,2,5,1,1,Pesima,Sí,Algo satisfecho
+1472,11/01/2028,Vacunación,19,170,4087,MVZ. Eddie Hernández Vidal,1,2,3,1,Pesima,Sí,Algo satisfecho
+1473,12/01/2028,Cirugías,4,93,5848,MVZ. Eddie Hernández Vidal,1,4,3,3,Buena,Sí,Satisfecho
+1474,13/01/2028,Estética,46,88,3870,MVZ. Eddie Hernández Vidal,1,4,2,5,Mala,No,Satisfecho
+1475,14/01/2028,Vacunación,15,175,9834,MVZ. Eddie Hernández Vidal,5,4,3,5,Pesima,No,Muy Satisfecho
+1476,15/01/2028,Estética,33,18,4276,MVZ. Eddie Hernández Vidal,2,3,2,2,Buena,No,Algo satisfecho
+1477,16/01/2028,Cirugías,0,177,2774,MVZ. Eddie Hernández Vidal,4,3,2,3,Regular,No,Satisfecho
+1478,17/01/2028,Urgencias,47,96,5078,MVZ. Eddie Hernández Vidal,1,3,2,4,Pesima,No,Satisfecho
+1479,18/01/2028,Hospitalización,15,91,9771,MVZ. Eddie Hernández Vidal,1,3,2,5,Mala,Sí,Satisfecho
+1480,19/01/2028,Urgencias,13,96,9915,MVZ. Eddie Hernández Vidal,5,3,1,3,Regular,Sí,Satisfecho
+1481,20/01/2028,Consulta general,9,136,9720,MVZ. Eddie Hernández Vidal,3,2,5,1,Mala,Sí,Satisfecho
+1482,21/01/2028,Ultrasonido,49,166,1062,MVZ. Eddie Hernández Vidal,5,4,4,3,Buena,Sí,Muy Satisfecho
+1483,22/01/2028,Ultrasonido,42,34,7581,MVZ. Eddie Hernández Vidal,1,4,4,5,Buena,Sí,Muy Satisfecho
+1484,23/01/2028,Desparacitación,10,90,810,MVZ. Eddie Hernández Vidal,1,5,4,5,Pesima,No,Muy Satisfecho
+1485,24/01/2028,Cirugías,49,71,2126,MVZ. Eddie Hernández Vidal,2,4,1,2,Mala,Sí,Algo satisfecho
+1486,25/01/2028,Hospitalización,39,43,6036,MVZ. Eddie Hernández Vidal,3,2,4,4,Mala,Sí,Satisfecho
+1487,26/01/2028,Ultrasonido,34,157,2847,MVZ. Eddie Hernández Vidal,1,3,1,3,Regular,No,Algo satisfecho
+1488,27/01/2028,Urgencias,39,82,286,MVZ. Eddie Hernández Vidal,4,2,4,5,Regular,Sí,Muy Satisfecho
+1489,28/01/2028,Consulta general,48,30,5455,MVZ. Eddie Hernández Vidal,1,3,4,2,Pesima,No,Satisfecho
+1490,29/01/2028,Ultrasonido,44,42,2716,MVZ. Eddie Hernández Vidal,5,5,4,2,Pesima,No,Muy Satisfecho
+1491,30/01/2028,Ultrasonido,44,19,8649,MVZ. Eddie Hernández Vidal,5,3,5,4,Buena,No,Muy Satisfecho
+1492,31/01/2028,Desparacitación,42,162,8849,MVZ. Eddie Hernández Vidal,2,1,3,5,Regular,No,Satisfecho
+1493,01/02/2028,Servicio a domicilio,1,116,4833,MVZ. Eddie Hernández Vidal,1,1,1,4,Pesima,Sí,Algo satisfecho
+1494,02/02/2028,Servicio a domicilio,8,140,9723,MVZ. Eddie Hernández Vidal,1,3,5,3,Regular,No,Satisfecho
+1495,03/02/2028,Desparacitación,0,63,8360,MVZ. Eddie Hernández Vidal,2,1,4,1,Regular,Sí,Algo satisfecho
+1496,04/02/2028,Desparacitación,11,160,940,MVZ. Eddie Hernández Vidal,1,4,2,2,Pesima,No,Algo satisfecho
+1497,05/02/2028,Vacunación,26,161,2932,MVZ. Eddie Hernández Vidal,3,4,4,3,Mala,No,Muy Satisfecho
+1498,06/02/2028,Consulta general,30,91,5399,MVZ. Eddie Hernández Vidal,2,2,3,5,Mala,Sí,Satisfecho
+1499,07/02/2028,Urgencias,43,73,3857,MVZ. Eddie Hernández Vidal,2,4,4,3,Pesima,Sí,Satisfecho
+1500,08/02/2028,Ultrasonido,42,29,9908,MVZ. Eddie Hernández Vidal,3,5,3,5,Buena,No,Muy Satisfecho
+1501,09/02/2028,Ultrasonido,19,159,6740,MVZ. Eddie Hernández Vidal,4,5,1,5,Regular,Sí,Muy Satisfecho
+1502,10/02/2028,Urgencias,21,142,606,MVZ. Eddie Hernández Vidal,1,2,1,4,Mala,No,Algo satisfecho
+1503,11/02/2028,Estética,47,110,9576,MVZ. Eddie Hernández Vidal,1,1,1,4,Buena,No,Algo satisfecho
+1504,12/02/2028,Cirugías,1,76,9086,MVZ. Eddie Hernández Vidal,4,5,3,3,Mala,No,Muy Satisfecho
+1505,13/02/2028,Servicio a domicilio,58,89,2896,MVZ. Eddie Hernández Vidal,5,4,3,5,Buena,No,Muy Satisfecho
+1506,14/02/2028,Estética,60,144,175,MVZ. Eddie Hernández Vidal,2,4,5,2,Pesima,Sí,Satisfecho
+1507,15/02/2028,Desparacitación,18,97,6735,MVZ. Eddie Hernández Vidal,2,3,4,3,Buena,Sí,Satisfecho
+1508,16/02/2028,Desparacitación,28,114,3842,MVZ. Eddie Hernández Vidal,5,2,5,1,Buena,Sí,Satisfecho
+1509,17/02/2028,Urgencias,11,7,124,MVZ. Eddie Hernández Vidal,3,1,2,5,Regular,No,Satisfecho
+1510,18/02/2028,Servicio a domicilio,59,172,6191,MVZ. Eddie Hernández Vidal,5,3,1,3,Buena,No,Satisfecho
+1511,19/02/2028,Cirugías,49,62,7313,MVZ. Eddie Hernández Vidal,3,4,1,4,Pesima,Sí,Satisfecho
+1512,20/02/2028,Hospitalización,52,160,245,MVZ. Eddie Hernández Vidal,2,2,5,1,Mala,Sí,Satisfecho
+1513,21/02/2028,Hospitalización,39,164,809,MVZ. Eddie Hernández Vidal,1,2,5,1,Regular,Sí,Algo satisfecho
+1514,22/02/2028,Consulta general,9,168,418,MVZ. Eddie Hernández Vidal,3,5,5,4,Buena,No,Muy Satisfecho
+1515,23/02/2028,Vacunación,24,145,3262,MVZ. Eddie Hernández Vidal,2,4,4,5,Buena,Sí,Muy Satisfecho
+1516,24/02/2028,Servicio a domicilio,4,69,509,MVZ. Eddie Hernández Vidal,2,4,3,2,Buena,No,Satisfecho
+1517,25/02/2028,Urgencias,26,156,3953,MVZ. Eddie Hernández Vidal,3,3,1,1,Buena,Sí,Algo satisfecho
+1518,26/02/2028,Vacunación,52,138,8568,MVZ. Eddie Hernández Vidal,4,4,3,3,Mala,Sí,Muy Satisfecho
+1519,27/02/2028,Servicio a domicilio,43,40,8808,MVZ. Eddie Hernández Vidal,3,4,4,1,Mala,Sí,Satisfecho
+1520,28/02/2028,Servicio a domicilio,54,132,8199,MVZ. Eddie Hernández Vidal,2,1,1,2,Mala,No,Algo satisfecho
+1521,29/02/2028,Servicio a domicilio,21,15,2188,MVZ. Eddie Hernández Vidal,1,2,5,2,Buena,No,Satisfecho
+1522,01/03/2028,Vacunación,14,162,8166,MVZ. Eddie Hernández Vidal,5,1,5,1,Regular,Sí,Satisfecho
+1523,02/03/2028,Cirugías,29,68,6187,MVZ. Eddie Hernández Vidal,4,4,4,1,Pesima,Sí,Satisfecho
+1524,03/03/2028,Consulta general,1,53,430,MVZ. Eddie Hernández Vidal,2,3,2,1,Buena,No,Algo satisfecho
+1525,04/03/2028,Hospitalización,14,64,1471,MVZ. Eddie Hernández Vidal,1,5,4,5,Regular,No,Muy Satisfecho
+1526,05/03/2028,Cirugías,0,121,8945,MVZ. Eddie Hernández Vidal,4,1,2,2,Regular,Sí,Algo satisfecho
+1527,06/03/2028,Vacunación,15,180,1991,MVZ. Eddie Hernández Vidal,1,1,5,4,Pesima,Sí,Satisfecho
+1528,07/03/2028,Vacunación,33,143,4866,MVZ. Eddie Hernández Vidal,2,3,2,3,Regular,Sí,Satisfecho
+1529,08/03/2028,Urgencias,32,152,5985,MVZ. Eddie Hernández Vidal,1,4,2,2,Buena,No,Algo satisfecho
+1530,09/03/2028,Ultrasonido,51,82,2638,MVZ. Eddie Hernández Vidal,2,5,4,3,Pesima,No,Muy Satisfecho
+1531,10/03/2028,Vacunación,37,41,8675,MVZ. Eddie Hernández Vidal,1,1,2,3,Pesima,Sí,Algo satisfecho
+1532,11/03/2028,Ultrasonido,5,8,6746,MVZ. Eddie Hernández Vidal,1,3,3,4,Pesima,Sí,Satisfecho
+1533,12/03/2028,Cirugías,30,168,2648,MVZ. Eddie Hernández Vidal,4,1,4,4,Pesima,Sí,Satisfecho
+1534,13/03/2028,Consulta general,54,79,9803,MVZ. Eddie Hernández Vidal,5,4,5,3,Buena,Sí,Muy Satisfecho
+1535,14/03/2028,Vacunación,41,89,9189,MVZ. Eddie Hernández Vidal,4,4,4,1,Regular,Sí,Satisfecho
+1536,15/03/2028,Vacunación,47,97,7178,MVZ. Eddie Hernández Vidal,3,1,4,5,Mala,No,Satisfecho
+1537,16/03/2028,Hospitalización,50,77,7604,MVZ. Eddie Hernández Vidal,3,5,5,3,Mala,No,Muy Satisfecho
+1538,17/03/2028,Estética,58,13,9200,MVZ. Eddie Hernández Vidal,2,4,2,4,Mala,No,Satisfecho
+1539,18/03/2028,Desparacitación,9,129,7332,MVZ. Eddie Hernández Vidal,1,2,4,1,Buena,Sí,Algo satisfecho
+1540,19/03/2028,Hospitalización,53,121,895,MVZ. Eddie Hernández Vidal,4,5,1,4,Mala,No,Muy Satisfecho
+1541,20/03/2028,Estética,7,91,2265,MVZ. Eddie Hernández Vidal,1,4,2,1,Regular,Sí,Algo satisfecho
+1542,21/03/2028,Desparacitación,30,55,252,MVZ. Eddie Hernández Vidal,5,5,2,5,Pesima,No,Muy Satisfecho
+1543,22/03/2028,Consulta general,21,104,2374,MVZ. Eddie Hernández Vidal,1,2,4,5,Buena,No,Satisfecho
+1544,23/03/2028,Cirugías,30,85,742,MVZ. Eddie Hernández Vidal,2,1,5,5,Mala,Sí,Satisfecho
+1545,24/03/2028,Urgencias,41,122,9090,MVZ. Eddie Hernández Vidal,4,2,4,2,Mala,Sí,Satisfecho
+1546,25/03/2028,Vacunación,8,160,8578,MVZ. Eddie Hernández Vidal,3,5,2,2,Regular,No,Satisfecho
+1547,26/03/2028,Ultrasonido,1,101,5033,MVZ. Eddie Hernández Vidal,5,3,2,4,Mala,No,Muy Satisfecho
+1548,27/03/2028,Vacunación,45,52,8611,MVZ. Eddie Hernández Vidal,1,3,5,5,Buena,Sí,Muy Satisfecho
+1549,28/03/2028,Urgencias,21,16,2004,MVZ. Eddie Hernández Vidal,5,5,4,2,Regular,Sí,Muy Satisfecho
+1550,29/03/2028,Vacunación,8,87,6972,MVZ. Eddie Hernández Vidal,5,3,5,5,Mala,Sí,Extremadamente satisfecho
+1551,30/03/2028,Ultrasonido,57,29,3050,MVZ. Eddie Hernández Vidal,5,4,5,1,Buena,Sí,Muy Satisfecho
+1552,31/03/2028,Cirugías,45,133,8753,MVZ. Eddie Hernández Vidal,5,5,1,4,Regular,No,Muy Satisfecho
+1553,01/04/2028,Consulta general,49,114,501,MVZ. Eddie Hernández Vidal,4,4,3,3,Regular,Sí,Muy Satisfecho
+1554,02/04/2028,Hospitalización,52,92,5769,MVZ. Eddie Hernández Vidal,5,5,2,5,Buena,Sí,Muy Satisfecho
+1555,03/04/2028,Vacunación,0,6,7543,MVZ. Eddie Hernández Vidal,5,2,3,4,Pesima,Sí,Muy Satisfecho
+1556,04/04/2028,Desparacitación,27,98,4518,MVZ. Eddie Hernández Vidal,4,5,1,5,Buena,Sí,Muy Satisfecho
+1557,05/04/2028,Hospitalización,50,52,6940,MVZ. Eddie Hernández Vidal,2,5,1,3,Pesima,No,Satisfecho
+1558,06/04/2028,Urgencias,48,107,6651,MVZ. Eddie Hernández Vidal,3,1,5,4,Regular,Sí,Satisfecho
+1559,07/04/2028,Vacunación,25,130,4000,MVZ. Eddie Hernández Vidal,3,3,1,5,Regular,No,Satisfecho
+1560,08/04/2028,Cirugías,29,131,8837,MVZ. Eddie Hernández Vidal,5,3,3,3,Buena,Sí,Muy Satisfecho
+1561,09/04/2028,Ultrasonido,7,90,6223,MVZ. Eddie Hernández Vidal,5,2,2,4,Regular,Sí,Satisfecho
+1562,10/04/2028,Ultrasonido,26,39,6679,MVZ. Eddie Hernández Vidal,3,2,2,4,Pesima,Sí,Satisfecho
+1563,11/04/2028,Hospitalización,31,43,886,MVZ. Eddie Hernández Vidal,1,2,1,4,Regular,Sí,Algo satisfecho
+1564,12/04/2028,Desparacitación,14,132,3598,MVZ. Eddie Hernández Vidal,1,1,5,1,Regular,Sí,Algo satisfecho
+1565,13/04/2028,Hospitalización,57,110,5829,MVZ. Eddie Hernández Vidal,5,2,2,1,Buena,Sí,Satisfecho
+1566,14/04/2028,Servicio a domicilio,19,54,5005,MVZ. Eddie Hernández Vidal,3,5,3,1,Buena,Sí,Satisfecho
+1567,15/04/2028,Urgencias,8,137,5185,MVZ. Eddie Hernández Vidal,1,3,3,5,Pesima,Sí,Satisfecho
+1568,16/04/2028,Consulta general,39,56,9426,MVZ. Eddie Hernández Vidal,1,4,4,2,Mala,No,Satisfecho
+1569,17/04/2028,Ultrasonido,29,38,9392,MVZ. Eddie Hernández Vidal,3,5,3,4,Buena,Sí,Muy Satisfecho
+1570,18/04/2028,Cirugías,23,90,6560,MVZ. Eddie Hernández Vidal,1,5,4,5,Regular,Sí,Muy Satisfecho
+1571,19/04/2028,Desparacitación,13,137,6411,MVZ. Eddie Hernández Vidal,3,1,4,3,Buena,Sí,Satisfecho
+1572,20/04/2028,Estética,40,130,3484,MVZ. Eddie Hernández Vidal,4,1,5,2,Mala,No,Satisfecho
+1573,21/04/2028,Hospitalización,1,76,1346,MVZ. Eddie Hernández Vidal,5,1,3,1,Mala,No,Satisfecho
+1574,22/04/2028,Estética,25,131,9420,MVZ. Eddie Hernández Vidal,3,3,3,3,Buena,No,Satisfecho
+1575,23/04/2028,Ultrasonido,24,41,3238,MVZ. Eddie Hernández Vidal,2,2,3,1,Mala,Sí,Algo satisfecho
+1576,24/04/2028,Consulta general,30,56,9952,MVZ. Eddie Hernández Vidal,3,3,1,3,Buena,Sí,Satisfecho
+1577,25/04/2028,Desparacitación,41,66,1268,MVZ. Eddie Hernández Vidal,4,3,5,5,Mala,Sí,Muy Satisfecho
+1578,26/04/2028,Estética,16,116,4152,MVZ. Eddie Hernández Vidal,2,3,1,3,Pesima,Sí,Algo satisfecho
+1579,27/04/2028,Cirugías,60,158,2738,MVZ. Eddie Hernández Vidal,1,3,4,2,Pesima,No,Satisfecho
+1580,28/04/2028,Consulta general,11,145,8003,MVZ. Eddie Hernández Vidal,2,4,3,3,Pesima,Sí,Satisfecho
+1581,29/04/2028,Ultrasonido,39,126,4243,MVZ. Eddie Hernández Vidal,2,2,5,5,Regular,Sí,Muy Satisfecho
+1582,30/04/2028,Servicio a domicilio,7,130,1012,MVZ. Eddie Hernández Vidal,1,3,4,4,Pesima,No,Satisfecho
+1583,01/05/2028,Hospitalización,38,138,659,MVZ. Eddie Hernández Vidal,2,3,5,4,Buena,Sí,Muy Satisfecho
+1584,02/05/2028,Cirugías,21,168,5726,MVZ. Eddie Hernández Vidal,1,3,2,2,Pesima,No,Algo satisfecho
+1585,03/05/2028,Hospitalización,24,142,8402,MVZ. Eddie Hernández Vidal,2,3,2,1,Regular,Sí,Algo satisfecho
+1586,04/05/2028,Ultrasonido,37,54,122,MVZ. Eddie Hernández Vidal,1,2,4,4,Pesima,Sí,Satisfecho
+1587,05/05/2028,Ultrasonido,43,162,2119,MVZ. Eddie Hernández Vidal,3,4,3,5,Regular,Sí,Muy Satisfecho
+1588,06/05/2028,Vacunación,59,167,4527,MVZ. Eddie Hernández Vidal,4,5,5,5,Mala,No,Extremadamente satisfecho
+1589,07/05/2028,Vacunación,36,127,7690,MVZ. Eddie Hernández Vidal,4,5,4,5,Buena,No,Extremadamente satisfecho
+1590,08/05/2028,Desparacitación,32,176,2221,MVZ. Eddie Hernández Vidal,2,2,1,2,Pesima,Sí,Algo satisfecho
+1591,09/05/2028,Desparacitación,9,38,3045,MVZ. Eddie Hernández Vidal,4,1,1,5,Regular,Sí,Satisfecho
+1592,10/05/2028,Consulta general,49,127,2547,MVZ. Eddie Hernández Vidal,4,1,1,2,Regular,Sí,Algo satisfecho
+1593,11/05/2028,Vacunación,40,161,6008,MVZ. Eddie Hernández Vidal,2,1,1,3,Buena,No,Algo satisfecho
+1594,12/05/2028,Cirugías,16,27,958,MVZ. Eddie Hernández Vidal,1,4,1,1,Buena,Sí,Algo satisfecho
+1595,13/05/2028,Consulta general,35,94,8464,MVZ. Eddie Hernández Vidal,5,4,1,3,Pesima,Sí,Satisfecho
+1596,14/05/2028,Hospitalización,55,22,1520,MVZ. Eddie Hernández Vidal,3,1,1,3,Regular,No,Algo satisfecho
+1597,15/05/2028,Cirugías,3,38,9555,MVZ. Eddie Hernández Vidal,4,1,4,2,Regular,No,Satisfecho
+1598,16/05/2028,Desparacitación,39,102,9933,MVZ. Eddie Hernández Vidal,2,3,4,1,Buena,No,Satisfecho
+1599,17/05/2028,Servicio a domicilio,37,94,6040,MVZ. Eddie Hernández Vidal,1,3,1,3,Regular,No,Algo satisfecho
+1600,18/05/2028,Urgencias,58,128,1119,MVZ. Eddie Hernández Vidal,2,1,1,1,Mala,Sí,Insatisfecho
+1601,19/05/2028,Estética,3,12,7977,MVZ. Eddie Hernández Vidal,5,4,1,1,Mala,Sí,Satisfecho
+1602,20/05/2028,Hospitalización,40,17,4921,MVZ. Eddie Hernández Vidal,4,4,1,4,Regular,Sí,Satisfecho
+1603,21/05/2028,Consulta general,58,76,896,MVZ. Eddie Hernández Vidal,5,1,1,2,Mala,Sí,Algo satisfecho
+1604,22/05/2028,Consulta general,35,177,2539,MVZ. Eddie Hernández Vidal,1,2,5,5,Buena,Sí,Satisfecho
+1605,23/05/2028,Consulta general,1,92,8823,MVZ. Eddie Hernández Vidal,3,3,2,5,Pesima,No,Satisfecho
+1606,24/05/2028,Hospitalización,3,43,3309,MVZ. Eddie Hernández Vidal,4,2,3,3,Pesima,No,Satisfecho
+1607,25/05/2028,Desparacitación,11,7,9342,MVZ. Eddie Hernández Vidal,1,4,2,1,Buena,Sí,Algo satisfecho
+1608,26/05/2028,Estética,3,78,2296,MVZ. Eddie Hernández Vidal,2,2,4,1,Mala,Sí,Algo satisfecho
+1609,27/05/2028,Ultrasonido,46,163,7626,MVZ. Eddie Hernández Vidal,2,5,3,1,Buena,Sí,Satisfecho
+1610,28/05/2028,Consulta general,59,55,3720,MVZ. Eddie Hernández Vidal,3,5,5,1,Buena,Sí,Muy Satisfecho
+1611,29/05/2028,Servicio a domicilio,12,159,5379,MVZ. Eddie Hernández Vidal,3,4,3,5,Pesima,No,Muy Satisfecho
+1612,30/05/2028,Estética,32,17,4493,MVZ. Eddie Hernández Vidal,4,4,2,1,Buena,No,Satisfecho
+1613,31/05/2028,Desparacitación,39,151,8504,MVZ. Eddie Hernández Vidal,1,2,3,4,Buena,No,Satisfecho
+1614,01/06/2028,Hospitalización,50,162,9972,MVZ. Eddie Hernández Vidal,1,1,5,3,Regular,No,Satisfecho
+1615,02/06/2028,Estética,0,171,9732,MVZ. Eddie Hernández Vidal,3,4,1,3,Regular,Sí,Satisfecho
+1616,03/06/2028,Estética,54,75,4671,MVZ. Eddie Hernández Vidal,5,3,2,4,Buena,No,Muy Satisfecho
+1617,04/06/2028,Vacunación,54,71,2608,MVZ. Eddie Hernández Vidal,3,1,2,4,Mala,No,Satisfecho
+1618,05/06/2028,Servicio a domicilio,47,129,6291,MVZ. Eddie Hernández Vidal,3,5,4,4,Mala,Sí,Muy Satisfecho
+1619,06/06/2028,Cirugías,23,54,251,MVZ. Eddie Hernández Vidal,2,1,5,5,Regular,Sí,Satisfecho
+1620,07/06/2028,Ultrasonido,7,85,9206,MVZ. Eddie Hernández Vidal,3,2,3,2,Pesima,Sí,Satisfecho
+1621,08/06/2028,Desparacitación,59,36,8574,MVZ. Eddie Hernández Vidal,5,4,2,1,Regular,Sí,Satisfecho
+1622,09/06/2028,Cirugías,1,141,4503,MVZ. Eddie Hernández Vidal,2,3,2,1,Buena,Sí,Algo satisfecho
+1623,10/06/2028,Hospitalización,34,110,3732,MVZ. Eddie Hernández Vidal,2,2,4,3,Buena,No,Satisfecho
+1624,11/06/2028,Urgencias,13,108,4707,MVZ. Eddie Hernández Vidal,5,4,5,2,Mala,No,Muy Satisfecho
+1625,12/06/2028,Vacunación,56,164,5041,MVZ. Eddie Hernández Vidal,5,1,4,3,Mala,No,Satisfecho
+1626,13/06/2028,Cirugías,30,158,5890,MVZ. Eddie Hernández Vidal,2,5,2,4,Buena,Sí,Satisfecho
+1627,14/06/2028,Cirugías,21,23,6323,MVZ. Eddie Hernández Vidal,2,4,3,2,Mala,Sí,Satisfecho
+1628,15/06/2028,Hospitalización,17,97,7974,MVZ. Eddie Hernández Vidal,2,4,1,5,Mala,Sí,Satisfecho
+1629,16/06/2028,Estética,23,70,4015,MVZ. Eddie Hernández Vidal,5,5,4,5,Pesima,Sí,Extremadamente satisfecho
+1630,17/06/2028,Urgencias,35,95,8757,MVZ. Eddie Hernández Vidal,1,2,2,4,Mala,Sí,Algo satisfecho
+1631,18/06/2028,Servicio a domicilio,33,120,4151,MVZ. Eddie Hernández Vidal,4,4,3,4,Regular,No,Muy Satisfecho
+1632,19/06/2028,Ultrasonido,6,163,8868,MVZ. Eddie Hernández Vidal,4,1,5,1,Buena,Sí,Satisfecho
+1633,20/06/2028,Cirugías,24,154,2304,MVZ. Eddie Hernández Vidal,3,3,2,3,Regular,Sí,Satisfecho
+1634,21/06/2028,Consulta general,34,121,9032,MVZ. Eddie Hernández Vidal,5,4,2,1,Buena,Sí,Satisfecho
+1635,22/06/2028,Cirugías,55,80,3275,MVZ. Eddie Hernández Vidal,2,3,3,1,Mala,No,Algo satisfecho
+1636,23/06/2028,Consulta general,40,40,9634,MVZ. Eddie Hernández Vidal,1,5,5,5,Mala,No,Muy Satisfecho
+1637,24/06/2028,Servicio a domicilio,57,130,1822,MVZ. Eddie Hernández Vidal,3,4,5,5,Mala,Sí,Muy Satisfecho
+1638,25/06/2028,Vacunación,38,69,4659,MVZ. Eddie Hernández Vidal,3,4,2,3,Buena,No,Satisfecho
+1639,26/06/2028,Urgencias,9,68,6470,MVZ. Eddie Hernández Vidal,2,3,3,4,Regular,No,Satisfecho
+1640,27/06/2028,Vacunación,24,179,426,MVZ. Eddie Hernández Vidal,5,5,3,3,Mala,Sí,Muy Satisfecho
+1641,28/06/2028,Urgencias,29,101,7825,MVZ. Eddie Hernández Vidal,4,1,2,3,Pesima,No,Satisfecho
+1642,29/06/2028,Consulta general,5,173,492,MVZ. Eddie Hernández Vidal,1,4,1,3,Pesima,No,Algo satisfecho
+1643,30/06/2028,Servicio a domicilio,48,63,7473,MVZ. Eddie Hernández Vidal,2,1,3,1,Buena,No,Algo satisfecho
+1644,01/07/2028,Servicio a domicilio,48,73,2547,MVZ. Eddie Hernández Vidal,1,2,1,4,Regular,Sí,Algo satisfecho
+1645,02/07/2028,Vacunación,25,162,3926,MVZ. Eddie Hernández Vidal,5,4,4,3,Mala,Sí,Muy Satisfecho
+1646,03/07/2028,Desparacitación,4,56,6480,MVZ. Eddie Hernández Vidal,5,3,2,1,Pesima,No,Satisfecho
+1647,04/07/2028,Cirugías,46,59,2039,MVZ. Eddie Hernández Vidal,3,5,3,4,Pesima,No,Muy Satisfecho
+1648,05/07/2028,Estética,38,61,8740,MVZ. Eddie Hernández Vidal,2,1,3,4,Regular,No,Satisfecho
+1649,06/07/2028,Cirugías,0,87,942,MVZ. Eddie Hernández Vidal,3,2,5,1,Mala,No,Satisfecho
+1650,07/07/2028,Consulta general,59,57,6738,MVZ. Eddie Hernández Vidal,3,4,2,5,Regular,Sí,Muy Satisfecho
+1651,08/07/2028,Ultrasonido,14,106,9796,MVZ. Eddie Hernández Vidal,1,2,3,3,Pesima,No,Algo satisfecho
+1652,09/07/2028,Consulta general,9,71,8168,MVZ. Eddie Hernández Vidal,2,1,5,2,Regular,Sí,Satisfecho
+1653,10/07/2028,Ultrasonido,36,120,7463,MVZ. Eddie Hernández Vidal,2,3,1,5,Buena,Sí,Satisfecho
+1654,11/07/2028,Consulta general,47,38,8972,MVZ. Eddie Hernández Vidal,5,3,4,4,Pesima,Sí,Muy Satisfecho
+1655,12/07/2028,Cirugías,50,160,8603,MVZ. Eddie Hernández Vidal,4,4,1,2,Buena,No,Satisfecho
+1656,13/07/2028,Ultrasonido,28,114,903,MVZ. Eddie Hernández Vidal,2,1,5,3,Regular,No,Satisfecho
+1657,14/07/2028,Servicio a domicilio,15,47,6912,MVZ. Eddie Hernández Vidal,3,4,2,1,Regular,Sí,Satisfecho
+1658,15/07/2028,Servicio a domicilio,2,118,2217,MVZ. Eddie Hernández Vidal,2,5,2,4,Regular,Sí,Satisfecho
+1659,16/07/2028,Servicio a domicilio,36,11,3909,MVZ. Eddie Hernández Vidal,4,2,4,4,Mala,Sí,Muy Satisfecho
+1660,17/07/2028,Estética,7,98,5082,MVZ. Eddie Hernández Vidal,1,4,2,5,Regular,Sí,Satisfecho
+1661,18/07/2028,Ultrasonido,17,37,569,MVZ. Eddie Hernández Vidal,5,2,5,2,Pesima,Sí,Muy Satisfecho
+1662,19/07/2028,Vacunación,31,108,5731,MVZ. Eddie Hernández Vidal,5,5,5,1,Mala,Sí,Muy Satisfecho
+1663,20/07/2028,Desparacitación,43,156,7174,MVZ. Eddie Hernández Vidal,2,4,1,5,Buena,No,Satisfecho
+1664,21/07/2028,Consulta general,41,170,449,MVZ. Eddie Hernández Vidal,1,1,5,2,Pesima,No,Algo satisfecho
+1665,22/07/2028,Ultrasonido,15,143,9263,MVZ. Eddie Hernández Vidal,2,3,3,5,Pesima,No,Satisfecho
+1666,23/07/2028,Ultrasonido,28,142,575,MVZ. Eddie Hernández Vidal,5,1,4,2,Buena,Sí,Satisfecho
+1667,24/07/2028,Estética,54,70,5150,MVZ. Eddie Hernández Vidal,1,5,2,2,Buena,No,Satisfecho
+1668,25/07/2028,Estética,52,69,785,MVZ. Eddie Hernández Vidal,2,4,4,3,Mala,No,Satisfecho
+1669,26/07/2028,Estética,54,8,6479,MVZ. Eddie Hernández Vidal,5,2,3,3,Mala,No,Satisfecho
+1670,27/07/2028,Cirugías,42,158,3691,MVZ. Eddie Hernández Vidal,2,5,1,4,Regular,Sí,Satisfecho
+1671,28/07/2028,Servicio a domicilio,56,109,1602,MVZ. Eddie Hernández Vidal,3,4,4,2,Buena,Sí,Satisfecho
+1672,29/07/2028,Servicio a domicilio,31,54,5262,MVZ. Eddie Hernández Vidal,4,3,5,2,Mala,Sí,Muy Satisfecho
+1673,30/07/2028,Cirugías,22,6,2890,MVZ. Eddie Hernández Vidal,3,3,1,2,Pesima,Sí,Algo satisfecho
+1674,31/07/2028,Cirugías,57,13,8533,MVZ. Eddie Hernández Vidal,1,5,1,3,Regular,Sí,Satisfecho
+1675,01/08/2028,Desparacitación,50,107,1456,MVZ. Eddie Hernández Vidal,3,2,2,5,Buena,No,Satisfecho
+1676,02/08/2028,Consulta general,23,102,3329,MVZ. Eddie Hernández Vidal,5,2,3,2,Regular,No,Satisfecho
+1677,03/08/2028,Consulta general,60,112,1963,MVZ. Eddie Hernández Vidal,5,1,4,5,Regular,No,Muy Satisfecho
+1678,04/08/2028,Estética,4,100,5842,MVZ. Eddie Hernández Vidal,2,3,1,5,Mala,No,Satisfecho
+1679,05/08/2028,Estética,0,162,7080,MVZ. Eddie Hernández Vidal,3,5,3,3,Mala,Sí,Muy Satisfecho
+1680,06/08/2028,Vacunación,17,53,643,MVZ. Eddie Hernández Vidal,1,4,2,3,Mala,Sí,Satisfecho
+1681,07/08/2028,Urgencias,6,114,9417,MVZ. Eddie Hernández Vidal,4,2,1,4,Buena,No,Satisfecho
+1682,08/08/2028,Servicio a domicilio,4,161,6566,MVZ. Eddie Hernández Vidal,3,3,1,2,Buena,No,Algo satisfecho
+1683,09/08/2028,Vacunación,11,85,7997,MVZ. Eddie Hernández Vidal,1,3,2,5,Pesima,Sí,Satisfecho
+1684,10/08/2028,Ultrasonido,32,93,9595,MVZ. Eddie Hernández Vidal,3,5,5,3,Regular,No,Muy Satisfecho
+1685,11/08/2028,Desparacitación,16,50,9136,MVZ. Eddie Hernández Vidal,3,1,4,3,Pesima,Sí,Satisfecho
+1686,12/08/2028,Hospitalización,2,139,1099,MVZ. Eddie Hernández Vidal,2,2,1,5,Regular,No,Satisfecho
+1687,13/08/2028,Cirugías,58,23,6678,MVZ. Eddie Hernández Vidal,5,2,4,2,Pesima,Sí,Satisfecho
+1688,14/08/2028,Cirugías,10,61,2416,MVZ. Eddie Hernández Vidal,4,3,5,4,Mala,Sí,Muy Satisfecho
+1689,15/08/2028,Vacunación,39,166,2852,MVZ. Eddie Hernández Vidal,4,1,1,3,Buena,No,Algo satisfecho
+1690,16/08/2028,Estética,38,13,2677,MVZ. Eddie Hernández Vidal,3,1,1,1,Regular,No,Algo satisfecho
+1691,17/08/2028,Hospitalización,54,83,6230,MVZ. Eddie Hernández Vidal,2,1,2,4,Buena,Sí,Algo satisfecho
+1692,18/08/2028,Consulta general,60,151,9371,MVZ. Eddie Hernández Vidal,3,1,5,4,Mala,No,Satisfecho
+1693,19/08/2028,Hospitalización,39,44,7444,MVZ. Eddie Hernández Vidal,3,4,5,2,Buena,Sí,Muy Satisfecho
+1694,20/08/2028,Cirugías,55,157,1254,MVZ. Eddie Hernández Vidal,1,1,1,3,Pesima,Sí,Algo satisfecho
+1695,21/08/2028,Desparacitación,0,145,878,MVZ. Eddie Hernández Vidal,2,5,3,3,Mala,Sí,Satisfecho
+1696,22/08/2028,Urgencias,9,14,8845,MVZ. Eddie Hernández Vidal,1,1,1,3,Regular,Sí,Algo satisfecho
+1697,23/08/2028,Cirugías,11,102,1510,MVZ. Eddie Hernández Vidal,3,4,1,2,Regular,Sí,Satisfecho
+1698,24/08/2028,Hospitalización,44,102,2220,MVZ. Eddie Hernández Vidal,4,2,1,2,Mala,Sí,Algo satisfecho
+1699,25/08/2028,Estética,52,55,6352,MVZ. Eddie Hernández Vidal,3,3,2,3,Pesima,No,Satisfecho
+1700,26/08/2028,Consulta general,17,148,126,MVZ. Eddie Hernández Vidal,4,1,5,3,Mala,Sí,Satisfecho
+1701,27/08/2028,Ultrasonido,36,172,3662,MVZ. Eddie Hernández Vidal,1,1,5,3,Buena,No,Satisfecho
+1702,28/08/2028,Ultrasonido,41,75,4190,MVZ. Eddie Hernández Vidal,3,2,5,4,Mala,Sí,Muy Satisfecho
+1703,29/08/2028,Urgencias,47,66,580,MVZ. Eddie Hernández Vidal,3,3,5,5,Regular,Sí,Muy Satisfecho
+1704,30/08/2028,Servicio a domicilio,5,150,7193,MVZ. Eddie Hernández Vidal,1,4,5,5,Pesima,Sí,Muy Satisfecho
+1705,31/08/2028,Estética,41,141,3988,MVZ. Eddie Hernández Vidal,4,4,5,2,Regular,Sí,Muy Satisfecho
+1706,01/09/2028,Ultrasonido,48,116,5484,MVZ. Eddie Hernández Vidal,1,1,3,2,Pesima,Sí,Algo satisfecho
+1707,02/09/2028,Ultrasonido,38,140,2310,MVZ. Eddie Hernández Vidal,3,2,2,5,Regular,Sí,Satisfecho
+1708,03/09/2028,Vacunación,36,25,265,MVZ. Eddie Hernández Vidal,2,4,5,3,Mala,Sí,Muy Satisfecho
+1709,04/09/2028,Desparacitación,4,173,7111,MVZ. Eddie Hernández Vidal,3,3,1,3,Mala,Sí,Satisfecho
+1710,05/09/2028,Desparacitación,59,77,3219,MVZ. Eddie Hernández Vidal,1,1,3,4,Mala,Sí,Algo satisfecho
+1711,06/09/2028,Desparacitación,49,121,4063,MVZ. Eddie Hernández Vidal,3,4,2,1,Buena,No,Satisfecho
+1712,07/09/2028,Consulta general,11,133,635,MVZ. Eddie Hernández Vidal,4,5,3,4,Regular,Sí,Muy Satisfecho
+1713,08/09/2028,Desparacitación,39,124,2204,MVZ. Eddie Hernández Vidal,4,1,3,4,Mala,Sí,Satisfecho
+1714,09/09/2028,Vacunación,29,46,9994,MVZ. Eddie Hernández Vidal,3,1,1,3,Mala,Sí,Algo satisfecho
+1715,10/09/2028,Estética,43,135,9240,MVZ. Eddie Hernández Vidal,2,1,4,4,Buena,No,Satisfecho
+1716,11/09/2028,Servicio a domicilio,45,37,2978,MVZ. Eddie Hernández Vidal,1,2,3,2,Buena,Sí,Algo satisfecho
+1717,12/09/2028,Consulta general,11,129,1120,MVZ. Eddie Hernández Vidal,1,1,5,1,Pesima,No,Algo satisfecho
+1718,13/09/2028,Hospitalización,42,15,3163,MVZ. Eddie Hernández Vidal,2,4,3,4,Pesima,No,Satisfecho
+1719,14/09/2028,Estética,32,141,7979,MVZ. Eddie Hernández Vidal,1,5,2,2,Mala,Sí,Satisfecho
+1720,15/09/2028,Vacunación,1,26,1421,MVZ. Eddie Hernández Vidal,5,5,4,2,Regular,Sí,Muy Satisfecho
+1721,16/09/2028,Vacunación,44,124,8312,MVZ. Eddie Hernández Vidal,1,2,4,2,Pesima,Sí,Algo satisfecho
+1722,17/09/2028,Urgencias,47,62,7634,MVZ. Eddie Hernández Vidal,2,4,5,4,Buena,Sí,Muy Satisfecho
+1723,18/09/2028,Hospitalización,34,50,2907,MVZ. Eddie Hernández Vidal,5,2,3,1,Regular,Sí,Satisfecho
+1724,19/09/2028,Hospitalización,42,72,282,MVZ. Eddie Hernández Vidal,2,2,2,3,Buena,No,Algo satisfecho
+1725,20/09/2028,Cirugías,42,32,2278,MVZ. Eddie Hernández Vidal,1,1,2,2,Regular,No,Algo satisfecho
+1726,21/09/2028,Vacunación,44,145,8738,MVZ. Eddie Hernández Vidal,1,3,4,1,Buena,Sí,Algo satisfecho
+1727,22/09/2028,Hospitalización,10,69,3816,MVZ. Eddie Hernández Vidal,5,2,4,1,Pesima,Sí,Satisfecho
+1728,23/09/2028,Estética,42,8,2417,MVZ. Eddie Hernández Vidal,4,2,5,5,Mala,Sí,Muy Satisfecho
+1729,24/09/2028,Cirugías,60,176,125,MVZ. Eddie Hernández Vidal,2,5,3,3,Mala,No,Satisfecho
+1730,25/09/2028,Cirugías,40,101,3009,MVZ. Eddie Hernández Vidal,3,3,1,1,Regular,Sí,Algo satisfecho
+1731,26/09/2028,Consulta general,46,45,2261,MVZ. Eddie Hernández Vidal,2,3,1,3,Regular,Sí,Algo satisfecho
+1732,27/09/2028,Hospitalización,39,25,6619,MVZ. Eddie Hernández Vidal,5,5,3,1,Pesima,No,Muy Satisfecho
+1733,28/09/2028,Ultrasonido,15,19,5329,MVZ. Eddie Hernández Vidal,2,5,1,1,Mala,No,Algo satisfecho
+1734,29/09/2028,Consulta general,45,29,1781,MVZ. Eddie Hernández Vidal,4,2,4,4,Pesima,No,Muy Satisfecho
+1735,30/09/2028,Estética,26,72,3136,MVZ. Eddie Hernández Vidal,2,3,1,3,Buena,Sí,Algo satisfecho
+1736,01/10/2028,Consulta general,41,37,5532,MVZ. Eddie Hernández Vidal,2,2,2,4,Regular,No,Satisfecho
+1737,02/10/2028,Servicio a domicilio,40,78,9983,MVZ. Eddie Hernández Vidal,2,1,5,3,Mala,Sí,Satisfecho
+1738,03/10/2028,Urgencias,44,75,7346,MVZ. Eddie Hernández Vidal,3,4,5,2,Buena,No,Muy Satisfecho
+1739,04/10/2028,Servicio a domicilio,48,72,7428,MVZ. Eddie Hernández Vidal,4,1,1,4,Regular,Sí,Satisfecho
+1740,05/10/2028,Desparacitación,16,63,731,MVZ. Eddie Hernández Vidal,5,5,3,5,Pesima,Sí,Extremadamente satisfecho
+1741,06/10/2028,Desparacitación,43,161,3324,MVZ. Eddie Hernández Vidal,4,2,5,1,Regular,Sí,Satisfecho
+1742,07/10/2028,Estética,28,8,2226,MVZ. Eddie Hernández Vidal,2,5,3,5,Regular,Sí,Muy Satisfecho
+1743,08/10/2028,Desparacitación,0,171,5612,MVZ. Eddie Hernández Vidal,5,1,4,3,Mala,No,Satisfecho
+1744,09/10/2028,Hospitalización,44,113,1937,MVZ. Eddie Hernández Vidal,4,1,3,2,Buena,Sí,Satisfecho
+1745,10/10/2028,Cirugías,2,97,1625,MVZ. Eddie Hernández Vidal,4,3,3,5,Mala,Sí,Muy Satisfecho
+1746,11/10/2028,Servicio a domicilio,22,6,8149,MVZ. Eddie Hernández Vidal,3,3,2,2,Mala,Sí,Satisfecho
+1747,12/10/2028,Vacunación,60,150,5653,MVZ. Eddie Hernández Vidal,3,1,5,5,Buena,Sí,Muy Satisfecho
+1748,13/10/2028,Urgencias,24,180,2060,MVZ. Eddie Hernández Vidal,4,1,5,4,Pesima,No,Muy Satisfecho
+1749,14/10/2028,Hospitalización,44,13,2413,MVZ. Eddie Hernández Vidal,5,4,1,1,Mala,Sí,Satisfecho
+1750,15/10/2028,Ultrasonido,19,78,6860,MVZ. Eddie Hernández Vidal,2,5,4,5,Regular,Sí,Muy Satisfecho
+1751,16/10/2028,Estética,30,146,8765,MVZ. Eddie Hernández Vidal,2,4,3,3,Mala,No,Satisfecho
+1752,17/10/2028,Consulta general,13,117,4258,MVZ. Eddie Hernández Vidal,3,3,4,4,Pesima,Sí,Muy Satisfecho
+1753,18/10/2028,Hospitalización,7,46,9326,MVZ. Eddie Hernández Vidal,2,3,3,5,Mala,Sí,Satisfecho
+1754,19/10/2028,Ultrasonido,19,29,8715,MVZ. Eddie Hernández Vidal,5,4,5,4,Pesima,No,Extremadamente satisfecho
+1755,20/10/2028,Estética,35,68,6154,MVZ. Eddie Hernández Vidal,1,3,5,2,Pesima,No,Satisfecho
+1756,21/10/2028,Desparacitación,53,76,2528,MVZ. Eddie Hernández Vidal,3,4,1,2,Regular,No,Satisfecho
+1757,22/10/2028,Vacunación,53,74,9059,MVZ. Eddie Hernández Vidal,2,2,5,5,Pesima,No,Muy Satisfecho
+1758,23/10/2028,Cirugías,29,108,1797,MVZ. Eddie Hernández Vidal,4,1,1,2,Mala,Sí,Algo satisfecho
+1759,24/10/2028,Servicio a domicilio,20,153,8157,MVZ. Eddie Hernández Vidal,1,5,4,3,Buena,Sí,Satisfecho
+1760,25/10/2028,Urgencias,8,72,1689,MVZ. Eddie Hernández Vidal,5,5,5,4,Regular,No,Extremadamente satisfecho
+1761,26/10/2028,Consulta general,10,95,262,MVZ. Eddie Hernández Vidal,5,5,1,5,Regular,Sí,Muy Satisfecho
+1762,27/10/2028,Desparacitación,41,70,5542,MVZ. Eddie Hernández Vidal,3,3,2,5,Mala,Sí,Satisfecho
+1763,28/10/2028,Urgencias,34,173,3347,MVZ. Eddie Hernández Vidal,1,3,5,5,Buena,Sí,Muy Satisfecho
+1764,29/10/2028,Cirugías,46,117,584,MVZ. Eddie Hernández Vidal,2,2,1,4,Buena,Sí,Algo satisfecho
+1765,30/10/2028,Estética,11,107,8710,MVZ. Eddie Hernández Vidal,3,2,2,4,Regular,No,Satisfecho
+1766,31/10/2028,Vacunación,8,179,4230,MVZ. Eddie Hernández Vidal,1,3,4,4,Buena,Sí,Satisfecho
+1767,01/11/2028,Consulta general,53,154,9680,MVZ. Eddie Hernández Vidal,5,1,2,3,Mala,Sí,Satisfecho
+1768,02/11/2028,Cirugías,55,81,6761,MVZ. Eddie Hernández Vidal,4,3,3,2,Regular,Sí,Satisfecho
+1769,03/11/2028,Urgencias,21,75,9305,MVZ. Eddie Hernández Vidal,5,4,1,3,Buena,No,Satisfecho
+1770,04/11/2028,Estética,52,165,383,MVZ. Eddie Hernández Vidal,4,3,2,1,Pesima,No,Satisfecho
+1771,05/11/2028,Consulta general,4,175,5367,MVZ. Eddie Hernández Vidal,3,1,5,3,Pesima,No,Satisfecho
+1772,06/11/2028,Ultrasonido,47,89,8903,MVZ. Eddie Hernández Vidal,1,3,3,2,Buena,No,Algo satisfecho
+1773,07/11/2028,Hospitalización,7,91,9738,MVZ. Eddie Hernández Vidal,3,3,3,4,Buena,No,Satisfecho
+1774,08/11/2028,Consulta general,56,25,4160,MVZ. Eddie Hernández Vidal,3,3,4,2,Mala,No,Satisfecho
+1775,09/11/2028,Desparacitación,56,114,1775,MVZ. Eddie Hernández Vidal,2,2,2,3,Mala,Sí,Algo satisfecho
+1776,10/11/2028,Estética,21,166,9764,MVZ. Eddie Hernández Vidal,5,3,1,4,Buena,Sí,Satisfecho
+1777,11/11/2028,Ultrasonido,22,165,7670,MVZ. Eddie Hernández Vidal,5,4,3,4,Pesima,No,Muy Satisfecho
+1778,12/11/2028,Hospitalización,6,14,9866,MVZ. Eddie Hernández Vidal,4,4,2,1,Buena,No,Satisfecho
+1779,13/11/2028,Cirugías,19,105,3954,MVZ. Eddie Hernández Vidal,1,5,1,1,Mala,Sí,Algo satisfecho
+1780,14/11/2028,Hospitalización,43,136,3887,MVZ. Eddie Hernández Vidal,3,2,1,5,Mala,No,Satisfecho
+1781,15/11/2028,Estética,6,68,9451,MVZ. Eddie Hernández Vidal,4,1,3,4,Pesima,Sí,Satisfecho
+1782,16/11/2028,Cirugías,32,67,5435,MVZ. Eddie Hernández Vidal,2,4,3,3,Regular,No,Satisfecho
+1783,17/11/2028,Consulta general,59,141,7413,MVZ. Eddie Hernández Vidal,2,2,1,5,Buena,No,Satisfecho
+1784,18/11/2028,Desparacitación,37,33,1908,MVZ. Eddie Hernández Vidal,2,1,1,5,Buena,Sí,Algo satisfecho
+1785,19/11/2028,Hospitalización,22,18,8412,MVZ. Eddie Hernández Vidal,5,4,2,2,Buena,Sí,Satisfecho
+1786,20/11/2028,Estética,41,76,2944,MVZ. Eddie Hernández Vidal,2,1,1,5,Buena,Sí,Algo satisfecho
+1787,21/11/2028,Hospitalización,21,131,3611,MVZ. Eddie Hernández Vidal,1,2,4,2,Regular,No,Algo satisfecho
+1788,22/11/2028,Hospitalización,52,120,121,MVZ. Eddie Hernández Vidal,3,5,1,1,Regular,Sí,Satisfecho
+1789,23/11/2028,Urgencias,11,145,2870,MVZ. Eddie Hernández Vidal,2,5,1,4,Regular,No,Satisfecho
+1790,24/11/2028,Ultrasonido,43,135,9839,MVZ. Eddie Hernández Vidal,3,2,1,1,Pesima,No,Algo satisfecho
+1791,25/11/2028,Vacunación,3,114,6460,MVZ. Eddie Hernández Vidal,4,2,1,2,Regular,No,Algo satisfecho
+1792,26/11/2028,Hospitalización,32,82,6333,MVZ. Eddie Hernández Vidal,5,5,3,4,Regular,No,Muy Satisfecho
+1793,27/11/2028,Servicio a domicilio,29,28,9298,MVZ. Eddie Hernández Vidal,2,3,3,4,Buena,Sí,Satisfecho
+1794,28/11/2028,Ultrasonido,21,131,5235,MVZ. Eddie Hernández Vidal,1,3,1,4,Buena,No,Algo satisfecho
+1795,29/11/2028,Vacunación,17,123,6110,MVZ. Eddie Hernández Vidal,2,3,3,5,Regular,Sí,Satisfecho
+1796,30/11/2028,Cirugías,5,131,709,MVZ. Eddie Hernández Vidal,2,1,1,1,Regular,Sí,Insatisfecho
+1797,01/12/2028,Estética,47,84,2225,MVZ. Eddie Hernández Vidal,4,3,3,1,Mala,No,Satisfecho
+1798,02/12/2028,Cirugías,27,16,9922,MVZ. Eddie Hernández Vidal,1,5,3,1,Buena,Sí,Satisfecho
+1799,03/12/2028,Urgencias,1,14,6328,MVZ. Eddie Hernández Vidal,2,3,2,5,Mala,Sí,Satisfecho
+1800,04/12/2028,Ultrasonido,33,67,1862,MVZ. Eddie Hernández Vidal,1,4,4,5,Regular,No,Muy Satisfecho
+1801,05/12/2028,Consulta general,40,70,1729,MVZ. Eddie Hernández Vidal,5,5,5,5,Regular,Sí,Extremadamente satisfecho
+1802,06/12/2028,Desparacitación,43,144,1638,MVZ. Eddie Hernández Vidal,1,5,5,4,Regular,Sí,Muy Satisfecho
+1803,07/12/2028,Hospitalización,39,100,9711,MVZ. Eddie Hernández Vidal,4,3,4,1,Buena,Sí,Satisfecho
+1804,08/12/2028,Cirugías,57,53,1414,MVZ. Eddie Hernández Vidal,1,5,5,4,Regular,No,Muy Satisfecho
+1805,09/12/2028,Servicio a domicilio,43,63,5215,MVZ. Eddie Hernández Vidal,1,4,1,4,Buena,No,Satisfecho
+1806,10/12/2028,Ultrasonido,51,80,3415,MVZ. Eddie Hernández Vidal,5,1,3,2,Regular,No,Satisfecho
+1807,11/12/2028,Desparacitación,37,134,507,MVZ. Eddie Hernández Vidal,5,2,2,2,Mala,No,Satisfecho
+1808,12/12/2028,Hospitalización,30,126,7612,MVZ. Eddie Hernández Vidal,3,2,1,1,Pesima,No,Algo satisfecho
+1809,13/12/2028,Vacunación,18,158,8615,MVZ. Eddie Hernández Vidal,1,4,3,4,Buena,No,Satisfecho
+1810,14/12/2028,Ultrasonido,54,35,2337,MVZ. Eddie Hernández Vidal,2,4,4,2,Pesima,No,Satisfecho
+1811,15/12/2028,Hospitalización,15,166,1733,MVZ. Eddie Hernández Vidal,5,2,3,3,Regular,No,Satisfecho
+1812,16/12/2028,Urgencias,60,92,6115,MVZ. Eddie Hernández Vidal,5,2,5,5,Pesima,No,Muy Satisfecho
+1813,17/12/2028,Ultrasonido,51,25,1495,MVZ. Eddie Hernández Vidal,4,5,4,3,Mala,No,Muy Satisfecho
+1814,18/12/2028,Desparacitación,45,54,2608,MVZ. Eddie Hernández Vidal,1,2,2,1,Pesima,No,Algo satisfecho
+1815,19/12/2028,Servicio a domicilio,40,141,1227,MVZ. Eddie Hernández Vidal,1,1,4,3,Pesima,No,Algo satisfecho
+1816,20/12/2028,Vacunación,29,69,2238,MVZ. Eddie Hernández Vidal,1,5,4,4,Pesima,No,Muy Satisfecho
+1817,21/12/2028,Servicio a domicilio,4,167,1225,MVZ. Eddie Hernández Vidal,4,3,1,1,Regular,Sí,Algo satisfecho
+1818,22/12/2028,Urgencias,56,163,9475,MVZ. Eddie Hernández Vidal,2,2,4,2,Buena,Sí,Satisfecho
+1819,23/12/2028,Cirugías,48,107,3743,MVZ. Eddie Hernández Vidal,2,4,5,2,Regular,No,Satisfecho
+1820,24/12/2028,Estética,56,170,8448,MVZ. Eddie Hernández Vidal,2,1,1,1,Pesima,No,Insatisfecho
+1821,25/12/2028,Consulta general,42,27,8712,MVZ. Eddie Hernández Vidal,3,5,1,5,Regular,No,Muy Satisfecho
+1822,26/12/2028,Urgencias,20,66,5175,MVZ. Eddie Hernández Vidal,4,1,3,3,Mala,Sí,Satisfecho
+1823,27/12/2028,Cirugías,16,47,2601,MVZ. Eddie Hernández Vidal,4,3,3,2,Buena,Sí,Satisfecho
+1824,28/12/2028,Servicio a domicilio,53,53,3091,MVZ. Eddie Hernández Vidal,3,5,5,2,Regular,No,Muy Satisfecho
+1825,29/12/2028,Consulta general,21,110,5867,MVZ. Eddie Hernández Vidal,1,2,1,5,Mala,Sí,Algo satisfecho
+1826,30/12/2028,Vacunación,2,25,8838,MVZ. Eddie Hernández Vidal,2,3,3,3,Regular,Sí,Satisfecho
+1827,31/12/2028,Urgencias,20,176,4337,MVZ. Eddie Hernández Vidal,5,4,4,3,Pesima,No,Muy Satisfecho
+1828,01/01/2029,Ultrasonido,45,140,9051,MVZ. Eddie Hernández Vidal,2,1,3,1,Mala,Sí,Algo satisfecho
+1829,02/01/2029,Urgencias,56,125,4563,MVZ. Eddie Hernández Vidal,4,1,5,1,Buena,No,Satisfecho
+1830,03/01/2029,Hospitalización,24,178,8463,MVZ. Eddie Hernández Vidal,3,1,1,2,Pesima,Sí,Algo satisfecho
+1831,04/01/2029,Vacunación,43,35,6639,MVZ. Eddie Hernández Vidal,3,5,3,2,Buena,No,Satisfecho
+1832,05/01/2029,Estética,20,145,9404,MVZ. Eddie Hernández Vidal,4,1,1,4,Regular,No,Satisfecho
+1833,06/01/2029,Desparacitación,45,61,4857,MVZ. Eddie Hernández Vidal,4,1,5,1,Buena,No,Satisfecho
+1834,07/01/2029,Desparacitación,15,154,4053,MVZ. Eddie Hernández Vidal,3,2,5,1,Pesima,Sí,Satisfecho
+1835,08/01/2029,Cirugías,33,21,8762,MVZ. Eddie Hernández Vidal,4,2,2,4,Regular,No,Satisfecho
+1836,09/01/2029,Consulta general,24,48,3100,MVZ. Eddie Hernández Vidal,2,2,1,5,Pesima,Sí,Satisfecho
+1837,10/01/2029,Ultrasonido,24,131,4677,MVZ. Eddie Hernández Vidal,3,2,1,5,Pesima,Sí,Satisfecho
+1838,11/01/2029,Estética,40,28,5259,MVZ. Eddie Hernández Vidal,3,2,2,4,Mala,No,Satisfecho
+1839,12/01/2029,Ultrasonido,27,173,5903,MVZ. Eddie Hernández Vidal,5,3,5,3,Regular,No,Muy Satisfecho
+1840,13/01/2029,Consulta general,3,170,1988,MVZ. Eddie Hernández Vidal,2,3,1,1,Regular,Sí,Algo satisfecho
+1841,14/01/2029,Desparacitación,19,116,1248,MVZ. Eddie Hernández Vidal,2,1,4,3,Regular,Sí,Satisfecho
+1842,15/01/2029,Desparacitación,12,44,5364,MVZ. Eddie Hernández Vidal,1,2,2,3,Mala,No,Algo satisfecho
+1843,16/01/2029,Estética,50,109,5240,MVZ. Eddie Hernández Vidal,5,1,5,5,Regular,No,Muy Satisfecho
+1844,17/01/2029,Ultrasonido,44,43,8575,MVZ. Eddie Hernández Vidal,4,3,4,2,Buena,Sí,Satisfecho
+1845,18/01/2029,Servicio a domicilio,10,176,6457,MVZ. Eddie Hernández Vidal,3,1,3,3,Pesima,No,Satisfecho
+1846,19/01/2029,Vacunación,9,133,2858,MVZ. Eddie Hernández Vidal,5,4,2,2,Pesima,Sí,Satisfecho
+1847,20/01/2029,Estética,28,142,1915,MVZ. Eddie Hernández Vidal,1,5,5,5,Mala,Sí,Muy Satisfecho
+1848,21/01/2029,Urgencias,53,148,6996,MVZ. Eddie Hernández Vidal,1,3,2,1,Mala,No,Algo satisfecho
+1849,22/01/2029,Cirugías,46,58,9035,MVZ. Eddie Hernández Vidal,2,3,4,4,Regular,No,Satisfecho
+1850,23/01/2029,Estética,31,137,1819,MVZ. Eddie Hernández Vidal,3,4,1,2,Buena,Sí,Satisfecho
+1851,24/01/2029,Hospitalización,23,161,3715,MVZ. Eddie Hernández Vidal,1,5,2,1,Buena,No,Algo satisfecho
+1852,25/01/2029,Cirugías,13,40,2200,MVZ. Eddie Hernández Vidal,4,2,3,2,Mala,Sí,Satisfecho
+1853,26/01/2029,Ultrasonido,5,25,1761,MVZ. Eddie Hernández Vidal,2,5,5,5,Regular,No,Muy Satisfecho
+1854,27/01/2029,Cirugías,45,11,7148,MVZ. Eddie Hernández Vidal,5,4,4,1,Mala,Sí,Muy Satisfecho
+1855,28/01/2029,Hospitalización,40,46,924,MVZ. Eddie Hernández Vidal,3,5,5,1,Mala,Sí,Muy Satisfecho
+1856,29/01/2029,Desparacitación,7,164,2318,MVZ. Eddie Hernández Vidal,2,4,3,1,Regular,Sí,Satisfecho
+1857,30/01/2029,Servicio a domicilio,41,85,4195,MVZ. Eddie Hernández Vidal,5,4,4,4,Regular,Sí,Muy Satisfecho
+1858,31/01/2029,Ultrasonido,46,146,1855,MVZ. Eddie Hernández Vidal,1,2,2,3,Pesima,Sí,Algo satisfecho
+1859,01/02/2029,Ultrasonido,16,166,1863,MVZ. Eddie Hernández Vidal,1,2,1,1,Mala,No,Insatisfecho
+1860,02/02/2029,Estética,50,150,4829,MVZ. Eddie Hernández Vidal,2,5,1,1,Pesima,Sí,Algo satisfecho
+1861,03/02/2029,Consulta general,39,116,9610,MVZ. Eddie Hernández Vidal,1,2,1,2,Pesima,Sí,Algo satisfecho
+1862,04/02/2029,Urgencias,35,70,6728,MVZ. Eddie Hernández Vidal,2,3,4,5,Buena,No,Muy Satisfecho
+1863,05/02/2029,Cirugías,42,94,6906,MVZ. Eddie Hernández Vidal,4,5,4,4,Regular,No,Muy Satisfecho
+1864,06/02/2029,Urgencias,28,52,4077,MVZ. Eddie Hernández Vidal,1,1,4,3,Buena,Sí,Algo satisfecho
+1865,07/02/2029,Consulta general,53,91,189,MVZ. Eddie Hernández Vidal,3,5,2,1,Pesima,Sí,Satisfecho
+1866,08/02/2029,Desparacitación,17,47,6979,MVZ. Eddie Hernández Vidal,1,3,2,4,Pesima,Sí,Satisfecho
+1867,09/02/2029,Consulta general,37,155,572,MVZ. Eddie Hernández Vidal,3,1,5,1,Regular,No,Satisfecho
+1868,10/02/2029,Urgencias,1,72,5140,MVZ. Eddie Hernández Vidal,2,5,1,4,Buena,Sí,Satisfecho
+1869,11/02/2029,Vacunación,17,152,6210,MVZ. Eddie Hernández Vidal,3,4,3,1,Regular,Sí,Satisfecho
+1870,12/02/2029,Vacunación,30,51,8497,MVZ. Eddie Hernández Vidal,1,4,3,3,Regular,Sí,Satisfecho
+1871,13/02/2029,Urgencias,34,34,8732,MVZ. Eddie Hernández Vidal,5,1,5,2,Pesima,No,Satisfecho
+1872,14/02/2029,Estética,52,73,5885,MVZ. Eddie Hernández Vidal,2,1,3,4,Buena,Sí,Satisfecho
+1873,15/02/2029,Servicio a domicilio,3,114,7885,MVZ. Eddie Hernández Vidal,3,2,2,1,Pesima,Sí,Algo satisfecho
+1874,16/02/2029,Cirugías,33,163,7656,MVZ. Eddie Hernández Vidal,1,5,3,2,Regular,No,Satisfecho
+1875,17/02/2029,Desparacitación,43,177,9318,MVZ. Eddie Hernández Vidal,1,3,2,3,Pesima,Sí,Algo satisfecho
+1876,18/02/2029,Servicio a domicilio,25,166,5558,MVZ. Eddie Hernández Vidal,4,1,4,2,Regular,No,Satisfecho
+1877,19/02/2029,Desparacitación,1,9,5998,MVZ. Eddie Hernández Vidal,4,1,5,3,Regular,Sí,Satisfecho
+1878,20/02/2029,Servicio a domicilio,34,170,6932,MVZ. Eddie Hernández Vidal,5,2,2,2,Buena,No,Satisfecho
+1879,21/02/2029,Urgencias,56,57,3711,MVZ. Eddie Hernández Vidal,2,5,4,2,Buena,No,Satisfecho
+1880,22/02/2029,Consulta general,49,69,3200,MVZ. Eddie Hernández Vidal,4,2,4,4,Buena,Sí,Muy Satisfecho
+1881,23/02/2029,Cirugías,39,22,4316,MVZ. Eddie Hernández Vidal,5,1,3,3,Pesima,Sí,Satisfecho
+1882,24/02/2029,Cirugías,40,150,4666,MVZ. Eddie Hernández Vidal,3,4,4,2,Mala,Sí,Satisfecho
+1883,25/02/2029,Estética,18,172,3397,MVZ. Eddie Hernández Vidal,2,1,3,1,Pesima,No,Algo satisfecho
+1884,26/02/2029,Urgencias,41,109,5851,MVZ. Eddie Hernández Vidal,2,2,3,5,Pesima,No,Satisfecho
+1885,27/02/2029,Urgencias,54,23,3821,MVZ. Eddie Hernández Vidal,4,3,5,2,Buena,No,Muy Satisfecho
+1886,28/02/2029,Cirugías,21,138,8146,MVZ. Eddie Hernández Vidal,2,5,1,5,Pesima,Sí,Satisfecho
+1887,01/03/2029,Hospitalización,47,103,5199,MVZ. Eddie Hernández Vidal,5,2,1,3,Regular,Sí,Satisfecho
+1888,02/03/2029,Vacunación,28,136,1535,MVZ. Eddie Hernández Vidal,2,3,3,3,Regular,Sí,Satisfecho
+1889,03/03/2029,Ultrasonido,1,63,3156,MVZ. Eddie Hernández Vidal,1,4,4,1,Mala,Sí,Satisfecho
+1890,04/03/2029,Urgencias,41,5,8775,MVZ. Eddie Hernández Vidal,5,3,5,4,Regular,No,Muy Satisfecho
+1891,05/03/2029,Servicio a domicilio,38,124,8297,MVZ. Eddie Hernández Vidal,5,3,1,4,Regular,No,Satisfecho
+1892,06/03/2029,Urgencias,12,40,4415,MVZ. Eddie Hernández Vidal,2,5,2,4,Buena,Sí,Satisfecho
+1893,07/03/2029,Cirugías,15,30,3886,MVZ. Eddie Hernández Vidal,2,5,4,4,Pesima,No,Muy Satisfecho
+1894,08/03/2029,Consulta general,28,89,6149,MVZ. Eddie Hernández Vidal,4,3,2,4,Buena,No,Satisfecho
+1895,09/03/2029,Hospitalización,25,98,8788,MVZ. Eddie Hernández Vidal,1,2,1,4,Mala,No,Algo satisfecho
+1896,10/03/2029,Vacunación,59,147,4987,MVZ. Eddie Hernández Vidal,4,1,5,4,Pesima,Sí,Muy Satisfecho
+1897,11/03/2029,Servicio a domicilio,50,49,2504,MVZ. Eddie Hernández Vidal,2,1,5,3,Buena,Sí,Satisfecho
+1898,12/03/2029,Vacunación,53,9,9378,MVZ. Eddie Hernández Vidal,1,2,5,1,Buena,Sí,Algo satisfecho
+1899,13/03/2029,Servicio a domicilio,22,150,2604,MVZ. Eddie Hernández Vidal,3,4,3,3,Regular,No,Satisfecho
+1900,14/03/2029,Vacunación,27,61,6492,MVZ. Eddie Hernández Vidal,4,2,5,2,Pesima,No,Satisfecho
+1901,15/03/2029,Hospitalización,13,134,3674,MVZ. Eddie Hernández Vidal,2,1,2,2,Buena,Sí,Algo satisfecho
+1902,16/03/2029,Hospitalización,33,21,6577,MVZ. Eddie Hernández Vidal,5,5,4,4,Mala,No,Extremadamente satisfecho
+1903,17/03/2029,Consulta general,14,83,2907,MVZ. Eddie Hernández Vidal,5,5,4,4,Mala,Sí,Extremadamente satisfecho
+1904,18/03/2029,Desparacitación,53,111,3185,MVZ. Eddie Hernández Vidal,2,5,5,3,Regular,No,Muy Satisfecho
+1905,19/03/2029,Ultrasonido,8,29,1874,MVZ. Eddie Hernández Vidal,3,5,4,4,Buena,Sí,Muy Satisfecho
+1906,20/03/2029,Hospitalización,4,74,7064,MVZ. Eddie Hernández Vidal,3,5,3,4,Pesima,No,Muy Satisfecho
+1907,21/03/2029,Urgencias,46,126,1506,MVZ. Eddie Hernández Vidal,1,3,4,4,Buena,Sí,Satisfecho
+1908,22/03/2029,Urgencias,54,154,5031,MVZ. Eddie Hernández Vidal,5,4,5,3,Buena,Sí,Muy Satisfecho
+1909,23/03/2029,Ultrasonido,21,13,1425,MVZ. Eddie Hernández Vidal,3,5,1,2,Regular,Sí,Satisfecho
+1910,24/03/2029,Desparacitación,45,38,1615,MVZ. Eddie Hernández Vidal,4,4,2,2,Mala,No,Satisfecho
+1911,25/03/2029,Desparacitación,28,74,2778,MVZ. Eddie Hernández Vidal,3,4,4,2,Pesima,Sí,Satisfecho
+1912,26/03/2029,Cirugías,22,101,3897,MVZ. Eddie Hernández Vidal,4,3,2,5,Buena,Sí,Muy Satisfecho
+1913,27/03/2029,Consulta general,14,5,7822,MVZ. Eddie Hernández Vidal,5,4,5,5,Pesima,No,Extremadamente satisfecho
+1914,28/03/2029,Servicio a domicilio,0,48,3860,MVZ. Eddie Hernández Vidal,4,2,3,1,Buena,Sí,Satisfecho
+1915,29/03/2029,Ultrasonido,50,120,1137,MVZ. Eddie Hernández Vidal,2,1,2,2,Regular,No,Algo satisfecho
+1916,30/03/2029,Estética,37,11,1284,MVZ. Eddie Hernández Vidal,4,5,1,5,Pesima,Sí,Muy Satisfecho
+1917,31/03/2029,Servicio a domicilio,54,147,3375,MVZ. Eddie Hernández Vidal,2,5,5,2,Regular,No,Muy Satisfecho
+1918,01/04/2029,Cirugías,50,170,3403,MVZ. Eddie Hernández Vidal,3,5,3,4,Pesima,No,Muy Satisfecho
+1919,02/04/2029,Cirugías,9,97,5068,MVZ. Eddie Hernández Vidal,2,3,2,4,Pesima,Sí,Satisfecho
+1920,03/04/2029,Estética,33,58,2086,MVZ. Eddie Hernández Vidal,5,1,2,3,Pesima,Sí,Satisfecho
+1921,04/04/2029,Cirugías,52,34,8366,MVZ. Eddie Hernández Vidal,5,5,3,1,Regular,Sí,Muy Satisfecho
+1922,05/04/2029,Consulta general,40,98,6165,MVZ. Eddie Hernández Vidal,4,1,4,5,Pesima,No,Muy Satisfecho
+1923,06/04/2029,Desparacitación,40,125,5819,MVZ. Eddie Hernández Vidal,5,2,2,1,Pesima,Sí,Satisfecho
+1924,07/04/2029,Ultrasonido,51,127,8964,MVZ. Eddie Hernández Vidal,1,2,1,4,Regular,Sí,Algo satisfecho
+1925,08/04/2029,Estética,7,136,7362,MVZ. Eddie Hernández Vidal,4,5,5,1,Mala,No,Muy Satisfecho
+1926,09/04/2029,Urgencias,26,79,8154,MVZ. Eddie Hernández Vidal,1,5,4,3,Regular,Sí,Satisfecho
+1927,10/04/2029,Cirugías,29,46,5017,MVZ. Eddie Hernández Vidal,5,2,3,4,Pesima,Sí,Muy Satisfecho
+1928,11/04/2029,Ultrasonido,50,172,3888,MVZ. Eddie Hernández Vidal,3,2,2,4,Mala,Sí,Satisfecho
+1929,12/04/2029,Urgencias,57,101,3065,MVZ. Eddie Hernández Vidal,3,1,4,3,Buena,No,Satisfecho
+1930,13/04/2029,Ultrasonido,17,165,3823,MVZ. Eddie Hernández Vidal,5,2,5,5,Buena,Sí,Muy Satisfecho
+1931,14/04/2029,Urgencias,10,161,6257,MVZ. Eddie Hernández Vidal,3,5,3,2,Pesima,No,Satisfecho
+1932,15/04/2029,Ultrasonido,43,19,625,MVZ. Eddie Hernández Vidal,3,2,1,2,Pesima,Sí,Algo satisfecho
+1933,16/04/2029,Hospitalización,33,103,1780,MVZ. Eddie Hernández Vidal,5,1,1,1,Mala,No,Algo satisfecho
+1934,17/04/2029,Consulta general,1,67,8713,MVZ. Eddie Hernández Vidal,5,4,1,3,Regular,No,Satisfecho
+1935,18/04/2029,Consulta general,38,66,6325,MVZ. Eddie Hernández Vidal,1,4,1,4,Regular,No,Satisfecho
+1936,19/04/2029,Cirugías,19,106,6473,MVZ. Eddie Hernández Vidal,2,1,3,2,Buena,No,Algo satisfecho
+1937,20/04/2029,Urgencias,29,72,6789,MVZ. Eddie Hernández Vidal,1,1,4,1,Buena,Sí,Algo satisfecho
+1938,21/04/2029,Ultrasonido,6,146,4905,MVZ. Eddie Hernández Vidal,4,5,5,3,Mala,No,Muy Satisfecho
+1939,22/04/2029,Desparacitación,5,151,8365,MVZ. Eddie Hernández Vidal,4,2,4,5,Regular,No,Muy Satisfecho
+1940,23/04/2029,Desparacitación,4,86,8123,MVZ. Eddie Hernández Vidal,3,2,1,1,Regular,No,Algo satisfecho
+1941,24/04/2029,Desparacitación,2,66,4664,MVZ. Eddie Hernández Vidal,4,2,5,2,Regular,Sí,Satisfecho
+1942,25/04/2029,Hospitalización,55,39,4543,MVZ. Eddie Hernández Vidal,3,2,1,4,Buena,Sí,Satisfecho
+1943,26/04/2029,Servicio a domicilio,40,103,5313,MVZ. Eddie Hernández Vidal,5,5,2,4,Buena,No,Muy Satisfecho
+1944,27/04/2029,Consulta general,40,88,8891,MVZ. Eddie Hernández Vidal,2,2,1,1,Pesima,Sí,Algo satisfecho
+1945,28/04/2029,Desparacitación,16,80,5510,MVZ. Eddie Hernández Vidal,5,5,2,5,Pesima,Sí,Muy Satisfecho
+1946,29/04/2029,Estética,7,154,1676,MVZ. Eddie Hernández Vidal,5,1,4,2,Buena,Sí,Satisfecho
+1947,30/04/2029,Desparacitación,40,136,5775,MVZ. Eddie Hernández Vidal,5,1,3,3,Pesima,Sí,Satisfecho
+1948,01/05/2029,Desparacitación,24,118,5886,MVZ. Eddie Hernández Vidal,3,4,5,1,Pesima,Sí,Satisfecho
+1949,02/05/2029,Hospitalización,23,39,2036,MVZ. Eddie Hernández Vidal,3,1,1,5,Regular,No,Satisfecho
+1950,03/05/2029,Urgencias,52,95,9854,MVZ. Eddie Hernández Vidal,2,4,2,1,Regular,Sí,Algo satisfecho
+1951,04/05/2029,Hospitalización,58,168,8836,MVZ. Eddie Hernández Vidal,5,3,3,4,Mala,No,Muy Satisfecho
+1952,05/05/2029,Estética,22,111,9515,MVZ. Eddie Hernández Vidal,2,3,3,3,Buena,Sí,Satisfecho
+1953,06/05/2029,Cirugías,41,16,1671,MVZ. Eddie Hernández Vidal,3,3,2,4,Buena,No,Satisfecho
+1954,07/05/2029,Servicio a domicilio,6,109,5445,MVZ. Eddie Hernández Vidal,5,3,3,5,Pesima,Sí,Muy Satisfecho
+1955,08/05/2029,Ultrasonido,56,71,8921,MVZ. Eddie Hernández Vidal,2,2,2,3,Regular,No,Algo satisfecho
+1956,09/05/2029,Cirugías,14,27,5593,MVZ. Eddie Hernández Vidal,4,1,5,3,Regular,Sí,Satisfecho
+1957,10/05/2029,Ultrasonido,51,46,8980,MVZ. Eddie Hernández Vidal,5,2,4,5,Buena,No,Muy Satisfecho
+1958,11/05/2029,Cirugías,39,47,8725,MVZ. Eddie Hernández Vidal,4,5,5,1,Buena,No,Muy Satisfecho
+1959,12/05/2029,Vacunación,24,148,3212,MVZ. Eddie Hernández Vidal,4,2,4,4,Mala,No,Muy Satisfecho
+1960,13/05/2029,Vacunación,31,65,6878,MVZ. Eddie Hernández Vidal,1,3,2,1,Buena,Sí,Algo satisfecho
+1961,14/05/2029,Urgencias,20,86,4907,MVZ. Eddie Hernández Vidal,5,3,4,3,Buena,No,Muy Satisfecho
+1962,15/05/2029,Vacunación,18,108,7166,MVZ. Eddie Hernández Vidal,2,2,3,5,Pesima,Sí,Satisfecho
+1963,16/05/2029,Desparacitación,35,100,7158,MVZ. Eddie Hernández Vidal,2,4,3,4,Regular,No,Satisfecho
+1964,17/05/2029,Consulta general,32,104,752,MVZ. Eddie Hernández Vidal,2,2,1,5,Regular,No,Satisfecho
+1965,18/05/2029,Urgencias,20,129,9322,MVZ. Eddie Hernández Vidal,4,1,2,5,Mala,No,Satisfecho
+1966,19/05/2029,Vacunación,24,118,1349,MVZ. Eddie Hernández Vidal,5,5,5,5,Buena,No,Extremadamente satisfecho
+1967,20/05/2029,Vacunación,32,8,748,MVZ. Eddie Hernández Vidal,1,1,2,2,Regular,Sí,Algo satisfecho
+1968,21/05/2029,Desparacitación,27,178,4713,MVZ. Eddie Hernández Vidal,3,5,1,2,Pesima,Sí,Satisfecho
+1969,22/05/2029,Ultrasonido,44,158,5500,MVZ. Eddie Hernández Vidal,1,5,4,5,Buena,No,Muy Satisfecho
+1970,23/05/2029,Cirugías,58,56,9654,MVZ. Eddie Hernández Vidal,2,4,5,2,Buena,No,Satisfecho
+1971,24/05/2029,Hospitalización,36,161,8031,MVZ. Eddie Hernández Vidal,1,5,5,1,Regular,Sí,Satisfecho
+1972,25/05/2029,Consulta general,18,87,4483,MVZ. Eddie Hernández Vidal,4,2,3,4,Pesima,No,Satisfecho
+1973,26/05/2029,Cirugías,22,113,8389,MVZ. Eddie Hernández Vidal,2,5,1,4,Buena,Sí,Satisfecho
+1974,27/05/2029,Hospitalización,34,156,1815,MVZ. Eddie Hernández Vidal,1,1,5,3,Buena,Sí,Satisfecho
+1975,28/05/2029,Ultrasonido,31,115,2885,MVZ. Eddie Hernández Vidal,1,1,4,4,Pesima,Sí,Satisfecho
+1976,29/05/2029,Ultrasonido,50,15,8958,MVZ. Eddie Hernández Vidal,3,3,4,2,Regular,No,Satisfecho
+1977,30/05/2029,Ultrasonido,18,146,3523,MVZ. Eddie Hernández Vidal,2,1,5,4,Buena,No,Satisfecho
+1978,31/05/2029,Consulta general,60,82,3186,MVZ. Eddie Hernández Vidal,3,4,2,2,Regular,No,Satisfecho
+1979,01/06/2029,Estética,14,18,4208,MVZ. Eddie Hernández Vidal,2,2,3,2,Pesima,Sí,Algo satisfecho
+1980,02/06/2029,Desparacitación,7,70,9698,MVZ. Eddie Hernández Vidal,3,1,5,1,Pesima,Sí,Satisfecho
+1981,03/06/2029,Servicio a domicilio,11,8,9095,MVZ. Eddie Hernández Vidal,1,4,1,5,Pesima,Sí,Satisfecho
+1982,04/06/2029,Urgencias,10,145,2940,MVZ. Eddie Hernández Vidal,4,5,4,4,Regular,No,Muy Satisfecho
+1983,05/06/2029,Servicio a domicilio,57,13,6637,MVZ. Eddie Hernández Vidal,3,5,1,4,Mala,No,Satisfecho
+1984,06/06/2029,Estética,58,15,9647,MVZ. Eddie Hernández Vidal,2,3,4,2,Buena,Sí,Satisfecho
+1985,07/06/2029,Vacunación,38,130,9205,MVZ. Eddie Hernández Vidal,5,5,2,3,Mala,No,Muy Satisfecho
+1986,08/06/2029,Hospitalización,41,11,9156,MVZ. Eddie Hernández Vidal,5,2,3,2,Buena,Sí,Satisfecho
+1987,09/06/2029,Servicio a domicilio,22,57,996,MVZ. Eddie Hernández Vidal,3,1,5,4,Mala,No,Satisfecho
+1988,10/06/2029,Consulta general,0,164,2898,MVZ. Eddie Hernández Vidal,1,4,5,5,Regular,No,Muy Satisfecho
+1989,11/06/2029,Desparacitación,34,124,9583,MVZ. Eddie Hernández Vidal,3,3,3,2,Pesima,No,Satisfecho
+1990,12/06/2029,Desparacitación,17,48,6967,MVZ. Eddie Hernández Vidal,4,5,5,1,Mala,Sí,Muy Satisfecho
+1991,13/06/2029,Desparacitación,42,154,1823,MVZ. Eddie Hernández Vidal,2,4,4,3,Pesima,Sí,Satisfecho
+1992,14/06/2029,Servicio a domicilio,52,18,9058,MVZ. Eddie Hernández Vidal,5,5,5,3,Regular,No,Extremadamente satisfecho
+1993,15/06/2029,Desparacitación,6,76,960,MVZ. Eddie Hernández Vidal,2,1,2,3,Pesima,Sí,Algo satisfecho
+1994,16/06/2029,Estética,3,50,5045,MVZ. Eddie Hernández Vidal,2,3,1,3,Mala,No,Algo satisfecho
+1995,17/06/2029,Hospitalización,40,33,797,MVZ. Eddie Hernández Vidal,3,3,4,2,Pesima,Sí,Satisfecho
+1996,18/06/2029,Estética,59,87,4332,MVZ. Eddie Hernández Vidal,1,5,5,3,Buena,No,Muy Satisfecho
+1997,19/06/2029,Cirugías,27,162,5499,MVZ. Eddie Hernández Vidal,2,4,2,5,Mala,Sí,Satisfecho
+1998,20/06/2029,Consulta general,12,66,4020,MVZ. Eddie Hernández Vidal,1,3,5,3,Mala,Sí,Satisfecho
+1999,21/06/2029,Estética,39,159,4143,MVZ. Eddie Hernández Vidal,4,1,4,5,Regular,Sí,Muy Satisfecho
+2000,22/06/2029,Estética,21,55,4432,MVZ. Eddie Hernández Vidal,4,5,3,5,Pesima,Sí,Muy Satisfecho
