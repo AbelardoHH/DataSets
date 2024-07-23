@@ -1,0 +1,946 @@
+Fecha_Visita,Tipo_Servicio,Tiempo_Espera,Duracion_Atencion,Costo_Servicio,Personal_Atenci�n,Calidad_Atencion,Instalaciones,Comunicacion,Facilidad_Pago,Experiencia_Cliente,Recomendaciones,Satisfaccion_cliente,Niveles de satisfaccion
+1762992000,Cirugía,47,158,1191,Dr. Ramírez,2,3,5,4,Pesimo,Sí,2,Insatisfecho
+1717977600,Consulta,8,31,481,Dr. Gómez,3,4,4,2,Regular,No,5,Insatisfecho
+1758672000,Consulta,32,80,1892,Dr. Ramírez,3,3,4,3,Buena,Sí,2,Insatisfecho
+1765065600,Desparasitación,6,55,625,Dr. Ramírez,3,5,1,2,Buena,Sí,3,Insatisfecho
+1776211200,Desparasitación,38,104,4985,Dr. Pérez,3,2,2,4,Pesima,Sí,5,Insatisfecho
+1779926400,Consulta,21,20,250,Dr. Pérez,5,1,2,5,Mala,Sí,2,Insatisfecho
+1746230400,Consulta,30,89,3098,Dr. Pérez,3,2,3,4,Buena,Sí,2,Insatisfecho
+1756252800,Cirugía,44,43,3422,Dr. Gómez,3,3,2,5,Mala,No,3,Insatisfecho
+1743897600,Consulta,14,87,1800,Dr. Pérez,3,1,1,2,Buena,No,3,Insatisfecho
+1764720000,Consulta,23,134,4271,Dr. Ramírez,1,1,5,1,Pesima,No,4,Insatisfecho
+1739664000,Vacunación,36,93,773,Dr. Ramírez,4,4,4,3,Regular,No,3,Insatisfecho
+1744761600,Desparasitación,56,78,2860,Dr. Gómez,4,3,5,2,Mala,No,1,Insatisfecho
+1764288000,Vacunación,37,94,963,Dr. Gómez,1,1,1,4,Pesimo,No,4,Insatisfecho
+1777766400,Cirugía,54,21,1277,Dr. Gómez,3,2,1,4,Pesimo,No,5,Insatisfecho
+1712966400,Desparasitación,25,68,972,Dr. Pérez,2,1,1,2,Mala,Sí,4,Insatisfecho
+1726617600,Vacunación,38,111,2402,Dr. Ramírez,4,2,5,2,Buena,Sí,3,Insatisfecho
+1751068800,Consulta,27,118,3048,Dr. Pérez,3,1,2,5,Pesimo,Sí,4,Insatisfecho
+1762646400,Vacunación,28,58,3184,Dr. Pérez,5,5,3,3,Pesima,Sí,1,Insatisfecho
+1714608000,Vacunación,37,169,2229,Dr. Ramírez,1,4,5,2,Pesima,No,1,Insatisfecho
+1760313600,Desparasitación,37,146,2516,Dr. Gómez,2,1,4,2,Buena,No,4,Insatisfecho
+1720569600,Cirugía,31,93,187,Dr. Ramírez,4,4,2,3,Regular,Sí,3,Insatisfecho
+1755388800,Desparasitación,53,133,3289,Dr. Pérez,1,3,3,5,Buena,No,1,Insatisfecho
+1717113600,Cirugía,27,31,3012,Dr. Ramírez,5,1,2,2,Pesima,No,3,Insatisfecho
+1778025600,Cirugía,48,105,745,Dr. Ramírez,3,2,5,3,Pesimo,Sí,4,Insatisfecho
+1767916800,Desparasitación,54,95,4204,Dr. Gómez,3,2,3,1,Mala,Sí,3,Insatisfecho
+1731196800,Cirugía,42,71,3917,Dr. Pérez,3,5,2,5,Buena,Sí,4,Insatisfecho
+1784851200,Consulta,47,61,2357,Dr. Pérez,1,2,2,3,Buena,No,4,Insatisfecho
+1732752000,Desparasitación,24,21,525,Dr. Pérez,1,4,1,3,Buena,No,1,Insatisfecho
+1779321600,Desparasitación,16,40,74,Dr. Ramírez,4,4,2,3,Buena,Sí,5,Insatisfecho
+1711670400,Desparasitación,7,124,72,Dr. Pérez,3,5,2,4,Pesimo,Sí,1,Insatisfecho
+1781654400,Cirugía,11,112,2065,Dr. Ramírez,1,2,1,4,Mala,Sí,1,Insatisfecho
+1734220800,Cirugía,14,46,3250,Dr. Pérez,5,5,3,3,Regular,No,4,Insatisfecho
+1728432000,Vacunación,10,42,4343,Dr. Gómez,5,4,2,4,Pesima,No,2,Insatisfecho
+1747008000,Desparasitación,10,111,2574,Dr. Gómez,1,2,1,2,Regular,Sí,2,Insatisfecho
+1739059200,Desparasitación,29,175,2376,Dr. Gómez,1,5,2,1,Mala,Sí,3,Insatisfecho
+1759881600,Consulta,14,150,436,Dr. Gómez,4,3,1,3,Mala,Sí,2,Insatisfecho
+1783468800,Desparasitación,56,147,3928,Dr. Pérez,1,5,1,1,Buena,Sí,5,Insatisfecho
+1718496000,Cirugía,33,134,880,Dr. Gómez,3,5,1,5,Mala,No,2,Insatisfecho
+1783728000,Consulta,22,176,2878,Dr. Ramírez,1,3,1,2,Regular,No,4,Insatisfecho
+1747526400,Desparasitación,47,167,4639,Dr. Ramírez,4,5,4,2,Regular,Sí,1,Insatisfecho
+1739145600,Vacunación,22,50,3297,Dr. Ramírez,4,4,2,2,Regular,No,2,Insatisfecho
+1761004800,Vacunación,12,179,4368,Dr. Ramírez,2,4,3,4,Regular,Sí,3,Insatisfecho
+1770076800,Consulta,25,149,408,Dr. Ramírez,4,4,2,2,Mala,Sí,5,Insatisfecho
+1789948800,Desparasitación,22,17,2838,Dr. Gómez,4,1,3,3,Pesimo,Sí,3,Insatisfecho
+1775088000,Vacunación,26,158,4749,Dr. Ramírez,4,4,2,1,Pesima,Sí,3,Insatisfecho
+1787616000,Vacunación,39,169,3949,Dr. Pérez,3,1,5,4,Pesimo,Sí,2,Insatisfecho
+1785974400,Vacunación,17,146,3464,Dr. Ramírez,5,3,2,4,Regular,Sí,5,Insatisfecho
+1732492800,Desparasitación,23,23,3707,Dr. Gómez,5,4,5,2,Mala,No,2,Insatisfecho
+1741824000,Desparasitación,12,114,3988,Dr. Ramírez,2,1,2,1,Pesimo,No,3,Insatisfecho
+1743552000,Desparasitación,26,143,330,Dr. Pérez,1,1,3,2,Pesima,Sí,5,Insatisfecho
+1765843200,Desparasitación,27,106,1507,Dr. Pérez,3,5,5,1,Pesimo,Sí,5,Insatisfecho
+1727136000,Desparasitación,23,154,474,Dr. Ramírez,3,5,4,1,Buena,Sí,5,Insatisfecho
+1744416000,Consulta,51,10,1499,Dr. Pérez,1,3,4,1,Pesima,Sí,5,Insatisfecho
+1741046400,Consulta,44,148,491,Dr. Pérez,3,1,1,3,Buena,No,4,Insatisfecho
+1736380800,Consulta,48,114,2293,Dr. Ramírez,1,4,4,1,Mala,Sí,5,Insatisfecho
+1743811200,Vacunación,9,123,4299,Dr. Ramírez,4,2,3,5,Pesima,No,3,Insatisfecho
+1780876800,Consulta,19,89,2064,Dr. Pérez,3,3,2,3,Mala,Sí,3,Insatisfecho
+1756857600,Vacunación,27,165,776,Dr. Ramírez,2,4,4,2,Buena,No,2,Insatisfecho
+1715040000,Consulta,46,91,276,Dr. Ramírez,3,4,1,5,Regular,No,5,Insatisfecho
+1718928000,Cirugía,25,143,2860,Dr. Gómez,3,3,3,4,Regular,No,3,Insatisfecho
+1705968000,Vacunación,54,102,819,Dr. Pérez,4,5,5,2,Pesima,Sí,1,Insatisfecho
+1704153600,Desparasitación,21,152,1296,Dr. Gómez,4,1,4,2,Pesimo,Sí,3,Insatisfecho
+1744848000,Cirugía,19,170,4778,Dr. Gómez,2,1,3,5,Pesimo,No,2,Insatisfecho
+1715212800,Desparasitación,21,11,4967,Dr. Ramírez,5,5,5,4,Regular,No,2,Insatisfecho
+1766966400,Consulta,56,14,4390,Dr. Ramírez,2,2,4,1,Regular,No,4,Insatisfecho
+1706140800,Desparasitación,9,63,830,Dr. Gómez,2,1,4,1,Pesimo,Sí,3,Insatisfecho
+1735171200,Desparasitación,41,85,624,Dr. Gómez,1,1,3,4,Regular,Sí,1,Insatisfecho
+1786752000,Consulta,39,67,868,Dr. Gómez,5,2,1,4,Pesima,Sí,3,Insatisfecho
+1771027200,Consulta,27,113,1287,Dr. Pérez,3,4,1,5,Buena,Sí,3,Insatisfecho
+1784678400,Consulta,7,35,1061,Dr. Gómez,4,5,2,1,Pesima,Sí,5,Insatisfecho
+1755561600,Consulta,21,34,68,Dr. Gómez,5,4,2,3,Pesima,Sí,4,Insatisfecho
+1744156800,Desparasitación,42,29,4138,Dr. Gómez,3,3,5,2,Mala,No,5,Insatisfecho
+1774396800,Desparasitación,44,167,1996,Dr. Pérez,3,1,3,4,Regular,Sí,2,Insatisfecho
+1772409600,Desparasitación,49,75,1895,Dr. Pérez,4,3,1,5,Regular,Sí,4,Insatisfecho
+1785715200,Cirugía,33,114,3217,Dr. Gómez,5,4,1,2,Mala,Sí,2,Insatisfecho
+1748304000,Cirugía,44,98,3566,Dr. Ramírez,1,5,1,2,Pesimo,Sí,1,Insatisfecho
+1750982400,Vacunación,58,92,2444,Dr. Pérez,1,4,4,5,Mala,Sí,4,Insatisfecho
+1723248000,Vacunación,11,62,925,Dr. Ramírez,2,2,5,3,Buena,Sí,2,Insatisfecho
+1765929600,Cirugía,59,173,1449,Dr. Ramírez,1,2,2,5,Pesima,No,2,Insatisfecho
+1731715200,Desparasitación,30,143,1627,Dr. Pérez,4,4,4,5,Pesimo,No,5,Insatisfecho
+1734134400,Desparasitación,54,159,2317,Dr. Ramírez,4,4,3,1,Pesima,Sí,1,Insatisfecho
+1722643200,Consulta,18,27,1911,Dr. Pérez,3,1,4,2,Pesimo,Sí,3,Insatisfecho
+1780444800,Desparasitación,12,158,3225,Dr. Ramírez,3,4,5,4,Pesimo,No,2,Insatisfecho
+1733702400,Vacunación,17,41,308,Dr. Gómez,1,2,3,3,Buena,No,5,Insatisfecho
+1704672000,Consulta,32,70,3043,Dr. Pérez,2,4,1,2,Regular,Sí,5,Insatisfecho
+1719446400,Consulta,25,38,4343,Dr. Pérez,4,4,5,2,Pesima,Sí,3,Insatisfecho
+1745193600,Consulta,33,135,4543,Dr. Pérez,1,2,1,3,Mala,Sí,5,Insatisfecho
+1740182400,Desparasitación,37,37,205,Dr. Pérez,3,1,1,4,Buena,No,3,Insatisfecho
+1753747200,Vacunación,48,162,753,Dr. Pérez,2,2,1,1,Mala,Sí,5,Insatisfecho
+1767830400,Consulta,21,12,4222,Dr. Pérez,3,1,5,1,Regular,Sí,1,Insatisfecho
+1787788800,Cirugía,50,110,3850,Dr. Pérez,3,1,4,5,Buena,No,4,Insatisfecho
+1735344000,Consulta,21,103,3654,Dr. Pérez,1,3,2,5,Pesima,Sí,1,Insatisfecho
+1728864000,Consulta,34,163,1587,Dr. Ramírez,1,5,4,2,Pesima,Sí,2,Insatisfecho
+1761868800,Cirugía,7,28,2071,Dr. Ramírez,5,1,5,1,Pesimo,No,5,Insatisfecho
+1712793600,Vacunación,19,106,1478,Dr. Gómez,3,1,3,2,Regular,Sí,3,Insatisfecho
+1735084800,Cirugía,5,144,4008,Dr. Gómez,1,1,4,4,Regular,Sí,3,Insatisfecho
+1751500800,Cirugía,44,98,3786,Dr. Gómez,5,2,4,1,Regular,No,3,Insatisfecho
+1747872000,Cirugía,44,145,1398,Dr. Gómez,1,2,4,2,Regular,No,3,Insatisfecho
+1753056000,Desparasitación,6,12,1263,Dr. Gómez,3,3,4,2,Regular,Sí,3,Insatisfecho
+1719705600,Cirugía,9,150,2060,Dr. Gómez,2,3,1,5,Regular,Sí,1,Insatisfecho
+1772668800,Consulta,25,11,3261,Dr. Gómez,5,1,4,3,Regular,Sí,4,Insatisfecho
+1743638400,Cirugía,6,117,473,Dr. Ramírez,1,4,2,2,Mala,No,5,Insatisfecho
+1739923200,Consulta,37,154,4628,Dr. Pérez,2,1,5,2,Pesima,Sí,1,Insatisfecho
+1734825600,Vacunación,44,44,1831,Dr. Pérez,5,2,3,4,Mala,No,2,Insatisfecho
+1751846400,Desparasitación,13,152,4407,Dr. Pérez,5,2,4,3,Buena,Sí,1,Insatisfecho
+1760572800,Vacunación,32,24,2048,Dr. Gómez,2,4,4,5,Buena,No,4,Insatisfecho
+1762732800,Vacunación,18,117,2120,Dr. Ramírez,4,2,5,3,Regular,Sí,5,Insatisfecho
+1771545600,Cirugía,35,93,1357,Dr. Pérez,5,1,3,1,Pesimo,No,1,Insatisfecho
+1740268800,Vacunación,29,75,1120,Dr. Ramírez,1,5,5,2,Pesimo,No,3,Insatisfecho
+1727827200,Desparasitación,49,101,622,Dr. Pérez,1,4,4,1,Pesima,No,4,Insatisfecho
+1785024000,Consulta,30,91,1085,Dr. Pérez,4,1,3,4,Buena,No,2,Insatisfecho
+1728172800,Vacunación,57,169,4674,Dr. Gómez,5,3,2,2,Pesimo,Sí,5,Insatisfecho
+1750118400,Consulta,26,77,4277,Dr. Gómez,3,2,5,4,Mala,Sí,2,Insatisfecho
+1736812800,Consulta,13,88,3597,Dr. Pérez,5,3,5,1,Pesimo,No,4,Insatisfecho
+1763683200,Vacunación,35,87,3317,Dr. Ramírez,3,1,5,3,Pesima,Sí,3,Insatisfecho
+1786492800,Cirugía,48,38,2674,Dr. Ramírez,2,2,4,1,Buena,No,5,Insatisfecho
+1731283200,Desparasitación,55,120,4592,Dr. Gómez,5,3,3,5,Pesimo,Sí,5,Insatisfecho
+1740960000,Desparasitación,44,40,1652,Dr. Ramírez,5,4,2,1,Pesimo,No,3,Insatisfecho
+1775779200,Consulta,56,34,2608,Dr. Pérez,4,4,5,4,Buena,Sí,1,Insatisfecho
+1713139200,Vacunación,6,178,2209,Dr. Pérez,5,4,1,1,Pesima,No,1,Insatisfecho
+1724716800,Desparasitación,14,93,890,Dr. Ramírez,2,3,5,5,Pesimo,No,2,Insatisfecho
+1761264000,Consulta,7,58,2374,Dr. Ramírez,2,2,2,4,Regular,Sí,5,Insatisfecho
+1724630400,Cirugía,32,135,631,Dr. Gómez,4,4,1,4,Buena,Sí,3,Insatisfecho
+1785888000,Desparasitación,29,129,2391,Dr. Ramírez,4,5,4,1,Regular,No,1,Insatisfecho
+1712188800,Vacunación,9,100,1334,Dr. Pérez,1,3,3,4,Buena,Sí,5,Insatisfecho
+1753920000,Vacunación,58,142,2479,Dr. Pérez,1,4,2,4,Pesimo,No,4,Insatisfecho
+1754697600,Vacunación,53,117,3162,Dr. Gómez,5,4,2,2,Mala,No,2,Insatisfecho
+1732406400,Desparasitación,8,115,2601,Dr. Ramírez,3,1,4,1,Regular,Sí,3,Insatisfecho
+1774224000,Consulta,53,44,2504,Dr. Gómez,4,2,2,4,Buena,Sí,5,Insatisfecho
+1758240000,Vacunación,55,117,4056,Dr. Ramírez,1,4,5,2,Buena,Sí,5,Insatisfecho
+1763769600,Vacunación,59,86,1641,Dr. Gómez,2,5,2,2,Pesima,No,2,Insatisfecho
+1776297600,Cirugía,13,23,2540,Dr. Gómez,5,3,2,1,Regular,Sí,3,Insatisfecho
+1762819200,Desparasitación,36,170,409,Dr. Pérez,4,2,2,1,Pesima,Sí,4,Insatisfecho
+1750291200,Vacunación,27,134,1528,Dr. Ramírez,5,5,5,5,Regular,Sí,1,Insatisfecho
+1725667200,Vacunación,29,30,3776,Dr. Pérez,1,5,2,2,Buena,No,1,Insatisfecho
+1706400000,Vacunación,58,83,1361,Dr. Pérez,5,4,4,4,Buena,No,5,Insatisfecho
+1788998400,Consulta,24,168,2907,Dr. Gómez,2,1,5,4,Regular,No,4,Insatisfecho
+1779408000,Vacunación,20,14,1622,Dr. Ramírez,1,2,2,4,Mala,Sí,3,Insatisfecho
+1715558400,Consulta,14,22,4333,Dr. Gómez,1,3,2,2,Pesima,Sí,4,Insatisfecho
+1749254400,Cirugía,53,99,576,Dr. Gómez,4,2,4,4,Pesimo,Sí,3,Insatisfecho
+1726531200,Consulta,26,42,1803,Dr. Pérez,5,5,3,2,Pesimo,Sí,4,Insatisfecho
+1732320000,Cirugía,58,50,4924,Dr. Pérez,4,3,4,2,Pesima,Sí,4,Insatisfecho
+1778371200,Desparasitación,38,87,4164,Dr. Ramírez,2,2,1,2,Buena,Sí,4,Insatisfecho
+1754092800,Vacunación,29,46,4962,Dr. Ramírez,1,2,4,5,Buena,Sí,4,Insatisfecho
+1743984000,Vacunación,37,139,4807,Dr. Pérez,2,2,3,1,Pesima,Sí,1,Insatisfecho
+1776729600,Desparasitación,13,134,1187,Dr. Ramírez,2,5,2,4,Pesima,No,4,Insatisfecho
+1739491200,Cirugía,44,120,980,Dr. Pérez,1,2,5,1,Pesimo,No,3,Insatisfecho
+1786665600,Desparasitación,59,19,4573,Dr. Gómez,4,2,4,2,Pesima,Sí,5,Insatisfecho
+1759968000,Consulta,14,128,3471,Dr. Pérez,3,2,1,4,Buena,Sí,5,Insatisfecho
+1780012800,Consulta,27,168,3248,Dr. Ramírez,2,1,2,3,Pesimo,Sí,4,Insatisfecho
+1742860800,Vacunación,33,174,191,Dr. Pérez,2,4,5,1,Buena,Sí,2,Insatisfecho
+1789171200,Vacunación,5,148,2637,Dr. Ramírez,5,2,5,1,Regular,Sí,3,Insatisfecho
+1735516800,Cirugía,15,33,4414,Dr. Ramírez,2,2,2,1,Pesimo,Sí,3,Insatisfecho
+1731369600,Cirugía,6,136,2163,Dr. Ramírez,1,1,3,2,Buena,Sí,4,Insatisfecho
+1707523200,Cirugía,17,29,4133,Dr. Ramírez,1,4,4,2,Buena,No,3,Insatisfecho
+1763510400,Cirugía,25,20,3030,Dr. Gómez,4,2,3,2,Pesima,No,3,Insatisfecho
+1752796800,Desparasitación,30,119,4846,Dr. Pérez,4,4,4,1,Pesima,Sí,3,Insatisfecho
+1730937600,Cirugía,58,101,831,Dr. Ramírez,1,4,1,3,Pesimo,No,3,Insatisfecho
+1739318400,Desparasitación,12,69,1724,Dr. Ramírez,5,3,4,1,Buena,No,4,Insatisfecho
+1716076800,Consulta,9,107,3342,Dr. Gómez,2,1,5,1,Mala,Sí,3,Insatisfecho
+1788912000,Desparasitación,43,67,1366,Dr. Ramírez,4,1,4,3,Mala,No,3,Insatisfecho
+1716854400,Consulta,15,69,643,Dr. Pérez,4,3,4,2,Pesimo,Sí,5,Insatisfecho
+1738713600,Desparasitación,8,11,2643,Dr. Ramírez,4,1,1,3,Buena,Sí,4,Insatisfecho
+1706054400,Desparasitación,49,72,2471,Dr. Pérez,5,1,1,1,Pesima,No,3,Insatisfecho
+1728345600,Desparasitación,25,11,1567,Dr. Gómez,1,4,5,4,Pesima,Sí,1,Insatisfecho
+1756166400,Vacunación,32,28,3361,Dr. Gómez,5,3,5,1,Regular,Sí,2,Insatisfecho
+1720137600,Vacunación,38,166,124,Dr. Ramírez,2,2,4,2,Mala,Sí,2,Insatisfecho
+1710806400,Cirugía,36,155,2375,Dr. Ramírez,4,3,1,1,Mala,Sí,5,Insatisfecho
+1783814400,Cirugía,46,142,1606,Dr. Pérez,2,5,2,1,Pesimo,Sí,1,Insatisfecho
+1744502400,Consulta,40,128,2381,Dr. Ramírez,2,1,4,3,Pesimo,No,2,Insatisfecho
+1737590400,Consulta,12,140,1204,Dr. Ramírez,3,4,3,5,Regular,Sí,5,Insatisfecho
+1763164800,Consulta,8,46,4050,Dr. Ramírez,2,2,2,5,Mala,Sí,2,Insatisfecho
+1790380800,Cirugía,57,121,3287,Dr. Pérez,3,3,3,1,Buena,No,2,Insatisfecho
+1773100800,Cirugía,47,64,525,Dr. Ramírez,5,1,4,1,Buena,No,1,Insatisfecho
+1786406400,Desparasitación,46,57,4778,Dr. Ramírez,2,4,1,2,Pesimo,Sí,4,Insatisfecho
+1721174400,Consulta,47,56,2660,Dr. Gómez,5,1,1,2,Buena,Sí,2,Insatisfecho
+1741996800,Cirugía,56,142,4990,Dr. Gómez,4,5,1,3,Mala,No,5,Insatisfecho
+1715990400,Cirugía,28,113,2613,Dr. Pérez,3,2,2,1,Pesimo,Sí,4,Insatisfecho
+1720483200,Cirugía,49,139,549,Dr. Pérez,4,2,4,2,Regular,No,3,Insatisfecho
+1774915200,Cirugía,28,82,3852,Dr. Pérez,4,2,3,2,Pesimo,Sí,5,Insatisfecho
+1711411200,Cirugía,38,54,752,Dr. Ramírez,4,3,2,1,Regular,No,3,Insatisfecho
+1734480000,Consulta,14,114,3740,Dr. Gómez,2,3,4,4,Buena,No,1,Insatisfecho
+1759190400,Vacunación,8,127,3239,Dr. Pérez,3,5,5,4,Buena,Sí,2,Insatisfecho
+1744588800,Desparasitación,49,44,2270,Dr. Ramírez,2,1,5,4,Mala,No,1,Insatisfecho
+1713225600,Vacunación,15,22,2597,Dr. Gómez,3,3,2,2,Buena,No,2,Insatisfecho
+1773273600,Vacunación,55,172,1257,Dr. Gómez,5,1,1,3,Pesima,No,5,Insatisfecho
+1781308800,Desparasitación,51,112,959,Dr. Gómez,2,2,4,3,Regular,Sí,4,Insatisfecho
+1710028800,Vacunación,50,49,4915,Dr. Ramírez,2,3,5,1,Buena,Sí,1,Insatisfecho
+1724112000,Desparasitación,39,140,955,Dr. Pérez,2,2,5,3,Buena,Sí,4,Insatisfecho
+1782172800,Cirugía,11,175,4307,Dr. Ramírez,5,3,1,4,Regular,No,3,Algo satisfecho
+1779580800,Vacunación,23,19,4286,Dr. Ramírez,3,2,1,2,Buena,Sí,3,Algo satisfecho
+1713052800,Vacunación,18,57,3187,Dr. Ramírez,3,4,4,3,Pesima,Sí,3,Algo satisfecho
+1772150400,Desparasitación,57,45,3212,Dr. Gómez,2,1,5,1,Mala,No,3,Algo satisfecho
+1748131200,Consulta,37,85,2036,Dr. Gómez,2,4,2,3,Buena,No,2,Algo satisfecho
+1706227200,Vacunación,59,126,1766,Dr. Gómez,1,2,2,1,Pesimo,Sí,2,Algo satisfecho
+1725321600,Consulta,29,81,3191,Dr. Ramírez,5,4,1,5,Mala,Sí,2,Algo satisfecho
+1734048000,Desparasitación,10,155,3026,Dr. Pérez,4,2,1,5,Pesima,No,2,Algo satisfecho
+1758758400,Consulta,53,65,1916,Dr. Gómez,2,5,1,2,Regular,No,2,Algo satisfecho
+1731974400,Vacunación,48,163,4919,Dr. Ramírez,3,4,5,5,Buena,No,2,Algo satisfecho
+1781395200,Desparasitación,36,49,237,Dr. Pérez,3,5,4,3,Pesimo,No,5,Algo satisfecho
+1777939200,Consulta,48,137,3785,Dr. Gómez,2,5,3,4,Pesima,No,3,Algo satisfecho
+1753660800,Cirugía,47,163,2018,Dr. Pérez,5,3,1,4,Mala,No,4,Algo satisfecho
+1741651200,Desparasitación,11,85,4696,Dr. Gómez,5,1,2,3,Mala,Sí,1,Algo satisfecho
+1746316800,Consulta,47,133,2431,Dr. Ramírez,3,4,2,3,Pesima,Sí,5,Algo satisfecho
+1746057600,Cirugía,40,54,4966,Dr. Pérez,4,1,1,4,Pesimo,Sí,2,Algo satisfecho
+1755216000,Consulta,54,56,3678,Dr. Ramírez,2,3,3,2,Mala,Sí,5,Algo satisfecho
+1729036800,Desparasitación,34,112,147,Dr. Pérez,5,1,1,3,Pesima,Sí,3,Algo satisfecho
+1708128000,Cirugía,52,154,4116,Dr. Pérez,3,3,3,2,Pesimo,Sí,1,Algo satisfecho
+1729814400,Consulta,44,113,660,Dr. Pérez,1,4,3,3,Buena,Sí,4,Algo satisfecho
+1709424000,Consulta,14,132,647,Dr. Ramírez,5,2,1,5,Mala,No,3,Algo satisfecho
+1711843200,Desparasitación,16,65,1354,Dr. Gómez,5,1,1,1,Mala,No,1,Algo satisfecho
+1755820800,Vacunación,53,24,4601,Dr. Gómez,5,5,3,1,Pesima,Sí,3,Algo satisfecho
+1707955200,Desparasitación,5,91,2210,Dr. Pérez,2,3,3,3,Buena,No,4,Algo satisfecho
+1722729600,Desparasitación,28,24,2906,Dr. Gómez,5,5,2,3,Buena,Sí,4,Algo satisfecho
+1758585600,Desparasitación,58,168,2547,Dr. Pérez,4,1,3,1,Mala,Sí,5,Algo satisfecho
+1727654400,Desparasitación,30,63,4738,Dr. Pérez,4,5,4,1,Buena,No,1,Algo satisfecho
+1763078400,Desparasitación,20,159,1685,Dr. Ramírez,2,1,2,1,Mala,Sí,3,Algo satisfecho
+1731110400,Cirugía,34,93,2155,Dr. Pérez,5,3,5,2,Pesima,Sí,2,Algo satisfecho
+1735430400,Vacunación,13,168,719,Dr. Gómez,2,3,1,2,Buena,No,5,Algo satisfecho
+1709337600,Cirugía,41,76,4401,Dr. Gómez,1,3,5,4,Pesimo,Sí,1,Algo satisfecho
+1746748800,Consulta,14,17,4058,Dr. Ramírez,1,1,2,3,Regular,No,2,Algo satisfecho
+1738108800,Cirugía,39,35,3398,Dr. Gómez,5,1,4,1,Buena,Sí,3,Algo satisfecho
+1728000000,Vacunación,41,170,3719,Dr. Gómez,1,5,3,5,Regular,Sí,4,Algo satisfecho
+1771977600,Cirugía,16,47,3780,Dr. Pérez,4,3,2,1,Mala,No,5,Algo satisfecho
+1790035200,Consulta,41,73,446,Dr. Ramírez,3,2,1,2,Regular,No,3,Algo satisfecho
+1760400000,Cirugía,27,35,2332,Dr. Gómez,4,2,2,3,Regular,Sí,5,Algo satisfecho
+1722124800,Consulta,51,171,4783,Dr. Ramírez,1,2,5,3,Regular,Sí,2,Algo satisfecho
+1743120000,Vacunación,41,129,889,Dr. Gómez,4,3,5,5,Regular,No,2,Algo satisfecho
+1723334400,Desparasitación,7,17,4763,Dr. Pérez,1,4,4,1,Regular,No,3,Algo satisfecho
+1738886400,Consulta,49,46,4483,Dr. Ramírez,3,1,5,5,Regular,Sí,3,Algo satisfecho
+1748476800,Vacunación,16,42,1026,Dr. Gómez,1,5,4,2,Buena,Sí,2,Algo satisfecho
+1775520000,Vacunación,24,172,414,Dr. Pérez,1,5,1,4,Mala,Sí,5,Algo satisfecho
+1778889600,Consulta,21,102,591,Dr. Gómez,3,2,2,5,Regular,Sí,3,Algo satisfecho
+1704326400,Cirugía,37,130,3889,Dr. Pérez,5,1,2,1,Pesima,No,5,Algo satisfecho
+1775606400,Cirugía,23,29,4308,Dr. Ramírez,4,1,3,2,Regular,No,1,Algo satisfecho
+1727740800,Consulta,38,95,1737,Dr. Pérez,1,3,5,5,Mala,No,4,Algo satisfecho
+1716681600,Cirugía,47,72,2633,Dr. Ramírez,3,5,1,3,Pesima,No,4,Algo satisfecho
+1787270400,Cirugía,17,154,3542,Dr. Gómez,5,2,3,5,Regular,No,1,Algo satisfecho
+1776384000,Consulta,30,74,992,Dr. Ramírez,2,2,1,2,Regular,No,3,Algo satisfecho
+1772064000,Desparasitación,49,151,2096,Dr. Ramírez,5,3,4,3,Pesimo,Sí,5,Algo satisfecho
+1746576000,Consulta,24,94,117,Dr. Gómez,2,1,1,5,Pesimo,Sí,3,Algo satisfecho
+1729123200,Consulta,35,175,3265,Dr. Pérez,1,4,1,4,Mala,No,2,Algo satisfecho
+1768521600,Cirugía,49,39,3286,Dr. Pérez,4,2,3,4,Mala,No,4,Algo satisfecho
+1709078400,Cirugía,27,107,696,Dr. Ramírez,3,4,5,4,Pesima,Sí,2,Algo satisfecho
+1705449600,Desparasitación,9,162,4264,Dr. Gómez,3,2,5,2,Buena,No,3,Algo satisfecho
+1751328000,Desparasitación,59,97,4055,Dr. Ramírez,2,1,5,1,Buena,No,4,Algo satisfecho
+1760918400,Desparasitación,33,134,1200,Dr. Gómez,5,2,3,2,Mala,No,4,Algo satisfecho
+1747785600,Desparasitación,17,35,710,Dr. Ramírez,1,2,1,4,Regular,Sí,5,Algo satisfecho
+1716249600,Consulta,10,118,3636,Dr. Gómez,5,1,1,4,Regular,Sí,4,Algo satisfecho
+1787529600,Consulta,36,78,1998,Dr. Ramírez,2,3,4,4,Regular,Sí,5,Algo satisfecho
+1711324800,Cirugía,30,49,564,Dr. Pérez,5,3,4,4,Buena,No,4,Algo satisfecho
+1748044800,Vacunación,29,122,3990,Dr. Ramírez,3,5,5,5,Regular,Sí,4,Algo satisfecho
+1771459200,Consulta,31,158,2617,Dr. Ramírez,5,2,1,3,Regular,Sí,3,Algo satisfecho
+1784332800,Consulta,39,148,1637,Dr. Pérez,2,1,5,1,Buena,Sí,3,Algo satisfecho
+1743292800,Consulta,59,65,3967,Dr. Ramírez,5,4,1,5,Buena,No,2,Algo satisfecho
+1704499200,Desparasitación,24,149,2426,Dr. Ramírez,4,5,2,3,Pesima,No,3,Algo satisfecho
+1738368000,Vacunación,9,96,239,Dr. Pérez,1,3,2,1,Mala,No,3,Algo satisfecho
+1768003200,Cirugía,55,79,1986,Dr. Ramírez,3,3,2,1,Buena,Sí,5,Algo satisfecho
+1733961600,Cirugía,37,91,4185,Dr. Ramírez,2,5,2,2,Buena,Sí,3,Algo satisfecho
+1730160000,Cirugía,35,18,2658,Dr. Pérez,4,1,4,1,Pesima,No,1,Algo satisfecho
+1717027200,Cirugía,51,46,4205,Dr. Gómez,3,1,3,3,Pesima,Sí,2,Algo satisfecho
+1749427200,Cirugía,35,82,4804,Dr. Pérez,5,4,5,1,Pesima,No,4,Algo satisfecho
+1777161600,Vacunación,47,150,3956,Dr. Gómez,4,4,5,2,Buena,Sí,2,Algo satisfecho
+1782777600,Consulta,52,23,1288,Dr. Pérez,2,1,1,2,Regular,Sí,1,Algo satisfecho
+1780358400,Desparasitación,10,108,2291,Dr. Ramírez,4,3,3,1,Pesima,No,4,Algo satisfecho
+1719187200,Vacunación,32,169,1886,Dr. Pérez,2,1,2,1,Pesimo,No,2,Algo satisfecho
+1750204800,Cirugía,15,107,1896,Dr. Pérez,2,4,1,2,Pesima,No,1,Algo satisfecho
+1736035200,Desparasitación,34,29,296,Dr. Ramírez,5,1,4,4,Pesimo,No,2,Algo satisfecho
+1748822400,Desparasitación,8,151,3186,Dr. Pérez,1,5,3,3,Regular,Sí,3,Algo satisfecho
+1785801600,Consulta,26,26,3847,Dr. Pérez,4,1,4,5,Pesimo,No,1,Algo satisfecho
+1758499200,Consulta,6,150,251,Dr. Ramírez,4,3,3,2,Buena,Sí,5,Algo satisfecho
+1782518400,Cirugía,11,16,2605,Dr. Pérez,1,1,5,5,Regular,Sí,4,Algo satisfecho
+1765238400,Desparasitación,51,77,3809,Dr. Ramírez,3,1,1,1,Regular,No,3,Algo satisfecho
+1747440000,Consulta,50,128,828,Dr. Gómez,2,4,5,3,Pesimo,No,5,Algo satisfecho
+1723852800,Consulta,49,33,3341,Dr. Pérez,4,2,4,4,Pesima,Sí,3,Algo satisfecho
+1785283200,Desparasitación,48,51,4995,Dr. Ramírez,2,4,1,4,Regular,Sí,3,Algo satisfecho
+1757894400,Vacunación,23,98,3858,Dr. Gómez,3,2,1,4,Regular,No,5,Algo satisfecho
+1707868800,Desparasitación,39,172,735,Dr. Gómez,4,3,3,3,Regular,Sí,2,Algo satisfecho
+1724198400,Desparasitación,55,157,3521,Dr. Gómez,5,1,5,1,Regular,Sí,5,Algo satisfecho
+1782086400,Cirugía,26,133,2472,Dr. Pérez,1,5,5,2,Mala,Sí,4,Algo satisfecho
+1774137600,Cirugía,40,91,3538,Dr. Pérez,5,4,4,2,Buena,No,5,Algo satisfecho
+1749168000,Vacunación,46,114,3709,Dr. Pérez,2,5,1,5,Mala,No,3,Algo satisfecho
+1719878400,Cirugía,16,24,1783,Dr. Ramírez,5,4,2,2,Regular,Sí,4,Algo satisfecho
+1727395200,Vacunación,41,55,647,Dr. Gómez,2,3,1,3,Pesima,No,3,Algo satisfecho
+1746835200,Cirugía,44,166,3248,Dr. Ramírez,3,5,5,2,Pesimo,No,3,Algo satisfecho
+1707091200,Consulta,30,14,4090,Dr. Gómez,2,3,4,2,Pesimo,Sí,4,Algo satisfecho
+1714435200,Desparasitación,56,179,1174,Dr. Ramírez,3,3,2,1,Mala,Sí,2,Algo satisfecho
+1752624000,Cirugía,56,20,191,Dr. Pérez,4,3,4,4,Buena,No,5,Algo satisfecho
+1764115200,Desparasitación,14,44,3269,Dr. Ramírez,4,1,2,1,Regular,Sí,4,Algo satisfecho
+1749772800,Vacunación,33,22,1623,Dr. Gómez,1,2,5,3,Mala,Sí,2,Algo satisfecho
+1788307200,Vacunación,48,118,3657,Dr. Ramírez,4,2,2,2,Buena,Sí,4,Algo satisfecho
+1712102400,Vacunación,48,49,3777,Dr. Pérez,3,4,5,1,Regular,Sí,2,Algo satisfecho
+1722988800,Cirugía,30,69,1669,Dr. Gómez,3,1,4,3,Mala,Sí,4,Algo satisfecho
+1788480000,Desparasitación,48,161,3573,Dr. Ramírez,5,4,1,3,Buena,No,5,Algo satisfecho
+1762300800,Desparasitación,12,155,1873,Dr. Pérez,3,5,1,4,Regular,Sí,1,Algo satisfecho
+1773878400,Vacunación,15,58,4727,Dr. Pérez,4,2,5,3,Buena,No,5,Algo satisfecho
+1709596800,Cirugía,23,146,4380,Dr. Gómez,5,5,5,2,Buena,No,4,Algo satisfecho
+1773187200,Consulta,5,15,1026,Dr. Pérez,2,3,5,3,Pesima,No,2,Algo satisfecho
+1765756800,Desparasitación,7,45,1950,Dr. Gómez,1,4,2,4,Mala,Sí,5,Algo satisfecho
+1718668800,Vacunación,54,38,1186,Dr. Ramírez,4,4,2,2,Pesimo,No,5,Algo satisfecho
+1777334400,Cirugía,46,145,3003,Dr. Gómez,2,3,5,2,Mala,No,2,Algo satisfecho
+1790121600,Consulta,29,147,2128,Dr. Gómez,5,1,3,2,Pesima,No,2,Algo satisfecho
+1741132800,Desparasitación,55,19,4678,Dr. Pérez,1,4,5,2,Buena,Sí,1,Algo satisfecho
+1722470400,Cirugía,32,33,3434,Dr. Gómez,5,4,2,1,Buena,Sí,5,Algo satisfecho
+1737763200,Cirugía,45,49,4621,Dr. Pérez,1,2,4,1,Pesimo,No,2,Algo satisfecho
+1721001600,Vacunación,51,101,3970,Dr. Ramírez,5,5,2,5,Regular,Sí,1,Algo satisfecho
+1705190400,Cirugía,10,20,2266,Dr. Gómez,1,3,2,5,Pesimo,Sí,2,Algo satisfecho
+1733875200,Cirugía,7,53,1948,Dr. Pérez,5,2,4,5,Pesimo,Sí,2,Algo satisfecho
+1733270400,Desparasitación,18,64,3575,Dr. Pérez,1,5,2,3,Regular,No,1,Algo satisfecho
+1789603200,Vacunación,18,14,276,Dr. Gómez,1,1,1,1,Pesimo,Sí,4,Algo satisfecho
+1743724800,Cirugía,14,157,4415,Dr. Pérez,4,3,5,3,Mala,No,3,Algo satisfecho
+1773705600,Desparasitación,33,110,4811,Dr. Ramírez,4,3,2,1,Pesima,No,1,Algo satisfecho
+1736467200,Desparasitación,54,173,3914,Dr. Ramírez,5,5,5,5,Pesimo,No,5,Algo satisfecho
+1757980800,Consulta,22,103,381,Dr. Pérez,3,5,3,3,Pesima,Sí,3,Algo satisfecho
+1777507200,Cirugía,43,34,4271,Dr. Pérez,1,5,5,3,Pesimo,Sí,4,Algo satisfecho
+1788652800,Vacunación,14,142,4938,Dr. Pérez,4,5,2,5,Pesima,No,1,Algo satisfecho
+1769644800,Cirugía,27,64,3039,Dr. Ramírez,1,3,3,5,Buena,Sí,4,Algo satisfecho
+1731542400,Cirugía,15,93,2041,Dr. Ramírez,2,5,2,4,Buena,No,2,Algo satisfecho
+1760227200,Cirugía,38,30,4413,Dr. Gómez,5,5,5,1,Regular,Sí,2,Algo satisfecho
+1733788800,Cirugía,47,60,332,Dr. Pérez,1,2,1,4,Regular,Sí,2,Algo satisfecho
+1757548800,Cirugía,33,11,643,Dr. Gómez,1,4,4,2,Pesimo,No,4,Algo satisfecho
+1783900800,Consulta,43,74,3908,Dr. Ramírez,4,5,3,1,Mala,No,4,Algo satisfecho
+1710892800,Desparasitación,38,46,3804,Dr. Pérez,1,4,1,5,Mala,Sí,4,Algo satisfecho
+1758931200,Vacunación,34,51,959,Dr. Gómez,5,4,3,5,Mala,Sí,4,Algo satisfecho
+1708819200,Desparasitación,42,77,3518,Dr. Ramírez,2,5,2,1,Mala,Sí,5,Algo satisfecho
+1766707200,Consulta,57,58,1891,Dr. Gómez,2,4,1,5,Pesimo,No,4,Algo satisfecho
+1754352000,Desparasitación,10,52,1862,Dr. Gómez,1,5,4,2,Pesimo,No,5,Algo satisfecho
+1747267200,Cirugía,51,43,1743,Dr. Ramírez,2,3,4,4,Buena,Sí,3,Algo satisfecho
+1711584000,Consulta,58,102,2116,Dr. Ramírez,1,3,2,5,Buena,Sí,3,Algo satisfecho
+1757635200,Desparasitación,34,86,1824,Dr. Pérez,1,1,3,2,Pesima,No,1,Algo satisfecho
+1781222400,Consulta,30,13,3705,Dr. Pérez,3,4,5,4,Pesima,Sí,5,Algo satisfecho
+1780790400,Desparasitación,16,16,463,Dr. Pérez,3,1,2,2,Regular,No,5,Algo satisfecho
+1757116800,Vacunación,36,153,4083,Dr. Pérez,4,3,5,1,Buena,Sí,1,Algo satisfecho
+1713830400,Vacunación,38,175,2306,Dr. Gómez,3,2,5,5,Buena,No,5,Algo satisfecho
+1769212800,Vacunación,8,56,1427,Dr. Pérez,2,3,5,4,Pesimo,Sí,5,Algo satisfecho
+1783209600,Vacunación,22,158,3751,Dr. Ramírez,2,4,3,4,Pesima,Sí,2,Algo satisfecho
+1748908800,Vacunación,9,62,392,Dr. Ramírez,4,3,1,4,Buena,No,5,Algo satisfecho
+1786838400,Vacunación,46,30,2238,Dr. Pérez,4,4,1,3,Pesima,Sí,3,Algo satisfecho
+1714089600,Consulta,19,54,2684,Dr. Pérez,3,1,5,2,Regular,Sí,3,Algo satisfecho
+1782345600,Vacunación,19,125,1547,Dr. Pérez,4,1,3,1,Regular,No,1,Algo satisfecho
+1756684800,Desparasitación,17,36,3791,Dr. Gómez,1,1,3,2,Pesima,Sí,2,Algo satisfecho
+1714176000,Vacunación,31,67,4033,Dr. Gómez,3,2,2,1,Mala,No,5,Algo satisfecho
+1745366400,Consulta,8,38,983,Dr. Ramírez,5,5,5,2,Pesima,No,4,Algo satisfecho
+1723161600,Cirugía,55,102,1481,Dr. Ramírez,5,5,5,2,Pesimo,Sí,2,Algo satisfecho
+1753574400,Vacunación,21,126,3878,Dr. Gómez,2,1,1,4,Buena,No,5,Algo satisfecho
+1707350400,Consulta,31,18,3747,Dr. Gómez,3,4,4,4,Buena,No,3,Algo satisfecho
+1784246400,Vacunación,28,173,1639,Dr. Pérez,1,5,3,4,Buena,Sí,5,Algo satisfecho
+1727222400,Cirugía,46,85,4774,Dr. Ramírez,4,3,2,1,Regular,Sí,4,Algo satisfecho
+1726876800,Cirugía,44,20,4998,Dr. Ramírez,4,2,2,5,Pesima,No,1,Algo satisfecho
+1759017600,Consulta,42,45,4355,Dr. Pérez,5,3,4,2,Pesima,Sí,3,Algo satisfecho
+1726099200,Cirugía,49,104,4009,Dr. Ramírez,2,1,5,1,Pesimo,No,4,Algo satisfecho
+1738195200,Desparasitación,25,17,3881,Dr. Ramírez,4,3,3,1,Mala,No,3,Algo satisfecho
+1759708800,Desparasitación,7,56,3635,Dr. Ramírez,2,2,1,4,Buena,No,5,Algo satisfecho
+1730419200,Consulta,24,112,4677,Dr. Ramírez,2,4,1,4,Regular,Sí,4,Algo satisfecho
+1717632000,Vacunación,20,159,591,Dr. Gómez,1,1,1,3,Mala,Sí,3,Algo satisfecho
+1755993600,Desparasitación,58,30,1182,Dr. Ramírez,5,2,4,2,Pesima,No,3,Algo satisfecho
+1757721600,Vacunación,20,141,2509,Dr. Pérez,5,3,5,4,Mala,No,1,Algo satisfecho
+1712275200,Vacunación,34,42,564,Dr. Pérez,5,3,2,4,Pesima,No,3,Algo satisfecho
+1721347200,Cirugía,21,93,1499,Dr. Gómez,2,2,2,3,Pesima,Sí,5,Algo satisfecho
+1707436800,Cirugía,53,108,2887,Dr. Gómez,3,5,2,2,Mala,Sí,1,Algo satisfecho
+1737417600,Cirugía,26,134,2554,Dr. Pérez,5,4,4,2,Buena,Sí,5,Algo satisfecho
+1764806400,Desparasitación,40,176,4962,Dr. Gómez,4,3,3,5,Regular,No,3,Algo satisfecho
+1750809600,Vacunación,50,150,2057,Dr. Ramírez,1,2,2,3,Buena,No,3,Algo satisfecho
+1757030400,Vacunación,23,145,1925,Dr. Pérez,2,3,1,4,Mala,Sí,3,Algo satisfecho
+1762905600,Consulta,50,128,2091,Dr. Pérez,5,1,3,3,Mala,No,1,Algo satisfecho
+1730764800,Vacunación,19,17,1799,Dr. Ramírez,5,2,5,2,Buena,No,1,Algo satisfecho
+1770681600,Consulta,41,124,2236,Dr. Gómez,3,4,4,1,Regular,No,1,Algo satisfecho
+1757376000,Desparasitación,53,167,2736,Dr. Ramírez,2,1,2,3,Pesima,Sí,4,Algo satisfecho
+1715385600,Consulta,33,21,2502,Dr. Pérez,2,3,4,5,Buena,Sí,5,Algo satisfecho
+1752451200,Desparasitación,45,44,1694,Dr. Gómez,3,3,2,5,Pesima,Sí,1,Algo satisfecho
+1748995200,Desparasitación,41,57,1497,Dr. Pérez,5,3,1,4,Mala,Sí,5,Algo satisfecho
+1738454400,Desparasitación,23,51,1030,Dr. Gómez,4,5,5,2,Buena,No,3,Algo satisfecho
+1709769600,Desparasitación,25,85,2631,Dr. Gómez,5,1,1,5,Buena,Sí,3,Algo satisfecho
+1753315200,Vacunación,31,81,4549,Dr. Pérez,4,4,4,3,Buena,Sí,5,Algo satisfecho
+1706572800,Desparasitación,22,66,572,Dr. Pérez,4,3,3,1,Pesima,Sí,1,Algo satisfecho
+1780531200,Consulta,29,82,3656,Dr. Gómez,2,1,2,4,Buena,No,4,Algo satisfecho
+1732838400,Cirugía,53,150,2261,Dr. Pérez,3,1,2,1,Buena,Sí,3,Algo satisfecho
+1736121600,Desparasitación,35,161,3761,Dr. Gómez,5,3,2,3,Regular,Sí,1,Algo satisfecho
+1767312000,Consulta,21,17,2222,Dr. Pérez,1,5,3,1,Buena,No,3,Satisfecho
+1775865600,Consulta,47,34,1913,Dr. Pérez,2,1,5,4,Buena,No,3,Satisfecho
+1770595200,Consulta,21,101,1184,Dr. Gómez,3,1,3,4,Regular,Sí,4,Satisfecho
+1711065600,Desparasitación,35,37,1774,Dr. Ramírez,5,2,3,2,Buena,Sí,3,Satisfecho
+1779235200,Consulta,51,160,3413,Dr. Gómez,2,5,3,1,Pesima,No,1,Satisfecho
+1716595200,Cirugía,47,83,2863,Dr. Pérez,3,1,4,3,Pesimo,Sí,5,Satisfecho
+1749081600,Cirugía,12,78,2429,Dr. Ramírez,2,5,4,3,Pesima,Sí,5,Satisfecho
+1730592000,Vacunación,15,50,1141,Dr. Pérez,3,1,2,3,Regular,Sí,2,Satisfecho
+1750032000,Consulta,45,168,4324,Dr. Gómez,4,4,1,4,Buena,Sí,1,Satisfecho
+1746921600,Cirugía,42,105,4840,Dr. Ramírez,4,1,3,4,Pesima,No,1,Satisfecho
+1766188800,Desparasitación,9,145,3700,Dr. Ramírez,3,3,3,2,Pesima,Sí,2,Satisfecho
+1776643200,Cirugía,13,63,2817,Dr. Pérez,4,2,2,3,Buena,No,5,Satisfecho
+1765324800,Desparasitación,9,111,3749,Dr. Ramírez,1,2,5,1,Pesimo,Sí,1,Satisfecho
+1771372800,Cirugía,25,39,1048,Dr. Ramírez,4,2,1,4,Pesima,Sí,2,Satisfecho
+1781568000,Desparasitación,20,110,3806,Dr. Pérez,2,4,1,1,Buena,Sí,3,Satisfecho
+1734652800,Desparasitación,6,140,2357,Dr. Gómez,4,3,1,1,Regular,No,3,Satisfecho
+1767398400,Desparasitación,14,59,173,Dr. Pérez,1,1,5,3,Regular,Sí,4,Satisfecho
+1725148800,Cirugía,30,139,739,Dr. Pérez,2,5,4,2,Buena,No,3,Satisfecho
+1771286400,Desparasitación,26,130,4310,Dr. Gómez,1,1,4,4,Mala,Sí,1,Satisfecho
+1755907200,Consulta,24,77,3054,Dr. Ramírez,3,3,2,1,Buena,No,3,Satisfecho
+1766793600,Cirugía,48,69,2359,Dr. Ramírez,5,2,3,1,Pesima,Sí,3,Satisfecho
+1745020800,Cirugía,12,29,4932,Dr. Gómez,4,4,5,1,Pesima,Sí,4,Satisfecho
+1745971200,Vacunación,55,135,3497,Dr. Ramírez,2,2,4,1,Mala,No,5,Satisfecho
+1780185600,Vacunación,58,92,3797,Dr. Gómez,2,3,1,4,Regular,No,4,Satisfecho
+1728950400,Consulta,15,159,3187,Dr. Pérez,2,3,5,4,Pesima,Sí,2,Satisfecho
+1729296000,Consulta,59,99,4782,Dr. Pérez,4,5,3,2,Pesimo,Sí,2,Satisfecho
+1755043200,Consulta,30,116,2224,Dr. Ramírez,1,1,4,2,Regular,No,2,Satisfecho
+1770854400,Desparasitación,42,127,3885,Dr. Pérez,4,5,2,1,Pesimo,No,2,Satisfecho
+1745280000,Desparasitación,51,59,1193,Dr. Ramírez,4,1,1,4,Pesima,Sí,4,Satisfecho
+1724457600,Vacunación,59,162,1691,Dr. Pérez,2,2,4,1,Pesima,Sí,4,Satisfecho
+1789084800,Desparasitación,9,119,1174,Dr. Gómez,5,1,2,2,Pesimo,No,2,Satisfecho
+1717545600,Cirugía,58,21,1182,Dr. Pérez,4,4,2,1,Pesimo,Sí,5,Satisfecho
+1758153600,Consulta,18,104,2752,Dr. Pérez,3,2,3,5,Pesima,No,4,Satisfecho
+1777593600,Vacunación,39,88,326,Dr. Gómez,5,5,1,2,Mala,Sí,5,Satisfecho
+1726012800,Consulta,45,119,2589,Dr. Gómez,4,3,5,2,Regular,Sí,3,Satisfecho
+1767744000,Consulta,36,67,846,Dr. Gómez,2,2,4,1,Regular,No,3,Satisfecho
+1761091200,Desparasitación,5,81,1481,Dr. Ramírez,4,1,3,3,Regular,Sí,3,Satisfecho
+1783036800,Desparasitación,27,139,4015,Dr. Gómez,1,4,4,3,Buena,No,3,Satisfecho
+1710720000,Desparasitación,44,99,510,Dr. Gómez,1,3,2,2,Pesima,Sí,3,Satisfecho
+1745452800,Desparasitación,16,48,1510,Dr. Pérez,1,5,2,3,Mala,Sí,1,Satisfecho
+1722384000,Consulta,30,34,2889,Dr. Gómez,3,5,3,2,Mala,Sí,1,Satisfecho
+1713657600,Cirugía,42,109,2663,Dr. Pérez,3,1,4,2,Buena,Sí,4,Satisfecho
+1718582400,Cirugía,36,16,1701,Dr. Pérez,5,3,5,1,Mala,Sí,5,Satisfecho
+1768608000,Cirugía,29,125,2402,Dr. Ramírez,1,2,5,5,Mala,No,3,Satisfecho
+1704844800,Vacunación,33,48,3682,Dr. Pérez,5,1,2,4,Mala,Sí,2,Satisfecho
+1745539200,Desparasitación,49,160,2773,Dr. Ramírez,2,5,3,5,Pesimo,No,4,Satisfecho
+1727568000,Desparasitación,56,89,2386,Dr. Gómez,4,4,1,2,Buena,Sí,5,Satisfecho
+1777680000,Consulta,7,77,2049,Dr. Pérez,5,2,1,1,Pesima,Sí,1,Satisfecho
+1778198400,Vacunación,34,150,4202,Dr. Gómez,2,3,5,5,Regular,Sí,5,Satisfecho
+1735689600,Vacunación,28,46,973,Dr. Gómez,5,4,1,1,Pesimo,Sí,1,Satisfecho
+1764979200,Consulta,22,33,1879,Dr. Gómez,5,2,4,4,Regular,Sí,3,Satisfecho
+1723593600,Consulta,50,59,1293,Dr. Gómez,4,2,2,2,Buena,Sí,5,Satisfecho
+1781481600,Vacunación,14,26,4094,Dr. Gómez,1,1,1,3,Pesimo,No,5,Satisfecho
+1728691200,Cirugía,52,86,4998,Dr. Gómez,3,3,3,1,Pesima,Sí,1,Satisfecho
+1710633600,Desparasitación,53,142,4233,Dr. Pérez,4,2,2,3,Pesima,No,3,Satisfecho
+1707004800,Vacunación,25,14,2280,Dr. Gómez,4,5,2,1,Pesima,No,2,Satisfecho
+1784937600,Vacunación,44,121,1278,Dr. Pérez,3,1,2,1,Buena,No,4,Satisfecho
+1749513600,Cirugía,13,170,2123,Dr. Pérez,1,5,3,5,Mala,Sí,4,Satisfecho
+1708732800,Cirugía,9,82,2246,Dr. Ramírez,2,5,3,2,Mala,Sí,3,Satisfecho
+1735257600,Consulta,13,58,1960,Dr. Pérez,5,3,1,5,Regular,No,4,Satisfecho
+1776124800,Consulta,47,173,3985,Dr. Ramírez,4,5,4,2,Mala,No,2,Satisfecho
+1741910400,Cirugía,46,10,1837,Dr. Ramírez,3,5,1,1,Buena,No,3,Satisfecho
+1782000000,Vacunación,25,173,407,Dr. Pérez,4,1,4,1,Pesimo,Sí,2,Satisfecho
+1779667200,Cirugía,12,98,1817,Dr. Gómez,4,4,5,2,Regular,Sí,1,Satisfecho
+1771718400,Desparasitación,31,41,2710,Dr. Ramírez,4,2,3,2,Mala,No,5,Satisfecho
+1760745600,Cirugía,54,131,4719,Dr. Ramírez,3,5,3,2,Pesima,No,2,Satisfecho
+1762128000,Vacunación,32,176,3485,Dr. Pérez,4,5,5,4,Buena,No,2,Satisfecho
+1785456000,Desparasitación,19,51,1314,Dr. Gómez,2,3,1,1,Buena,Sí,4,Satisfecho
+1746144000,Desparasitación,40,61,1812,Dr. Pérez,2,4,1,3,Pesimo,Sí,5,Satisfecho
+1766102400,Desparasitación,24,82,492,Dr. Gómez,2,3,5,5,Pesima,No,5,Satisfecho
+1720742400,Cirugía,30,36,3746,Dr. Pérez,4,4,2,4,Pesima,Sí,1,Satisfecho
+1741219200,Consulta,43,127,1386,Dr. Ramírez,1,1,1,4,Buena,Sí,1,Satisfecho
+1708387200,Cirugía,32,22,2594,Dr. Gómez,2,4,5,2,Regular,Sí,3,Satisfecho
+1705363200,Consulta,55,86,427,Dr. Gómez,5,5,2,2,Pesimo,No,4,Satisfecho
+1784764800,Desparasitación,41,43,102,Dr. Pérez,2,5,1,2,Pesimo,No,1,Satisfecho
+1785542400,Consulta,53,150,1934,Dr. Pérez,5,4,5,5,Mala,Sí,1,Satisfecho
+1776816000,Consulta,44,140,2577,Dr. Pérez,5,4,5,3,Mala,Sí,5,Satisfecho
+1763251200,Vacunación,56,152,1993,Dr. Ramírez,1,2,4,1,Regular,No,2,Satisfecho
+1705017600,Cirugía,50,55,1663,Dr. Gómez,2,4,1,4,Pesimo,Sí,4,Satisfecho
+1711929600,Desparasitación,5,49,3350,Dr. Ramírez,2,4,4,2,Pesimo,No,1,Satisfecho
+1777852800,Cirugía,41,41,3802,Dr. Ramírez,5,1,1,5,Regular,No,2,Satisfecho
+1775347200,Desparasitación,40,100,2869,Dr. Ramírez,3,2,2,5,Mala,No,2,Satisfecho
+1733356800,Desparasitación,42,109,3389,Dr. Gómez,3,5,2,4,Pesimo,Sí,2,Satisfecho
+1754784000,Cirugía,33,132,4542,Dr. Gómez,1,1,4,4,Buena,No,3,Satisfecho
+1779494400,Consulta,28,171,3008,Dr. Gómez,1,2,1,2,Regular,No,1,Satisfecho
+1783641600,Cirugía,39,129,486,Dr. Pérez,2,2,3,5,Buena,Sí,1,Satisfecho
+1761177600,Cirugía,59,161,1869,Dr. Pérez,3,5,4,3,Mala,Sí,1,Satisfecho
+1781049600,Cirugía,45,106,1148,Dr. Gómez,3,2,2,2,Mala,Sí,4,Satisfecho
+1776988800,Consulta,5,143,3470,Dr. Pérez,1,2,4,1,Pesimo,No,5,Satisfecho
+1750636800,Vacunación,25,28,2951,Dr. Gómez,2,5,3,1,Pesima,Sí,4,Satisfecho
+1714521600,Consulta,42,147,747,Dr. Pérez,2,1,5,4,Pesimo,Sí,1,Satisfecho
+1750723200,Cirugía,30,91,243,Dr. Gómez,2,1,4,1,Regular,Sí,4,Satisfecho
+1750377600,Desparasitación,5,111,2445,Dr. Gómez,4,5,1,5,Pesima,No,5,Satisfecho
+1753142400,Cirugía,11,94,1209,Dr. Pérez,5,1,2,5,Mala,Sí,5,Satisfecho
+1768176000,Vacunación,18,11,3857,Dr. Gómez,5,2,3,4,Buena,Sí,4,Satisfecho
+1722211200,Cirugía,26,172,3028,Dr. Ramírez,4,1,3,1,Pesima,No,1,Satisfecho
+1745107200,Desparasitación,9,52,3040,Dr. Gómez,3,2,1,4,Pesima,No,5,Satisfecho
+1759536000,Desparasitación,59,129,2764,Dr. Pérez,4,4,1,3,Pesimo,Sí,3,Satisfecho
+1769385600,Vacunación,33,115,3230,Dr. Gómez,5,5,2,3,Buena,No,4,Satisfecho
+1770163200,Cirugía,46,145,4981,Dr. Gómez,5,3,3,1,Pesima,Sí,1,Satisfecho
+1716422400,Desparasitación,6,79,2997,Dr. Gómez,1,2,3,3,Mala,No,4,Satisfecho
+1771632000,Desparasitación,10,159,706,Dr. Ramírez,2,2,4,4,Pesimo,No,5,Satisfecho
+1713571200,Desparasitación,38,179,363,Dr. Pérez,1,4,5,3,Regular,No,4,Satisfecho
+1788825600,Desparasitación,29,30,4678,Dr. Ramírez,1,5,4,2,Mala,No,2,Satisfecho
+1774656000,Cirugía,38,89,2858,Dr. Gómez,3,4,3,1,Buena,Sí,4,Satisfecho
+1783555200,Consulta,43,67,2418,Dr. Gómez,2,2,2,4,Buena,No,3,Satisfecho
+1784073600,Consulta,18,91,2434,Dr. Ramírez,4,5,3,5,Buena,Sí,3,Satisfecho
+1748390400,Vacunación,47,55,1108,Dr. Ramírez,4,2,3,2,Pesima,No,2,Satisfecho
+1756944000,Desparasitación,55,44,3810,Dr. Gómez,5,3,5,2,Pesima,No,4,Satisfecho
+1710201600,Vacunación,55,14,4608,Dr. Pérez,4,3,2,1,Regular,Sí,5,Satisfecho
+1729900800,Desparasitación,41,70,1777,Dr. Pérez,4,1,3,3,Pesimo,Sí,2,Satisfecho
+1768780800,Vacunación,13,159,2771,Dr. Gómez,2,1,2,3,Pesimo,No,5,Satisfecho
+1770940800,Vacunación,16,14,2201,Dr. Pérez,5,3,3,2,Mala,No,1,Satisfecho
+1718236800,Vacunación,36,23,1256,Dr. Gómez,2,1,5,2,Buena,Sí,1,Satisfecho
+1744243200,Cirugía,17,35,4228,Dr. Ramírez,3,3,5,5,Buena,No,5,Satisfecho
+1780272000,Cirugía,20,146,4692,Dr. Pérez,4,2,5,2,Buena,No,5,Satisfecho
+1775260800,Desparasitación,37,75,3872,Dr. Ramírez,3,2,2,5,Pesimo,Sí,4,Satisfecho
+1754611200,Cirugía,37,55,232,Dr. Gómez,2,2,2,5,Pesimo,No,4,Satisfecho
+1785196800,Vacunación,27,175,4095,Dr. Pérez,3,5,4,4,Regular,Sí,3,Satisfecho
+1719100800,Desparasitación,22,88,1069,Dr. Pérez,1,3,5,3,Pesima,Sí,4,Satisfecho
+1744675200,Consulta,28,68,3839,Dr. Ramírez,1,2,2,2,Pesima,No,1,Satisfecho
+1715904000,Consulta,24,26,2680,Dr. Ramírez,3,1,3,2,Regular,No,2,Satisfecho
+1788048000,Consulta,53,96,4038,Dr. Pérez,4,3,4,1,Pesimo,No,1,Satisfecho
+1778976000,Vacunación,14,52,2744,Dr. Ramírez,5,3,2,2,Buena,Sí,4,Satisfecho
+1762560000,Desparasitación,36,78,3293,Dr. Gómez,2,3,3,5,Pesimo,Sí,3,Satisfecho
+1764633600,Desparasitación,52,127,3596,Dr. Gómez,3,2,3,3,Pesimo,Sí,1,Satisfecho
+1761782400,Consulta,41,161,4070,Dr. Pérez,2,2,1,5,Regular,Sí,4,Satisfecho
+1782950400,Vacunación,54,142,4777,Dr. Ramírez,5,1,3,3,Regular,No,3,Satisfecho
+1717200000,Consulta,59,157,3938,Dr. Gómez,3,4,1,2,Regular,No,2,Satisfecho
+1755734400,Desparasitación,45,60,4729,Dr. Pérez,5,3,2,5,Mala,Sí,4,Satisfecho
+1760486400,Consulta,59,18,1906,Dr. Pérez,5,5,4,3,Regular,Sí,3,Satisfecho
+1777248000,Vacunación,44,126,3687,Dr. Gómez,3,5,1,1,Pesima,Sí,3,Satisfecho
+1751414400,Vacunación,55,63,2311,Dr. Ramírez,5,5,2,3,Mala,No,2,Satisfecho
+1705536000,Desparasitación,51,61,4335,Dr. Pérez,4,3,4,2,Pesimo,Sí,3,Satisfecho
+1708214400,Vacunación,59,12,1617,Dr. Ramírez,1,5,5,2,Buena,Sí,4,Satisfecho
+1779753600,Vacunación,35,139,4793,Dr. Ramírez,1,5,3,1,Pesima,Sí,5,Satisfecho
+1733443200,Cirugía,41,145,2872,Dr. Pérez,5,1,1,1,Buena,Sí,4,Satisfecho
+1719273600,Cirugía,46,67,4306,Dr. Ramírez,3,2,5,3,Mala,Sí,5,Satisfecho
+1768435200,Vacunación,6,107,3190,Dr. Ramírez,2,3,5,1,Regular,Sí,2,Satisfecho
+1767571200,Cirugía,50,53,835,Dr. Ramírez,4,3,5,4,Regular,No,4,Satisfecho
+1762387200,Consulta,38,156,1524,Dr. Pérez,5,5,1,1,Buena,Sí,4,Satisfecho
+1730332800,Vacunación,6,82,2374,Dr. Gómez,3,2,4,3,Pesima,No,1,Satisfecho
+1706832000,Desparasitación,53,129,2370,Dr. Pérez,5,4,4,5,Buena,No,2,Satisfecho
+1708905600,Desparasitación,7,151,2758,Dr. Pérez,1,3,5,1,Buena,Sí,3,Satisfecho
+1709164800,Consulta,41,20,4808,Dr. Gómez,3,2,1,1,Pesima,No,5,Satisfecho
+1704412800,Cirugía,57,97,409,Dr. Pérez,1,2,3,3,Buena,No,3,Satisfecho
+1730678400,Desparasitación,8,123,2841,Dr. Ramírez,1,4,4,1,Pesima,No,4,Satisfecho
+1753488000,Consulta,31,165,390,Dr. Gómez,1,1,4,2,Mala,No,2,Satisfecho
+1785369600,Consulta,43,30,4499,Dr. Ramírez,1,2,2,4,Mala,No,1,Satisfecho
+1783123200,Vacunación,33,71,1100,Dr. Pérez,4,1,4,2,Pesimo,No,5,Satisfecho
+1766275200,Vacunación,41,106,4702,Dr. Gómez,5,1,2,5,Buena,No,5,Satisfecho
+1766448000,Desparasitación,34,79,4508,Dr. Pérez,4,2,3,2,Pesimo,Sí,5,Satisfecho
+1740873600,Consulta,57,56,2288,Dr. Pérez,5,5,4,5,Pesima,No,2,Satisfecho
+1754956800,Consulta,26,160,1406,Dr. Gómez,5,5,1,2,Buena,Sí,2,Satisfecho
+1765497600,Vacunación,15,41,3325,Dr. Gómez,4,1,1,5,Pesimo,Sí,4,Satisfecho
+1741478400,Desparasitación,10,102,3423,Dr. Ramírez,3,2,1,5,Mala,Sí,3,Satisfecho
+1733011200,Desparasitación,51,54,4704,Dr. Ramírez,3,3,3,3,Pesimo,Sí,4,Satisfecho
+1719964800,Consulta,30,128,2175,Dr. Gómez,2,5,2,1,Regular,Sí,3,Satisfecho
+1778112000,Cirugía,55,101,1359,Dr. Gómez,4,3,2,4,Buena,Sí,5,Satisfecho
+1734912000,Desparasitación,6,102,2641,Dr. Pérez,1,5,4,4,Regular,Sí,5,Satisfecho
+1718409600,Desparasitación,31,173,1219,Dr. Gómez,2,3,2,5,Mala,No,1,Satisfecho
+1737072000,Desparasitación,39,15,3607,Dr. Gómez,2,5,5,2,Regular,Sí,5,Satisfecho
+1765411200,Cirugía,24,51,1513,Dr. Pérez,4,1,5,4,Pesima,Sí,3,Satisfecho
+1766361600,Cirugía,42,132,1228,Dr. Gómez,5,4,2,5,Regular,Sí,4,Satisfecho
+1738627200,Desparasitación,30,87,1765,Dr. Pérez,1,2,2,4,Mala,Sí,5,Satisfecho
+1742169600,Desparasitación,51,17,1188,Dr. Pérez,1,2,3,1,Mala,No,2,Satisfecho
+1709683200,Vacunación,21,162,1418,Dr. Pérez,2,4,5,4,Pesimo,No,5,Satisfecho
+1709856000,Consulta,18,179,3918,Dr. Pérez,3,4,3,5,Pesima,No,4,Satisfecho
+1767225600,Consulta,28,158,2219,Dr. Gómez,2,2,1,1,Buena,Sí,3,Satisfecho
+1732060800,Vacunación,9,136,1864,Dr. Ramírez,4,1,2,4,Regular,No,5,Satisfecho
+1704931200,Cirugía,17,72,1877,Dr. Ramírez,5,1,4,5,Buena,Sí,5,Satisfecho
+1739577600,Desparasitación,18,23,4434,Dr. Pérez,3,2,1,3,Buena,Sí,5,Satisfecho
+1708300800,Vacunación,10,169,88,Dr. Pérez,2,5,3,5,Pesimo,No,2,Satisfecho
+1787184000,Vacunación,17,88,2721,Dr. Gómez,1,3,5,5,Buena,No,1,Satisfecho
+1730505600,Desparasitación,32,169,1227,Dr. Ramírez,4,1,4,4,Buena,Sí,1,Satisfecho
+1768953600,Consulta,26,45,4966,Dr. Gómez,3,1,2,4,Regular,Sí,1,Satisfecho
+1705276800,Desparasitación,22,71,4362,Dr. Pérez,3,3,4,1,Regular,Sí,1,Satisfecho
+1712707200,Cirugía,27,101,3131,Dr. Ramírez,5,5,5,2,Pesima,No,4,Satisfecho
+1729468800,Vacunación,59,152,3207,Dr. Gómez,3,2,3,1,Regular,Sí,5,Satisfecho
+1745625600,Vacunación,6,47,2562,Dr. Gómez,3,2,3,4,Pesima,Sí,2,Satisfecho
+1764374400,Vacunación,27,155,2061,Dr. Pérez,1,5,4,2,Regular,No,4,Satisfecho
+1757289600,Consulta,33,173,3794,Dr. Pérez,2,3,4,5,Pesima,No,2,Satisfecho
+1705104000,Cirugía,39,97,1690,Dr. Ramírez,4,4,5,3,Pesima,No,1,Satisfecho
+1725408000,Consulta,21,148,1472,Dr. Pérez,4,2,4,3,Buena,Sí,3,Satisfecho
+1738800000,Cirugía,29,128,4186,Dr. Ramírez,3,5,5,5,Mala,Sí,3,Satisfecho
+1714348800,Consulta,38,32,3945,Dr. Gómez,5,5,5,4,Mala,Sí,5,Satisfecho
+1708473600,Vacunación,21,129,4925,Dr. Gómez,2,1,3,2,Pesimo,No,2,Satisfecho
+1721952000,Desparasitación,56,175,1675,Dr. Gómez,5,5,5,2,Buena,No,2,Satisfecho
+1768089600,Vacunación,21,139,2206,Dr. Ramírez,5,2,5,3,Pesimo,Sí,4,Satisfecho
+1723680000,Vacunación,47,140,212,Dr. Pérez,4,3,2,1,Regular,No,1,Muy satisfecho
+1789862400,Desparasitación,8,105,2307,Dr. Ramírez,1,2,4,1,Pesimo,Sí,1,Muy satisfecho
+1709251200,Cirugía,57,114,1809,Dr. Pérez,5,2,3,4,Pesima,No,1,Muy satisfecho
+1749686400,Vacunación,55,98,455,Dr. Pérez,5,5,3,3,Buena,Sí,2,Muy satisfecho
+1730073600,Consulta,28,143,1904,Dr. Ramírez,3,3,4,2,Pesima,Sí,5,Muy satisfecho
+1764028800,Vacunación,11,73,2656,Dr. Gómez,1,3,1,2,Pesima,Sí,3,Muy satisfecho
+1708646400,Desparasitación,35,98,3040,Dr. Pérez,3,4,3,4,Buena,Sí,4,Muy satisfecho
+1726963200,Vacunación,53,97,4529,Dr. Ramírez,2,3,1,3,Buena,Sí,1,Muy satisfecho
+1768262400,Consulta,13,111,1351,Dr. Gómez,5,2,2,5,Buena,Sí,2,Muy satisfecho
+1712448000,Desparasitación,21,156,1905,Dr. Gómez,4,5,1,2,Regular,Sí,4,Muy satisfecho
+1764892800,Consulta,33,178,2978,Dr. Gómez,3,4,2,3,Pesima,Sí,5,Muy satisfecho
+1718150400,Desparasitación,7,59,4328,Dr. Gómez,5,2,1,5,Buena,Sí,1,Muy satisfecho
+1745712000,Consulta,31,93,335,Dr. Pérez,2,1,2,3,Pesima,No,3,Muy satisfecho
+1706486400,Desparasitación,5,116,3409,Dr. Ramírez,2,5,3,2,Regular,No,4,Muy satisfecho
+1755129600,Desparasitación,32,89,3679,Dr. Ramírez,1,1,1,4,Regular,Sí,1,Muy satisfecho
+1716336000,Desparasitación,57,172,4481,Dr. Pérez,3,1,1,1,Buena,No,5,Muy satisfecho
+1767484800,Vacunación,34,76,3208,Dr. Gómez,3,5,4,3,Mala,Sí,2,Muy satisfecho
+1764460800,Cirugía,25,76,1492,Dr. Ramírez,3,2,1,3,Buena,No,4,Muy satisfecho
+1719014400,Desparasitación,9,120,1376,Dr. Gómez,1,3,2,1,Regular,Sí,3,Muy satisfecho
+1777075200,Consulta,29,34,4828,Dr. Gómez,2,1,5,5,Buena,Sí,3,Muy satisfecho
+1756512000,Desparasitación,5,126,4665,Dr. Gómez,2,1,2,4,Pesimo,Sí,5,Muy satisfecho
+1756598400,Desparasitación,36,61,223,Dr. Ramírez,1,5,3,5,Mala,No,2,Muy satisfecho
+1773360000,Consulta,57,159,2010,Dr. Gómez,5,3,1,3,Pesimo,No,5,Muy satisfecho
+1786147200,Cirugía,37,138,2487,Dr. Pérez,2,5,4,3,Buena,No,3,Muy satisfecho
+1778716800,Desparasitación,48,143,3609,Dr. Gómez,3,3,5,4,Pesimo,Sí,2,Muy satisfecho
+1729555200,Desparasitación,7,115,4733,Dr. Gómez,5,1,1,5,Regular,No,1,Muy satisfecho
+1788393600,Desparasitación,20,161,572,Dr. Pérez,1,3,2,1,Pesima,Sí,1,Muy satisfecho
+1706918400,Vacunación,15,15,985,Dr. Pérez,2,3,3,2,Pesimo,Sí,2,Muy satisfecho
+1740528000,Vacunación,51,177,4269,Dr. Gómez,5,5,4,3,Mala,Sí,1,Muy satisfecho
+1770422400,Desparasitación,42,39,1677,Dr. Pérez,2,1,5,5,Pesima,No,2,Muy satisfecho
+1781913600,Desparasitación,30,61,2180,Dr. Pérez,4,2,5,3,Pesimo,Sí,4,Muy satisfecho
+1740096000,Vacunación,19,98,2345,Dr. Ramírez,3,5,1,1,Mala,No,1,Muy satisfecho
+1710115200,Vacunación,5,34,4358,Dr. Pérez,5,4,3,2,Buena,Sí,4,Muy satisfecho
+1775692800,Desparasitación,39,19,3169,Dr. Gómez,1,5,1,4,Regular,No,1,Muy satisfecho
+1767657600,Desparasitación,27,134,2466,Dr. Pérez,2,5,5,2,Regular,No,4,Muy satisfecho
+1771113600,Consulta,57,117,3785,Dr. Gómez,1,5,3,5,Mala,Sí,5,Muy satisfecho
+1714867200,Desparasitación,34,48,1979,Dr. Pérez,2,1,4,2,Buena,No,1,Muy satisfecho
+1757462400,Cirugía,49,155,469,Dr. Ramírez,4,3,1,4,Buena,Sí,3,Muy satisfecho
+1748736000,Vacunación,52,40,2577,Dr. Gómez,5,1,3,3,Mala,No,5,Muy satisfecho
+1740700800,Desparasitación,6,54,904,Dr. Pérez,5,4,3,2,Regular,No,4,Muy satisfecho
+1782432000,Cirugía,57,71,2208,Dr. Ramírez,2,5,4,4,Pesimo,No,5,Muy satisfecho
+1754265600,Consulta,56,24,905,Dr. Gómez,1,5,2,3,Mala,Sí,5,Muy satisfecho
+1724284800,Desparasitación,19,55,3303,Dr. Ramírez,3,4,3,4,Pesima,No,5,Muy satisfecho
+1756080000,Desparasitación,26,150,3389,Dr. Ramírez,1,5,2,2,Buena,Sí,3,Muy satisfecho
+1789430400,Vacunación,7,37,3424,Dr. Ramírez,3,4,3,5,Buena,No,5,Muy satisfecho
+1754524800,Vacunación,28,79,3692,Dr. Ramírez,2,2,2,4,Pesima,Sí,4,Muy satisfecho
+1731456000,Consulta,19,16,4020,Dr. Gómez,4,2,1,5,Pesimo,Sí,5,Muy satisfecho
+1726704000,Consulta,51,178,1988,Dr. Pérez,5,5,4,3,Regular,Sí,1,Muy satisfecho
+1752105600,Desparasitación,14,69,3501,Dr. Ramírez,3,3,3,4,Pesimo,Sí,3,Muy satisfecho
+1766620800,Consulta,38,22,3684,Dr. Pérez,4,4,2,1,Pesimo,Sí,2,Muy satisfecho
+1706659200,Consulta,36,178,571,Dr. Gómez,2,1,4,1,Buena,No,4,Muy satisfecho
+1711756800,Vacunación,54,76,2510,Dr. Pérez,5,4,5,3,Regular,No,1,Muy satisfecho
+1780963200,Cirugía,30,153,1431,Dr. Gómez,5,2,2,4,Regular,No,4,Muy satisfecho
+1773792000,Consulta,25,21,2717,Dr. Pérez,1,5,5,4,Regular,Sí,4,Muy satisfecho
+1764201600,Cirugía,11,16,3323,Dr. Gómez,4,5,2,3,Pesimo,Sí,1,Muy satisfecho
+1741305600,Vacunación,55,23,3750,Dr. Gómez,3,2,5,3,Regular,Sí,1,Muy satisfecho
+1728518400,Cirugía,10,167,2707,Dr. Pérez,1,3,5,4,Pesimo,No,3,Muy satisfecho
+1716163200,Desparasitación,38,97,4671,Dr. Gómez,2,2,5,3,Buena,Sí,2,Muy satisfecho
+1756339200,Cirugía,53,87,1037,Dr. Pérez,4,4,3,2,Buena,Sí,2,Muy satisfecho
+1779840000,Vacunación,25,135,2285,Dr. Pérez,4,4,1,1,Regular,No,1,Muy satisfecho
+1707264000,Consulta,26,56,4991,Dr. Pérez,5,4,5,5,Mala,No,2,Muy satisfecho
+1783382400,Desparasitación,34,158,1638,Dr. Pérez,3,1,3,1,Buena,No,5,Muy satisfecho
+1752883200,Vacunación,15,83,2146,Dr. Gómez,2,1,1,3,Regular,No,2,Muy satisfecho
+1747180800,Desparasitación,27,95,2529,Dr. Ramírez,4,1,5,4,Mala,Sí,3,Muy satisfecho
+1774742400,Desparasitación,59,16,3875,Dr. Pérez,5,5,4,3,Regular,No,5,Muy satisfecho
+1739750400,Consulta,55,139,2990,Dr. Gómez,1,3,1,3,Regular,Sí,2,Muy satisfecho
+1724544000,Vacunación,41,26,254,Dr. Gómez,2,3,5,3,Pesimo,No,2,Muy satisfecho
+1718755200,Desparasitación,55,148,2860,Dr. Gómez,5,2,4,5,Pesimo,Sí,5,Muy satisfecho
+1719619200,Consulta,5,108,709,Dr. Pérez,4,3,4,2,Mala,No,5,Muy satisfecho
+1735776000,Vacunación,42,13,1175,Dr. Pérez,3,4,4,2,Pesimo,No,5,Muy satisfecho
+1766880000,Cirugía,39,139,960,Dr. Pérez,1,2,2,4,Mala,Sí,1,Muy satisfecho
+1731628800,Vacunación,12,141,1117,Dr. Gómez,4,3,1,5,Pesima,Sí,3,Muy satisfecho
+1768867200,Desparasitación,58,53,414,Dr. Ramírez,3,4,5,5,Pesima,No,5,Muy satisfecho
+1716940800,Desparasitación,55,88,3309,Dr. Gómez,5,4,2,3,Pesima,Sí,5,Muy satisfecho
+1742515200,Cirugía,34,127,1516,Dr. Gómez,5,1,4,5,Pesimo,Sí,5,Muy satisfecho
+1727308800,Cirugía,45,130,944,Dr. Gómez,5,3,5,5,Buena,No,1,Muy satisfecho
+1735948800,Cirugía,39,135,1644,Dr. Ramírez,3,3,4,5,Regular,No,3,Muy satisfecho
+1790294400,Desparasitación,5,120,4474,Dr. Pérez,4,4,2,3,Pesima,Sí,4,Muy satisfecho
+1714003200,Desparasitación,34,142,3539,Dr. Gómez,5,3,4,4,Pesima,Sí,1,Muy satisfecho
+1721260800,Cirugía,52,110,4036,Dr. Gómez,1,2,4,4,Buena,No,3,Muy satisfecho
+1722816000,Consulta,6,36,735,Dr. Gómez,1,4,3,2,Mala,No,2,Muy satisfecho
+1754870400,Desparasitación,47,30,1567,Dr. Gómez,3,2,2,3,Regular,Sí,5,Muy satisfecho
+1788739200,Desparasitación,34,157,1679,Dr. Ramírez,1,4,5,3,Pesimo,Sí,2,Muy satisfecho
+1752364800,Vacunación,30,58,2190,Dr. Pérez,4,3,3,2,Pesimo,Sí,5,Muy satisfecho
+1772496000,Consulta,21,114,1758,Dr. Pérez,5,2,2,5,Pesimo,No,2,Muy satisfecho
+1731801600,Consulta,55,67,1061,Dr. Pérez,1,2,5,5,Mala,Sí,3,Muy satisfecho
+1731888000,Desparasitación,49,31,2324,Dr. Pérez,5,3,1,4,Buena,No,4,Muy satisfecho
+1748649600,Desparasitación,40,156,777,Dr. Pérez,5,3,1,1,Pesimo,Sí,5,Muy satisfecho
+1763942400,Desparasitación,22,11,3314,Dr. Pérez,3,4,4,4,Buena,No,5,Muy satisfecho
+1744070400,Consulta,58,46,2017,Dr. Ramírez,4,5,1,4,Buena,No,2,Muy satisfecho
+1719792000,Vacunación,45,48,448,Dr. Ramírez,1,3,3,1,Pesima,No,5,Muy satisfecho
+1780617600,Consulta,22,165,3386,Dr. Ramírez,3,3,5,1,Buena,Sí,1,Muy satisfecho
+1768694400,Consulta,43,17,1982,Dr. Gómez,2,2,4,4,Buena,No,3,Muy satisfecho
+1738540800,Consulta,18,23,1748,Dr. Pérez,1,3,2,5,Pesimo,Sí,2,Muy satisfecho
+1705795200,Vacunación,14,81,3797,Dr. Ramírez,4,1,2,5,Pesimo,Sí,2,Muy satisfecho
+1721433600,Desparasitación,30,15,596,Dr. Gómez,4,2,5,3,Pesimo,Sí,1,Muy satisfecho
+1768348800,Cirugía,44,44,4213,Dr. Gómez,1,4,2,2,Pesimo,No,3,Muy satisfecho
+1779062400,Cirugía,59,139,4724,Dr. Ramírez,4,1,4,2,Mala,No,5,Muy satisfecho
+1764547200,Vacunación,23,51,3104,Dr. Gómez,5,1,5,3,Pesima,Sí,5,Muy satisfecho
+1728777600,Consulta,8,125,3638,Dr. Ramírez,4,5,2,3,Pesimo,No,4,Muy satisfecho
+1722902400,Desparasitación,49,81,4333,Dr. Ramírez,3,5,4,2,Pesimo,Sí,2,Muy satisfecho
+1786320000,Consulta,49,69,717,Dr. Ramírez,2,2,5,5,Pesima,Sí,3,Muy satisfecho
+1749945600,Desparasitación,44,86,3790,Dr. Pérez,4,1,4,4,Mala,Sí,4,Muy satisfecho
+1712016000,Vacunación,58,107,411,Dr. Ramírez,2,2,2,5,Mala,Sí,5,Muy satisfecho
+1709942400,Desparasitación,13,18,3587,Dr. Gómez,4,3,2,5,Mala,No,5,Muy satisfecho
+1712880000,Vacunación,41,68,4017,Dr. Gómez,5,5,3,4,Regular,No,1,Muy satisfecho
+1763856000,Consulta,52,162,4978,Dr. Ramírez,3,5,1,5,Buena,Sí,5,Muy satisfecho
+1770336000,Desparasitación,45,153,3506,Dr. Gómez,2,1,1,2,Pesimo,No,1,Muy satisfecho
+1738022400,Desparasitación,34,108,4129,Dr. Ramírez,4,1,5,5,Regular,Sí,2,Muy satisfecho
+1709510400,Consulta,14,38,711,Dr. Ramírez,4,3,2,4,Buena,No,3,Muy satisfecho
+1733616000,Cirugía,40,62,2974,Dr. Ramírez,4,2,1,3,Pesima,No,2,Muy satisfecho
+1761523200,Consulta,12,46,3550,Dr. Ramírez,3,5,4,2,Pesima,Sí,1,Muy satisfecho
+1748217600,Vacunación,51,81,2094,Dr. Ramírez,5,2,2,5,Buena,Sí,3,Muy satisfecho
+1745884800,Consulta,55,137,2417,Dr. Pérez,1,2,3,3,Pesima,Sí,4,Muy satisfecho
+1717459200,Vacunación,15,26,713,Dr. Gómez,2,2,2,1,Pesima,Sí,3,Muy satisfecho
+1773532800,Vacunación,55,95,932,Dr. Gómez,4,5,2,5,Mala,Sí,5,Muy satisfecho
+1719360000,Cirugía,26,35,2498,Dr. Pérez,1,4,4,2,Mala,No,5,Muy satisfecho
+1736640000,Consulta,57,107,3119,Dr. Pérez,2,5,1,2,Pesima,Sí,5,Muy satisfecho
+1715126400,Desparasitación,55,109,1878,Dr. Ramírez,5,5,2,4,Regular,No,4,Muy satisfecho
+1736726400,Vacunación,15,75,276,Dr. Pérez,1,2,2,2,Pesima,Sí,3,Muy satisfecho
+1733097600,Consulta,5,131,2335,Dr. Ramírez,3,2,3,5,Pesimo,No,2,Muy satisfecho
+1772755200,Cirugía,32,84,2343,Dr. Pérez,3,4,5,5,Pesima,No,5,Muy satisfecho
+1724803200,Vacunación,43,18,1769,Dr. Ramírez,2,2,2,2,Regular,Sí,1,Muy satisfecho
+1762041600,Vacunación,37,69,3309,Dr. Ramírez,5,1,4,2,Pesima,No,4,Muy satisfecho
+1734393600,Consulta,27,65,737,Dr. Ramírez,2,1,1,5,Mala,No,2,Muy satisfecho
+1789689600,Desparasitación,34,14,941,Dr. Ramírez,5,3,5,1,Mala,Sí,3,Muy satisfecho
+1753401600,Cirugía,38,57,4747,Dr. Pérez,2,3,5,1,Buena,No,2,Muy satisfecho
+1781136000,Consulta,49,13,3476,Dr. Ramírez,4,2,4,5,Buena,No,4,Muy satisfecho
+1760054400,Desparasitación,23,159,4058,Dr. Pérez,4,4,2,5,Regular,Sí,1,Muy satisfecho
+1758844800,Vacunación,54,179,2046,Dr. Gómez,4,3,5,1,Buena,No,5,Muy satisfecho
+1718064000,Desparasitación,29,129,4885,Dr. Gómez,3,1,5,4,Regular,No,1,Muy satisfecho
+1704240000,Consulta,13,58,3769,Dr. Gómez,2,5,5,3,Pesimo,No,2,Muy satisfecho
+1745798400,Vacunación,35,160,314,Dr. Pérez,2,3,2,3,Pesima,Sí,2,Muy satisfecho
+1740441600,Vacunación,37,14,2551,Dr. Pérez,2,5,1,5,Regular,Sí,3,Muy satisfecho
+1782864000,Consulta,12,95,1023,Dr. Ramírez,5,2,2,5,Regular,Sí,4,Muy satisfecho
+1737331200,Desparasitación,44,124,1949,Dr. Pérez,5,3,4,3,Regular,Sí,2,Muy satisfecho
+1740355200,Vacunación,21,172,2008,Dr. Pérez,1,2,2,2,Pesimo,Sí,5,Muy satisfecho
+1746403200,Desparasitación,31,128,2319,Dr. Gómez,5,4,4,5,Pesima,Sí,2,Muy satisfecho
+1772582400,Desparasitación,30,94,3680,Dr. Ramírez,5,5,2,2,Pesima,Sí,4,Muy satisfecho
+1746662400,Vacunación,15,138,1037,Dr. Ramírez,3,4,5,2,Regular,Sí,1,Muy satisfecho
+1710374400,Vacunación,17,133,3728,Dr. Ramírez,2,2,4,2,Regular,No,3,Muy satisfecho
+1761696000,Desparasitación,51,59,2170,Dr. Ramírez,2,3,1,2,Pesimo,No,1,Muy satisfecho
+1743379200,Cirugía,37,165,645,Dr. Pérez,4,1,1,2,Pesimo,No,2,Muy satisfecho
+1712534400,Vacunación,52,89,3612,Dr. Pérez,4,5,2,5,Pesima,Sí,1,Muy satisfecho
+1770768000,Consulta,29,113,3220,Dr. Pérez,4,3,3,4,Pesima,No,1,Muy satisfecho
+1711152000,Consulta,12,90,1426,Dr. Ramírez,5,4,1,2,Pesimo,Sí,5,Muy satisfecho
+1712620800,Consulta,51,177,2570,Dr. Ramírez,3,1,2,5,Mala,No,4,Muy satisfecho
+1723766400,Consulta,51,102,2024,Dr. Gómez,5,3,4,4,Pesima,No,4,Muy satisfecho
+1735603200,Cirugía,19,157,1333,Dr. Ramírez,3,4,4,4,Regular,No,2,Muy satisfecho
+1725062400,Consulta,26,126,924,Dr. Ramírez,2,2,3,1,Regular,No,5,Muy satisfecho
+1760659200,Consulta,36,19,1286,Dr. Gómez,3,1,3,1,Regular,Sí,1,Muy satisfecho
+1775001600,Desparasitación,58,152,4227,Dr. Gómez,4,5,5,4,Mala,No,5,Muy satisfecho
+1723075200,Cirugía,18,154,4693,Dr. Pérez,4,3,2,3,Pesimo,Sí,5,Muy satisfecho
+1783987200,Cirugía,21,22,1354,Dr. Pérez,1,2,4,4,Pesima,Sí,2,Muy satisfecho
+1782691200,Cirugía,55,101,3001,Dr. Gómez,1,5,5,3,Regular,No,5,Muy satisfecho
+1750896000,Cirugía,40,32,1235,Dr. Ramírez,4,4,3,3,Pesima,Sí,2,Muy satisfecho
+1732147200,Vacunación,10,12,2476,Dr. Gómez,5,4,4,2,Pesimo,Sí,4,Muy satisfecho
+1721520000,Cirugía,40,156,4726,Dr. Gómez,2,5,1,2,Mala,No,2,Muy satisfecho
+1707782400,Desparasitación,45,132,3409,Dr. Ramírez,2,3,5,4,Regular,No,5,Muy satisfecho
+1769126400,Vacunación,50,40,996,Dr. Gómez,3,2,1,4,Mala,Sí,3,Muy satisfecho
+1742428800,Desparasitación,56,73,2504,Dr. Pérez,2,3,4,4,Mala,Sí,1,Muy satisfecho
+1770249600,Consulta,40,12,1572,Dr. Gómez,4,1,3,1,Buena,No,4,Muy satisfecho
+1713916800,Cirugía,22,16,1087,Dr. Ramírez,3,4,4,3,Regular,Sí,4,Muy satisfecho
+1756771200,Consulta,34,166,3102,Dr. Ramírez,2,5,5,4,Pesima,Sí,3,Muy satisfecho
+1788220800,Desparasitación,57,138,978,Dr. Gómez,3,1,5,5,Buena,Sí,2,Muy satisfecho
+1710979200,Cirugía,32,69,2518,Dr. Pérez,5,1,3,1,Regular,Sí,1,Muy satisfecho
+1774828800,Consulta,51,23,3586,Dr. Gómez,4,4,5,5,Buena,No,1,Muy satisfecho
+1714694400,Cirugía,28,116,1454,Dr. Ramírez,4,3,4,3,Pesima,Sí,1,Muy satisfecho
+1765584000,Consulta,46,176,4978,Dr. Ramírez,1,1,4,1,Mala,Sí,3,Muy satisfecho
+1785110400,Vacunación,59,166,3752,Dr. Gómez,4,1,3,3,Buena,No,2,Muy satisfecho
+1732665600,Consulta,37,96,2605,Dr. Ramírez,5,1,2,1,Mala,No,4,Muy satisfecho
+1759104000,Cirugía,55,93,4708,Dr. Pérez,1,4,1,1,Buena,Sí,1,Muy satisfecho
+1724889600,Cirugía,21,175,2693,Dr. Gómez,3,4,2,4,Pesimo,No,5,Muy satisfecho
+1775952000,Cirugía,21,63,165,Dr. Ramírez,2,4,3,1,Mala,Sí,4,Muy satisfecho
+1736208000,Vacunación,53,59,1610,Dr. Ramírez,1,4,5,2,Mala,Sí,4,Muy satisfecho
+1720828800,Cirugía,51,90,1935,Dr. Gómez,2,2,5,2,Mala,Sí,2,Muy satisfecho
+1725926400,Consulta,7,91,3787,Dr. Ramírez,5,4,5,4,Buena,No,2,Muy satisfecho
+1769731200,Desparasitación,41,153,432,Dr. Gómez,4,4,5,3,Pesima,Sí,3,Muy satisfecho
+1747699200,Consulta,30,154,1542,Dr. Pérez,4,4,5,3,Pesimo,Sí,5,Muy satisfecho
+1715472000,Consulta,8,48,2135,Dr. Ramírez,3,2,2,3,Regular,No,2,Muy satisfecho
+1787961600,Cirugía,33,86,3846,Dr. Gómez,5,1,4,2,Pesima,Sí,3,Muy satisfecho
+1733184000,Cirugía,30,156,4613,Dr. Ramírez,4,5,3,5,Mala,No,3,Muy satisfecho
+1773619200,Desparasitación,30,69,2244,Dr. Gómez,5,4,5,2,Pesimo,No,4,Muy satisfecho
+1786579200,Cirugía,6,106,4282,Dr. Pérez,4,1,3,3,Buena,No,3,Muy satisfecho
+1772928000,Cirugía,6,160,3879,Dr. Ramírez,4,5,2,4,Regular,Sí,5,Muy satisfecho
+1729209600,Cirugía,28,112,4580,Dr. Gómez,1,5,5,4,Regular,Sí,1,Muy satisfecho
+1753228800,Cirugía,22,35,4700,Dr. Gómez,5,3,3,2,Regular,Sí,4,Muy satisfecho
+1741392000,Consulta,10,89,998,Dr. Ramírez,3,1,3,1,Pesima,Sí,3,Muy satisfecho
+1715817600,Consulta,21,122,3240,Dr. Ramírez,5,2,2,4,Regular,No,3,Muy satisfecho
+1708041600,Desparasitación,25,71,4038,Dr. Gómez,4,5,4,3,Mala,No,4,Completamente satisfecho
+1738281600,Desparasitación,41,109,1291,Dr. Gómez,1,3,2,3,Pesimo,No,1,Completamente satisfecho
+1708560000,Cirugía,9,134,1306,Dr. Gómez,4,4,5,2,Mala,No,1,Completamente satisfecho
+1708992000,Consulta,57,110,351,Dr. Gómez,1,3,5,5,Mala,Sí,3,Completamente satisfecho
+1787097600,Consulta,59,17,247,Dr. Gómez,1,5,1,5,Mala,Sí,1,Completamente satisfecho
+1769904000,Consulta,10,154,349,Dr. Pérez,2,3,3,3,Regular,No,3,Completamente satisfecho
+1784419200,Cirugía,48,158,709,Dr. Ramírez,1,2,2,2,Buena,No,5,Completamente satisfecho
+1737936000,Desparasitación,18,152,1035,Dr. Ramírez,2,1,4,1,Pesima,No,5,Completamente satisfecho
+1769299200,Vacunación,30,64,1489,Dr. Pérez,3,5,5,5,Pesimo,No,1,Completamente satisfecho
+1782604800,Vacunación,13,164,2392,Dr. Pérez,5,1,2,3,Pesima,Sí,1,Completamente satisfecho
+1722297600,Cirugía,18,73,4786,Dr. Pérez,4,2,2,4,Regular,No,4,Completamente satisfecho
+1721088000,Desparasitación,34,30,1950,Dr. Ramírez,2,5,3,2,Buena,Sí,2,Completamente satisfecho
+1744329600,Desparasitación,35,38,2996,Dr. Gómez,4,1,4,3,Pesimo,No,2,Completamente satisfecho
+1751760000,Consulta,51,85,4925,Dr. Gómez,5,3,2,2,Buena,No,5,Completamente satisfecho
+1707609600,Cirugía,37,131,2511,Dr. Pérez,5,1,4,1,Regular,Sí,1,Completamente satisfecho
+1704067200,Cirugía,58,82,3341,Dr. Ramírez,4,5,4,4,Buena,Sí,1,Completamente satisfecho
+1704758400,Cirugía,52,133,1012,Dr. Gómez,2,3,4,4,Buena,Sí,3,Completamente satisfecho
+1736985600,Vacunación,16,173,1445,Dr. Gómez,5,3,3,4,Buena,No,1,Completamente satisfecho
+1714953600,Vacunación,59,168,1063,Dr. Ramírez,3,3,1,2,Regular,Sí,4,Completamente satisfecho
+1746489600,Consulta,9,17,90,Dr. Pérez,3,5,3,5,Buena,No,5,Completamente satisfecho
+1724976000,Desparasitación,43,72,2347,Dr. Pérez,4,1,4,5,Mala,Sí,1,Completamente satisfecho
+1765152000,Desparasitación,5,28,979,Dr. Ramírez,2,3,4,4,Regular,Sí,4,Completamente satisfecho
+1752710400,Cirugía,29,108,1505,Dr. Gómez,4,1,4,4,Mala,No,1,Completamente satisfecho
+1741737600,Desparasitación,55,103,442,Dr. Pérez,3,3,4,4,Pesima,Sí,1,Completamente satisfecho
+1762473600,Desparasitación,39,173,2292,Dr. Gómez,5,5,5,4,Pesima,Sí,1,Completamente satisfecho
+1774310400,Desparasitación,43,167,4544,Dr. Ramírez,5,3,5,3,Buena,No,1,Completamente satisfecho
+1770508800,Consulta,38,32,1353,Dr. Pérez,3,3,2,5,Regular,No,5,Completamente satisfecho
+1732579200,Consulta,24,21,57,Dr. Ramírez,2,4,2,1,Pesimo,No,2,Completamente satisfecho
+1743465600,Vacunación,8,120,1954,Dr. Ramírez,2,5,5,1,Mala,No,1,Completamente satisfecho
+1772841600,Consulta,50,76,3782,Dr. Pérez,4,5,2,5,Pesima,Sí,3,Completamente satisfecho
+1717286400,Cirugía,20,105,3440,Dr. Ramírez,5,5,4,5,Buena,Sí,5,Completamente satisfecho
+1763424000,Consulta,58,169,3411,Dr. Pérez,2,5,3,2,Mala,Sí,3,Completamente satisfecho
+1778803200,Consulta,53,169,3448,Dr. Ramírez,1,2,5,3,Pesima,No,1,Completamente satisfecho
+1742601600,Cirugía,43,37,3724,Dr. Ramírez,3,3,1,5,Regular,No,5,Completamente satisfecho
+1728086400,Consulta,37,177,4322,Dr. Pérez,2,3,5,3,Buena,Sí,3,Completamente satisfecho
+1742774400,Cirugía,40,116,2647,Dr. Pérez,4,1,5,4,Regular,Sí,4,Completamente satisfecho
+1718841600,Consulta,23,42,525,Dr. Ramírez,1,4,3,5,Buena,Sí,3,Completamente satisfecho
+1739404800,Vacunación,43,134,2959,Dr. Gómez,1,3,3,5,Pesima,Sí,3,Completamente satisfecho
+1705708800,Cirugía,6,68,2246,Dr. Ramírez,3,3,2,1,Regular,No,2,Completamente satisfecho
+1778457600,Consulta,16,29,2361,Dr. Ramírez,4,1,3,3,Regular,Sí,5,Completamente satisfecho
+1776556800,Consulta,57,89,2384,Dr. Pérez,5,1,1,4,Pesimo,No,1,Completamente satisfecho
+1780704000,Vacunación,29,124,4947,Dr. Gómez,2,4,2,3,Mala,No,4,Completamente satisfecho
+1755648000,Cirugía,24,45,3453,Dr. Ramírez,3,3,5,4,Mala,Sí,1,Completamente satisfecho
+1761350400,Vacunación,28,163,1180,Dr. Pérez,5,2,4,5,Mala,No,5,Completamente satisfecho
+1720051200,Consulta,50,38,2221,Dr. Pérez,4,1,2,1,Regular,No,2,Completamente satisfecho
+1775174400,Cirugía,9,172,2020,Dr. Pérez,1,3,3,3,Buena,No,1,Completamente satisfecho
+1755475200,Desparasitación,11,152,3741,Dr. Ramírez,1,2,2,4,Pesimo,No,5,Completamente satisfecho
+1778544000,Vacunación,23,155,2891,Dr. Gómez,1,1,4,5,Mala,No,5,Completamente satisfecho
+1772323200,Vacunación,14,123,316,Dr. Pérez,4,2,5,5,Mala,No,1,Completamente satisfecho
+1723420800,Vacunación,51,88,2511,Dr. Ramírez,1,5,2,3,Pesimo,Sí,4,Completamente satisfecho
+1784160000,Desparasitación,35,169,232,Dr. Ramírez,2,2,5,5,Pesimo,No,2,Completamente satisfecho
+1740614400,Cirugía,59,173,3880,Dr. Pérez,5,1,5,3,Buena,No,4,Completamente satisfecho
+1720915200,Vacunación,26,135,2807,Dr. Ramírez,5,2,3,1,Buena,Sí,4,Completamente satisfecho
+1727049600,Desparasitación,48,50,1981,Dr. Pérez,2,2,4,2,Mala,No,4,Completamente satisfecho
+1734566400,Desparasitación,48,68,662,Dr. Pérez,1,3,2,5,Pesima,Sí,4,Completamente satisfecho
+1758067200,Vacunación,5,16,3499,Dr. Gómez,4,1,5,3,Pesimo,Sí,5,Completamente satisfecho
+1718323200,Consulta,7,38,2578,Dr. Gómez,3,5,2,4,Mala,No,5,Completamente satisfecho
+1722038400,Vacunación,19,24,3381,Dr. Pérez,2,1,3,5,Buena,Sí,3,Completamente satisfecho
+1778284800,Cirugía,42,40,3284,Dr. Gómez,2,5,3,1,Pesima,Sí,3,Completamente satisfecho
+1744934400,Desparasitación,33,21,1581,Dr. Pérez,4,2,5,2,Mala,No,2,Completamente satisfecho
+1769040000,Vacunación,47,86,2440,Dr. Ramírez,1,4,3,3,Buena,Sí,5,Completamente satisfecho
+1730246400,Vacunación,10,15,2129,Dr. Ramírez,1,1,2,5,Pesimo,Sí,3,Completamente satisfecho
+1771804800,Vacunación,44,170,2261,Dr. Ramírez,4,1,3,4,Pesima,No,1,Completamente satisfecho
+1740787200,Consulta,18,160,689,Dr. Ramírez,2,5,3,5,Regular,No,2,Completamente satisfecho
+1754438400,Vacunación,57,96,2916,Dr. Pérez,1,3,4,3,Pesima,Sí,5,Completamente satisfecho
+1789776000,Vacunación,54,103,4122,Dr. Ramírez,3,2,2,1,Pesimo,Sí,4,Completamente satisfecho
+1734998400,Consulta,24,106,2746,Dr. Pérez,4,4,4,2,Regular,No,5,Completamente satisfecho
+1759363200,Vacunación,12,63,3205,Dr. Pérez,1,1,5,1,Buena,Sí,1,Completamente satisfecho
+1788566400,Desparasitación,51,26,4576,Dr. Gómez,5,4,2,3,Buena,Sí,5,Completamente satisfecho
+1750550400,Consulta,41,111,628,Dr. Ramírez,3,3,3,4,Pesimo,No,2,Completamente satisfecho
+1789257600,Desparasitación,34,152,1073,Dr. Ramírez,3,2,1,1,Mala,No,5,Completamente satisfecho
+1749600000,Vacunación,58,178,4965,Dr. Gómez,2,4,3,2,Pesimo,Sí,4,Completamente satisfecho
+1727481600,Desparasitación,10,169,3112,Dr. Pérez,3,2,4,2,Pesimo,Sí,4,Completamente satisfecho
+1731024000,Desparasitación,53,71,3098,Dr. Gómez,1,1,5,3,Regular,No,1,Completamente satisfecho
+1790208000,Desparasitación,52,47,4794,Dr. Gómez,3,5,2,4,Mala,No,4,Completamente satisfecho
+1750464000,Cirugía,50,141,821,Dr. Pérez,3,2,2,4,Buena,Sí,3,Completamente satisfecho
+1761436800,Consulta,27,100,2708,Dr. Ramírez,1,5,5,3,Buena,Sí,3,Completamente satisfecho
+1755302400,Desparasitación,25,126,4146,Dr. Ramírez,5,2,4,5,Pesimo,Sí,2,Completamente satisfecho
+1713744000,Desparasitación,54,164,3133,Dr. Ramírez,4,5,2,1,Pesimo,Sí,5,Completamente satisfecho
+1723507200,Vacunación,27,36,1415,Dr. Gómez,5,4,5,3,Pesimo,No,2,Completamente satisfecho
+1742947200,Vacunación,42,174,2709,Dr. Pérez,1,5,2,1,Regular,Sí,4,Completamente satisfecho
+1774051200,Cirugía,15,175,1660,Dr. Pérez,2,1,2,1,Regular,No,4,Completamente satisfecho
+1720310400,Cirugía,18,125,3521,Dr. Gómez,3,4,5,2,Pesimo,Sí,2,Completamente satisfecho
+1769817600,Vacunación,15,21,1606,Dr. Ramírez,3,2,4,4,Pesimo,Sí,4,Completamente satisfecho
+1776038400,Desparasitación,49,42,2434,Dr. Pérez,5,1,5,1,Pesimo,No,3,Completamente satisfecho
+1720656000,Consulta,13,31,2147,Dr. Pérez,3,4,3,1,Buena,Sí,4,Completamente satisfecho
+1788134400,Cirugía,33,52,284,Dr. Pérez,5,3,4,3,Regular,No,1,Completamente satisfecho
+1779148800,Vacunación,53,69,1138,Dr. Ramírez,2,1,1,3,Pesima,Sí,5,Completamente satisfecho
+1787443200,Consulta,36,97,520,Dr. Pérez,4,2,5,5,Buena,No,2,Completamente satisfecho
+1786924800,Cirugía,38,37,1156,Dr. Gómez,5,1,2,5,Regular,Sí,5,Completamente satisfecho
+1773964800,Consulta,44,51,4840,Dr. Pérez,2,4,5,1,Mala,Sí,3,Completamente satisfecho
+1751673600,Desparasitación,25,74,1986,Dr. Ramírez,3,2,4,3,Buena,No,2,Completamente satisfecho
+1726790400,Consulta,12,145,420,Dr. Gómez,2,3,5,2,Buena,Sí,3,Completamente satisfecho
+1747353600,Consulta,30,64,2365,Dr. Gómez,2,1,1,2,Pesimo,No,4,Completamente satisfecho
+1787702400,Vacunación,43,96,2060,Dr. Pérez,5,4,5,3,Regular,No,2,Completamente satisfecho
+1763337600,Vacunación,41,172,4824,Dr. Pérez,5,4,2,1,Buena,Sí,2,Completamente satisfecho
+1715299200,Desparasitación,9,86,2073,Dr. Pérez,5,1,4,4,Pesima,Sí,3,Completamente satisfecho
+1737676800,Consulta,15,27,637,Dr. Gómez,4,5,5,5,Pesima,Sí,3,Completamente satisfecho
+1751241600,Consulta,58,138,1160,Dr. Ramírez,5,2,1,2,Pesima,Sí,1,Completamente satisfecho
+1743206400,Vacunación,31,53,3668,Dr. Pérez,2,1,3,2,Regular,Sí,5,Completamente satisfecho
+1725235200,Vacunación,48,97,4050,Dr. Pérez,4,2,5,5,Regular,Sí,2,Completamente satisfecho
+1713398400,Vacunación,43,54,2331,Dr. Ramírez,5,2,3,3,Regular,Sí,5,Completamente satisfecho
+1784592000,Consulta,38,126,4003,Dr. Pérez,4,4,2,5,Buena,Sí,4,Completamente satisfecho
+1734307200,Desparasitación,9,105,662,Dr. Pérez,5,2,2,4,Buena,Sí,3,Completamente satisfecho
+1728604800,Vacunación,59,170,3698,Dr. Ramírez,2,5,2,5,Regular,No,1,Completamente satisfecho
+1778630400,Vacunación,41,69,4258,Dr. Pérez,5,1,4,3,Buena,No,2,Completamente satisfecho
+1749859200,Consulta,18,82,4650,Dr. Ramírez,3,4,4,5,Buena,No,4,Completamente satisfecho
+1758326400,Cirugía,51,83,3918,Dr. Ramírez,3,5,4,2,Pesima,Sí,4,Completamente satisfecho
+1733529600,Desparasitación,15,128,4993,Dr. Gómez,5,4,4,1,Mala,No,2,Completamente satisfecho
+1776902400,Cirugía,21,178,4167,Dr. Gómez,2,3,4,2,Mala,No,1,Completamente satisfecho
+1720224000,Cirugía,53,84,4747,Dr. Ramírez,1,1,1,1,Buena,No,1,Completamente satisfecho
+1725753600,Consulta,8,27,993,Dr. Gómez,4,3,5,5,Pesimo,Sí,2,Completamente satisfecho
+1773014400,Consulta,58,163,1560,Dr. Gómez,3,5,4,3,Pesimo,No,2,Completamente satisfecho
+1721865600,Desparasitación,39,133,2453,Dr. Pérez,4,2,2,1,Pesima,No,5,Completamente satisfecho
+1766016000,Desparasitación,16,140,3465,Dr. Ramírez,1,3,5,5,Pesimo,No,5,Completamente satisfecho
+1772236800,Cirugía,11,160,1190,Dr. Ramírez,5,4,2,5,Regular,No,3,Completamente satisfecho
+1728259200,Desparasitación,26,106,1683,Dr. Pérez,2,2,2,3,Regular,Sí,5,Completamente satisfecho
+1751155200,Desparasitación,5,84,1842,Dr. Gómez,5,5,3,2,Buena,No,5,Completamente satisfecho
+1786060800,Consulta,22,178,867,Dr. Gómez,5,4,5,2,Buena,Sí,3,Completamente satisfecho
+1713484800,Cirugía,42,98,2699,Dr. Gómez,5,3,4,5,Buena,No,1,Completamente satisfecho
+1777420800,Vacunación,29,158,2417,Dr. Gómez,3,1,4,4,Buena,Sí,5,Completamente satisfecho
+1753833600,Consulta,55,21,4463,Dr. Ramírez,4,4,4,3,Buena,Sí,2,Completamente satisfecho
+1759795200,Consulta,36,132,1678,Dr. Pérez,5,2,3,3,Mala,Sí,3,Completamente satisfecho
+1736294400,Desparasitación,9,105,2450,Dr. Gómez,4,3,4,4,Mala,No,2,Completamente satisfecho
+1760140800,Consulta,50,127,4143,Dr. Gómez,4,3,1,3,Buena,No,4,Completamente satisfecho
+1787875200,Desparasitación,56,17,4168,Dr. Gómez,3,4,4,5,Mala,Sí,1,Completamente satisfecho
+1774569600,Consulta,58,76,4849,Dr. Ramírez,5,3,5,5,Mala,No,4,Completamente satisfecho
+1710547200,Vacunación,5,81,4132,Dr. Ramírez,4,3,1,5,Pesima,No,1,Completamente satisfecho
+1716508800,Desparasitación,17,167,4009,Dr. Pérez,4,2,2,5,Regular,Sí,4,Completamente satisfecho
+1727913600,Consulta,10,157,2140,Dr. Ramírez,2,5,4,1,Pesimo,No,4,Completamente satisfecho
+1771891200,Consulta,38,25,1959,Dr. Pérez,5,1,2,5,Mala,Sí,3,Completamente satisfecho
+1782259200,Vacunación,18,72,4595,Dr. Gómez,2,5,3,5,Pesima,Sí,5,Completamente satisfecho
+1756425600,Cirugía,11,134,3371,Dr. Gómez,5,3,3,4,Pesimo,No,2,Completamente satisfecho
+1706313600,Vacunación,37,119,4033,Dr. Gómez,3,5,4,4,Pesimo,No,2,Completamente satisfecho
+1717718400,Consulta,12,154,3024,Dr. Pérez,2,4,3,5,Pesima,No,3,Completamente satisfecho
+1738972800,Desparasitación,46,78,1148,Dr. Gómez,2,3,2,2,Buena,No,4,Completamente satisfecho
+1757203200,Cirugía,34,115,1039,Dr. Gómez,3,5,2,4,Regular,No,3,Completamente satisfecho
+1710460800,Consulta,8,47,1536,Dr. Gómez,5,3,2,4,Mala,Sí,2,Completamente satisfecho
+1705881600,Consulta,34,157,701,Dr. Pérez,1,2,1,5,Pesima,Sí,5,Completamente satisfecho
+1783296000,Desparasitación,35,88,2830,Dr. Pérez,3,1,1,3,Pesimo,Sí,4,Completamente satisfecho
+1769558400,Consulta,38,130,390,Dr. Pérez,2,1,4,2,Mala,Sí,3,Completamente satisfecho
+1724371200,Desparasitación,29,24,2064,Dr. Ramírez,3,3,2,5,Pesimo,Sí,3,Completamente satisfecho
+1729728000,Cirugía,35,58,4716,Dr. Pérez,5,5,5,5,Regular,No,2,Completamente satisfecho
+1769990400,Vacunación,22,153,188,Dr. Ramírez,4,3,1,2,Mala,No,5,Completamente satisfecho
+1710288000,Consulta,49,148,332,Dr. Pérez,4,2,4,3,Regular,Sí,4,Completamente satisfecho
+1711238400,Desparasitación,43,123,2793,Dr. Ramírez,3,1,4,3,Pesimo,No,1,Completamente satisfecho
+1784505600,Desparasitación,49,61,209,Dr. Gómez,2,2,3,1,Buena,Sí,2,Completamente satisfecho
+1775433600,Cirugía,51,139,952,Dr. Gómez,4,2,3,1,Regular,Sí,4,Completamente satisfecho
+1725494400,Consulta,17,73,721,Dr. Pérez,3,1,3,4,Pesima,No,4,Completamente satisfecho
+1726185600,Cirugía,22,175,4310,Dr. Pérez,4,1,5,3,Buena,Sí,1,Completamente satisfecho
+1762214400,Vacunación,51,98,1939,Dr. Ramírez,2,4,2,5,Buena,No,4,Completamente satisfecho
+1739836800,Cirugía,42,79,1139,Dr. Gómez,3,3,5,5,Buena,No,1,Completamente satisfecho
+1773446400,Consulta,40,152,607,Dr. Pérez,3,5,3,5,Pesimo,No,5,Completamente satisfecho
+1761955200,Consulta,55,109,3755,Dr. Gómez,5,5,5,2,Buena,No,5,Completamente satisfecho
+1726272000,Vacunación,51,41,2411,Dr. Pérez,1,2,1,2,Pesima,Sí,5,Completamente satisfecho
+1754179200,Vacunación,11,53,4698,Dr. Ramírez,5,1,2,2,Pesimo,Sí,4,Completamente satisfecho
+1781740800,Cirugía,21,133,2142,Dr. Pérez,2,1,3,2,Mala,Sí,5,Completamente satisfecho
+1752537600,Cirugía,39,111,2850,Dr. Gómez,3,4,5,1,Pesimo,Sí,2,Completamente satisfecho
+1786233600,Desparasitación,20,139,938,Dr. Pérez,5,3,4,5,Pesima,Sí,4,Completamente satisfecho
+1765670400,Desparasitación,6,118,1104,Dr. Gómez,2,4,1,1,Regular,Sí,5,Completamente satisfecho
+1714262400,Desparasitación,55,40,1828,Dr. Pérez,4,1,4,2,Mala,No,5,Completamente satisfecho
+1726358400,Desparasitación,40,20,3702,Dr. Pérez,4,5,3,1,Mala,No,3,Completamente satisfecho
+1757808000,Cirugía,44,99,985,Dr. Ramírez,4,3,2,3,Pesima,No,5,Completamente satisfecho
+1735862400,Cirugía,59,117,1579,Dr. Pérez,2,4,5,2,Pesima,No,4,Completamente satisfecho
+1737158400,Consulta,39,48,695,Dr. Gómez,5,4,2,5,Regular,Sí,3,Completamente satisfecho
+1752278400,Desparasitación,57,170,4586,Dr. Pérez,1,5,3,2,Buena,No,1,Completamente satisfecho
+1705622400,Desparasitación,29,13,419,Dr. Pérez,5,4,4,3,Buena,Sí,5,Completamente satisfecho
+1725580800,Cirugía,24,81,1221,Dr. Gómez,5,1,4,3,Mala,No,1,Completamente satisfecho
+1721779200,Consulta,53,67,753,Dr. Ramírez,3,5,5,5,Pesimo,Sí,4,Completamente satisfecho
+1771200000,Desparasitación,46,74,2884,Dr. Pérez,5,3,3,2,Pesimo,Sí,1,Completamente satisfecho
+1754006400,Vacunación,28,57,1850,Dr. Ramírez,4,3,5,4,Mala,No,2,Completamente satisfecho
+1724025600,Desparasitación,42,131,681,Dr. Gómez,1,5,5,3,Mala,Sí,5,Completamente satisfecho
+1722556800,Cirugía,27,21,2709,Dr. Ramírez,3,3,2,5,Mala,Sí,4,Completamente satisfecho
+1787011200,Consulta,34,43,2274,Dr. Ramírez,4,2,3,2,Mala,Sí,1,Completamente satisfecho
+1742256000,Consulta,33,10,3858,Dr. Gómez,3,3,5,2,Pesimo,No,4,Completamente satisfecho
+1740009600,Consulta,27,132,985,Dr. Pérez,3,5,1,4,Pesimo,No,1,Completamente satisfecho
+1774483200,Consulta,39,143,4860,Dr. Ramírez,2,1,1,2,Mala,No,4,Completamente satisfecho
+1729987200,Consulta,40,132,2340,Dr. Ramírez,4,2,2,1,Buena,No,2,Completamente satisfecho
+1729641600,Vacunación,55,128,393,Dr. Pérez,2,1,5,3,Regular,Sí,2,Completamente satisfecho
+1747958400,Desparasitación,22,56,1349,Dr. Ramírez,2,5,3,3,Pesimo,No,5,Completamente satisfecho
+1737244800,Consulta,5,179,3040,Dr. Gómez,3,4,4,4,Regular,Sí,2,Completamente satisfecho
+1789344000,Desparasitación,53,144,1428,Dr. Gómez,4,5,4,5,Pesima,No,5,Completamente satisfecho
+1787356800,Cirugía,22,96,2498,Dr. Ramírez,4,1,3,1,Pesima,Sí,3,Completamente satisfecho
+1719532800,Cirugía,10,13,1333,Dr. Ramírez,1,5,2,5,Regular,No,5,Completamente satisfecho
+1742688000,Vacunación,31,130,1427,Dr. Pérez,4,2,4,3,Pesima,Sí,2,Completamente satisfecho
+1730851200,Desparasitación,10,81,2725,Dr. Ramírez,5,1,3,1,Regular,No,4,Completamente satisfecho
+1747612800,Cirugía,16,123,1635,Dr. Pérez,4,5,4,3,Pesima,Sí,5,Completamente satisfecho
+1737849600,Cirugía,41,30,1871,Dr. Gómez,4,5,1,1,Pesimo,No,1,Completamente satisfecho
+1717372800,Consulta,35,77,4551,Dr. Pérez,4,4,2,4,Buena,No,3,Completamente satisfecho
